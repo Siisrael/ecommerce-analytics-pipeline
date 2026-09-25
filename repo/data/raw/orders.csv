@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,status,payment_method,shipping_cost,campaign_id
+1,244,2025-01-09,Cancelado,Billetera virtual,2.5,11
+2,34,2026-04-15,Cancelado,Efectivo (retiro en local),0.0,8
+3,183,2024-11-13,Reembolsado,Transferencia,4.99,17
+4,215,2026-05-14,Completado,Efectivo (retiro en local),0.0,1
+5,185,2026-02-15,Completado,Transferencia,0.0,
+6,121,2026-06-26,Pendiente,Tarjeta de débito,4.99,11
+7,564,2025-04-28,Pendiente,Tarjeta de crédito,0.0,8
+8,491,2025-09-29,Pendiente,Tarjeta de crédito,7.99,2
+9,324,2025-12-21,Cancelado,Tarjeta de crédito,0.0,16
+10,399,2024-12-09,Cancelado,Tarjeta de crédito,0.0,8
+11,244,2025-06-16,Completado,Transferencia,0.0,14
+12,513,2024-11-05,Completado,Transferencia,2.5,14
+13,46,2026-05-05,Pendiente,Efectivo (retiro en local),0.0,8
+14,546,2025-04-23,Pendiente,Billetera virtual,7.99,1
+15,278,2024-10-23,Reembolsado,Transferencia,4.99,5
+16,109,2025-06-28,Completado,Tarjeta de crédito,2.5,10
+17,203,2026-06-01,Pendiente,Efectivo (retiro en local),0.0,12
+18,339,2025-04-29,Completado,Billetera virtual,0.0,
+19,110,2025-04-30,Cancelado,Tarjeta de crédito,0.0,15
+20,446,2026-01-02,Pendiente,Transferencia,4.99,5
+21,475,2025-04-30,Cancelado,Tarjeta de crédito,2.5,3
+22,143,2026-01-16,Pendiente,Tarjeta de crédito,0.0,2
+23,353,2024-08-31,Cancelado,Tarjeta de crédito,4.99,14
+24,605,2025-07-09,Reembolsado,Transferencia,7.99,10
+25,17,2024-10-26,Reembolsado,Billetera virtual,7.99,11
+26,435,2025-12-18,Pendiente,Billetera virtual,2.5,9
+27,276,2025-07-26,Cancelado,Efectivo (retiro en local),0.0,
+28,116,2026-01-16,Completado,Tarjeta de crédito,0.0,14
+29,352,2025-11-30,Pendiente,Tarjeta de crédito,2.5,12
+30,485,2026-01-14,Completado,Efectivo (retiro en local),0.0,7
+31,606,2026-06-27,Completado,Billetera virtual,0.0,3
+32,610,2024-11-05,Pendiente,Billetera virtual,2.5,10
+33,271,2024-09-27,Completado,Tarjeta de débito,2.5,10
+34,460,2025-06-27,Reembolsado,Transferencia,4.99,
+35,280,2025-05-10,Completado,Transferencia,0.0,6
+36,457,2025-05-26,Completado,Transferencia,0.0,4
+37,609,2026-04-04,Pendiente,Tarjeta de débito,4.99,18
+38,134,2025-06-20,Reembolsado,Efectivo (retiro en local),0.0,1
+39,438,2026-05-10,Reembolsado,Transferencia,0.0,3
+40,62,2025-02-20,Pendiente,Transferencia,0.0,12
+41,183,2026-03-23,Completado,Tarjeta de crédito,0.0,15
+42,20,2025-10-23,Completado,Tarjeta de crédito,0.0,10
+43,72,2025-12-06,Completado,Tarjeta de crédito,2.5,13
+44,311,2025-07-16,Completado,Tarjeta de crédito,0.0,15
+45,400,2024-09-18,Reembolsado,Transferencia,2.5,
+46,348,2024-07-28,Completado,Tarjeta de crédito,2.5,1
+47,239,2024-08-13,Completado,Tarjeta de débito,2.5,18
+48,134,2024-06-15,Completado,Tarjeta de crédito,0.0,1
+49,590,2025-12-11,Completado,Transferencia,0.0,
+50,17,2025-10-12,Completado,Tarjeta de crédito,0.0,3
+51,488,2026-05-10,Completado,Tarjeta de débito,0.0,18
+52,91,2026-03-05,Pendiente,Transferencia,0.0,11
+53,543,2024-09-06,Cancelado,Transferencia,4.99,14
+54,153,2026-05-03,Pendiente,Billetera virtual,2.5,3
+55,258,2025-05-09,Cancelado,Billetera virtual,0.0,1
+56,30,2025-10-10,Cancelado,Tarjeta de crédito,0.0,5
+57,423,2024-12-22,Completado,Tarjeta de débito,0.0,13
+58,583,2024-08-01,Completado,Tarjeta de débito,0.0,12
+59,222,2026-01-27,Completado,Billetera virtual,0.0,
+60,482,2026-06-22,Pendiente,Efectivo (retiro en local),0.0,11
+61,93,2024-06-17,Completado,Transferencia,0.0,12
+62,304,2025-08-11,Pendiente,Transferencia,7.99,17
+63,375,2025-06-11,Completado,Efectivo (retiro en local),7.99,
+64,65,2025-06-17,Completado,Billetera virtual,2.5,14
+65,296,2024-08-18,Completado,Tarjeta de débito,0.0,1
+66,555,2024-10-14,Completado,Transferencia,2.5,12
+67,238,2025-11-15,Reembolsado,Transferencia,2.5,16
+68,496,2025-06-16,Completado,Tarjeta de crédito,0.0,9
+69,158,2024-11-13,Completado,Tarjeta de crédito,0.0,8
+70,125,2024-06-26,Completado,Billetera virtual,0.0,12
+71,588,2026-04-14,Completado,Efectivo (retiro en local),7.99,12
+72,412,2026-02-23,Pendiente,Tarjeta de débito,2.5,9
+73,200,2026-01-19,Cancelado,Tarjeta de débito,0.0,4
+74,90,2025-11-07,Completado,Tarjeta de débito,2.5,8
+75,90,2025-01-07,Reembolsado,Billetera virtual,7.99,11
+76,280,2025-07-30,Completado,Efectivo (retiro en local),2.5,16
+77,310,2026-01-21,Completado,Billetera virtual,4.99,12
+78,295,2025-08-02,Completado,Billetera virtual,7.99,18
+79,371,2026-01-17,Completado,Efectivo (retiro en local),2.5,6
+80,55,2025-03-07,Completado,Billetera virtual,7.99,9
+81,79,2025-11-09,Completado,Tarjeta de débito,0.0,17
+82,372,2024-09-07,Cancelado,Efectivo (retiro en local),0.0,2
+83,497,2025-07-27,Completado,Tarjeta de débito,0.0,4
+84,79,2024-09-28,Pendiente,Tarjeta de débito,0.0,13
+85,122,2025-01-14,Completado,Tarjeta de débito,7.99,5
+86,44,2024-12-19,Completado,Tarjeta de crédito,7.99,14
+87,360,2024-06-30,Completado,Tarjeta de débito,7.99,6
+88,551,2024-06-05,Reembolsado,Tarjeta de crédito,0.0,14
+89,140,2025-10-21,Pendiente,Transferencia,7.99,7
+90,439,2024-12-11,Pendiente,Tarjeta de crédito,2.5,9
+91,88,2024-10-01,Completado,Billetera virtual,2.5,16
+92,204,2025-05-13,Completado,Efectivo (retiro en local),2.5,1
+93,410,2025-05-31,Completado,Efectivo (retiro en local),2.5,13
+94,184,2025-06-27,Cancelado,Transferencia,0.0,7
+95,33,2025-08-15,Completado,Billetera virtual,2.5,8
+96,113,2026-01-04,Reembolsado,Billetera virtual,7.99,15
+97,390,2024-09-08,Completado,Transferencia,0.0,11
+98,118,2025-05-12,Completado,Tarjeta de crédito,4.99,8
+99,432,2025-03-01,Completado,Billetera virtual,4.99,
+100,515,2026-04-15,Completado,Tarjeta de débito,4.99,7
+101,588,2025-07-17,Pendiente,Tarjeta de débito,4.99,
+102,412,2025-02-13,Cancelado,Efectivo (retiro en local),2.5,15
+103,479,2025-03-02,Reembolsado,Efectivo (retiro en local),4.99,11
+104,245,2024-09-25,Completado,Tarjeta de débito,0.0,5
+105,265,2025-03-12,Reembolsado,Efectivo (retiro en local),0.0,18
+106,86,2025-04-18,Cancelado,Transferencia,0.0,11
+107,595,2025-11-20,Completado,Billetera virtual,0.0,5
+108,261,2026-01-25,Completado,Billetera virtual,4.99,9
+109,253,2025-03-12,Pendiente,Tarjeta de débito,0.0,13
+110,394,2025-04-13,Reembolsado,Transferencia,7.99,1
+111,483,2026-06-25,Completado,Transferencia,7.99,11
+112,361,2025-08-05,Cancelado,Efectivo (retiro en local),7.99,8
+113,114,2024-11-09,Completado,Efectivo (retiro en local),7.99,18
+114,137,2025-02-22,Completado,Efectivo (retiro en local),0.0,7
+115,585,2025-01-16,Completado,Tarjeta de crédito,4.99,18
+116,581,2024-09-29,Completado,Efectivo (retiro en local),2.5,12
+117,221,2025-03-17,Reembolsado,Tarjeta de débito,2.5,3
+118,218,2026-06-01,Completado,Billetera virtual,7.99,17
+119,47,2024-06-06,Completado,Efectivo (retiro en local),4.99,10
+120,505,2025-05-14,Completado,Tarjeta de débito,0.0,8
+121,271,2025-11-12,Completado,Billetera virtual,0.0,8
+122,479,2025-08-21,Completado,Billetera virtual,0.0,12
+123,291,2024-12-02,Pendiente,Tarjeta de débito,7.99,14
+124,79,2025-02-08,Pendiente,Billetera virtual,7.99,1
+125,472,2026-05-26,Reembolsado,Billetera virtual,2.5,18
+126,290,2025-04-27,Pendiente,Tarjeta de crédito,7.99,
+127,503,2025-08-17,Reembolsado,Transferencia,7.99,17
+128,275,2025-12-29,Cancelado,Billetera virtual,0.0,11
+129,159,2025-10-21,Cancelado,Efectivo (retiro en local),0.0,7
+130,47,2025-11-08,Completado,Efectivo (retiro en local),2.5,11
+131,600,2024-08-23,Pendiente,Efectivo (retiro en local),0.0,1
+132,272,2025-05-16,Pendiente,Tarjeta de débito,0.0,3
+133,109,2025-08-19,Cancelado,Tarjeta de crédito,0.0,10
+134,472,2026-05-10,Completado,Efectivo (retiro en local),7.99,13
+135,17,2026-05-14,Completado,Tarjeta de crédito,0.0,13
+136,475,2024-10-30,Completado,Billetera virtual,0.0,1
+137,461,2026-01-21,Completado,Tarjeta de débito,0.0,16
+138,606,2026-06-13,Cancelado,Billetera virtual,0.0,
+139,295,2026-06-14,Completado,Billetera virtual,0.0,12
+140,301,2026-06-11,Reembolsado,Billetera virtual,2.5,18
+141,506,2025-04-07,Completado,Tarjeta de débito,4.99,
+142,163,2024-11-26,Pendiente,Efectivo (retiro en local),0.0,
+143,48,2025-12-23,Completado,Tarjeta de débito,7.99,14
+144,211,2025-06-06,Completado,Transferencia,7.99,12
+145,486,2025-05-16,Completado,Efectivo (retiro en local),0.0,
+146,142,2025-08-14,Completado,Billetera virtual,2.5,14
+147,169,2025-08-19,Completado,Billetera virtual,0.0,18
+148,322,2025-05-19,Completado,Transferencia,4.99,17
+149,415,2024-12-20,Completado,Tarjeta de crédito,0.0,15
+150,164,2024-06-24,Completado,Efectivo (retiro en local),4.99,6
+151,382,2025-02-21,Reembolsado,Efectivo (retiro en local),0.0,1
+152,6,2025-09-08,Completado,Tarjeta de débito,7.99,16
+153,370,2025-09-09,Completado,Tarjeta de débito,7.99,11
+154,599,2025-10-24,Reembolsado,Billetera virtual,2.5,13
+155,419,2024-09-21,Completado,Transferencia,4.99,7
+156,313,2025-06-19,Completado,Transferencia,2.5,
+157,221,2024-12-05,Pendiente,Billetera virtual,0.0,1
+158,460,2024-10-31,Pendiente,Transferencia,0.0,17
+159,127,2026-03-22,Cancelado,Tarjeta de crédito,0.0,17
+160,594,2025-08-29,Completado,Efectivo (retiro en local),4.99,8
+161,102,2025-12-07,Completado,Transferencia,0.0,3
+162,60,2025-04-02,Completado,Tarjeta de crédito,0.0,2
+163,476,2025-12-19,Completado,Tarjeta de crédito,2.5,
+164,146,2025-06-18,Cancelado,Tarjeta de débito,0.0,15
+165,257,2026-04-28,Completado,Transferencia,7.99,4
+166,326,2026-04-30,Completado,Transferencia,7.99,12
+167,3,2026-02-14,Completado,Tarjeta de crédito,0.0,3
+168,386,2026-02-06,Completado,Billetera virtual,0.0,
+169,456,2024-06-10,Completado,Tarjeta de crédito,0.0,9
+170,506,2025-06-07,Completado,Transferencia,2.5,17
+171,506,2024-11-22,Cancelado,Tarjeta de débito,7.99,16
+172,465,2024-06-03,Completado,Tarjeta de crédito,0.0,11
+173,324,2024-06-06,Completado,Tarjeta de débito,0.0,
+174,607,2026-03-04,Completado,Transferencia,0.0,1
+175,35,2025-06-22,Completado,Tarjeta de crédito,0.0,
+176,421,2025-01-25,Pendiente,Efectivo (retiro en local),7.99,17
+177,439,2026-02-26,Cancelado,Tarjeta de crédito,0.0,18
+178,111,2024-09-14,Completado,Efectivo (retiro en local),7.99,
+179,599,2025-08-21,Cancelado,Transferencia,0.0,16
+180,207,2024-08-10,Completado,Tarjeta de débito,7.99,13
+181,4,2026-03-17,Completado,Tarjeta de débito,2.5,17
+182,189,2024-06-07,Completado,Tarjeta de crédito,0.0,9
+183,451,2024-12-17,Reembolsado,Efectivo (retiro en local),0.0,
+184,269,2026-06-07,Completado,Transferencia,4.99,5
+185,141,2025-06-24,Reembolsado,Tarjeta de crédito,0.0,4
+186,195,2024-12-14,Cancelado,Billetera virtual,7.99,9
+187,336,2025-02-09,Completado,Transferencia,0.0,14
+188,495,2026-06-03,Completado,Billetera virtual,0.0,16
+189,387,2026-01-07,Completado,Transferencia,0.0,15
+190,532,2025-05-27,Completado,Efectivo (retiro en local),0.0,12
+191,85,2025-03-29,Pendiente,Efectivo (retiro en local),4.99,15
+192,74,2025-06-04,Completado,Efectivo (retiro en local),0.0,8
+193,142,2026-06-04,Reembolsado,Efectivo (retiro en local),0.0,
+194,215,2025-09-29,Completado,Efectivo (retiro en local),4.99,15
+195,31,2025-06-19,Completado,Efectivo (retiro en local),0.0,7
+196,430,2025-08-10,Reembolsado,Billetera virtual,7.99,15
+197,401,2024-08-05,Cancelado,Billetera virtual,0.0,13
+198,312,2024-09-04,Completado,Tarjeta de crédito,7.99,15
+199,396,2025-03-18,Completado,Tarjeta de débito,0.0,14
+200,12,2024-11-23,Completado,Billetera virtual,2.5,3
+201,71,2025-07-04,Pendiente,Tarjeta de débito,0.0,4
+202,8,2024-10-25,Completado,Tarjeta de crédito,2.5,17
+203,295,2026-03-24,Completado,Transferencia,7.99,7
+204,45,2025-02-01,Pendiente,Tarjeta de débito,0.0,18
+205,169,2025-02-14,Completado,Efectivo (retiro en local),0.0,12
+206,409,2024-12-17,Completado,Tarjeta de crédito,0.0,6
+207,476,2025-10-10,Completado,Tarjeta de crédito,0.0,15
+208,175,2024-06-19,Cancelado,Tarjeta de crédito,0.0,7
+209,12,2026-04-25,Completado,Tarjeta de débito,2.5,9
+210,49,2026-03-13,Pendiente,Efectivo (retiro en local),7.99,1
+211,17,2025-08-06,Completado,Tarjeta de crédito,0.0,4
+212,172,2026-06-12,Completado,Tarjeta de crédito,2.5,14
+213,195,2026-03-02,Completado,Efectivo (retiro en local),2.5,11
+214,332,2024-11-25,Completado,Billetera virtual,7.99,8
+215,68,2026-04-05,Pendiente,Transferencia,7.99,17
+216,583,2024-11-23,Completado,Tarjeta de crédito,4.99,8
+217,600,2025-09-03,Completado,Efectivo (retiro en local),7.99,5
+218,210,2026-03-20,Completado,Tarjeta de débito,7.99,17
+219,235,2026-06-21,Completado,Transferencia,0.0,4
+220,198,2024-07-24,Reembolsado,Tarjeta de débito,0.0,2
+221,479,2025-04-15,Completado,Tarjeta de débito,0.0,11
+222,207,2025-03-06,Pendiente,Billetera virtual,0.0,9
+223,86,2025-04-04,Cancelado,Efectivo (retiro en local),0.0,15
+224,493,2024-08-13,Completado,Tarjeta de débito,7.99,13
+225,426,2025-07-10,Reembolsado,Transferencia,2.5,13
+226,357,2025-11-04,Reembolsado,Billetera virtual,7.99,9
+227,249,2025-10-03,Completado,Transferencia,7.99,
+228,593,2026-04-10,Pendiente,Tarjeta de débito,0.0,1
+229,601,2024-08-22,Cancelado,Tarjeta de débito,2.5,3
+230,276,2025-01-01,Reembolsado,Billetera virtual,7.99,7
+231,428,2025-11-20,Completado,Transferencia,7.99,11
+232,515,2024-09-21,Completado,Efectivo (retiro en local),0.0,3
+233,112,2026-03-14,Completado,Tarjeta de crédito,0.0,
+234,8,2026-04-13,Cancelado,Tarjeta de crédito,0.0,4
+235,409,2025-06-23,Cancelado,Tarjeta de crédito,0.0,8
+236,412,2026-06-13,Pendiente,Tarjeta de débito,0.0,17
+237,255,2025-06-13,Completado,Efectivo (retiro en local),7.99,13
+238,84,2025-05-23,Completado,Billetera virtual,7.99,1
+239,457,2024-09-27,Completado,Efectivo (retiro en local),0.0,5
+240,335,2025-06-28,Pendiente,Transferencia,0.0,6
+241,391,2026-04-01,Reembolsado,Efectivo (retiro en local),2.5,5
+242,377,2024-10-09,Pendiente,Transferencia,2.5,16
+243,195,2025-07-03,Completado,Transferencia,0.0,2
+244,150,2026-04-13,Pendiente,Tarjeta de crédito,4.99,8
+245,386,2024-07-31,Pendiente,Transferencia,0.0,4
+246,402,2025-04-03,Pendiente,Tarjeta de débito,0.0,15
+247,562,2025-07-09,Completado,Tarjeta de débito,0.0,16
+248,168,2026-01-13,Completado,Billetera virtual,7.99,13
+249,152,2025-06-21,Completado,Tarjeta de débito,0.0,1
+250,414,2025-02-06,Completado,Tarjeta de crédito,0.0,10
+251,123,2024-09-28,Completado,Tarjeta de crédito,2.5,18
+252,66,2026-06-01,Pendiente,Efectivo (retiro en local),0.0,10
+253,599,2025-12-04,Reembolsado,Tarjeta de crédito,0.0,1
+254,212,2026-03-31,Completado,Tarjeta de crédito,4.99,6
+255,373,2025-12-10,Completado,Billetera virtual,7.99,
+256,503,2026-05-13,Completado,Efectivo (retiro en local),0.0,17
+257,433,2024-08-16,Cancelado,Transferencia,0.0,10
+258,147,2025-12-01,Completado,Tarjeta de crédito,7.99,6
+259,445,2025-06-24,Completado,Efectivo (retiro en local),0.0,
+260,150,2025-01-18,Completado,Tarjeta de crédito,0.0,10
+261,502,2024-09-06,Cancelado,Transferencia,7.99,16
+262,545,2025-12-17,Cancelado,Billetera virtual,2.5,16
+263,274,2024-07-25,Reembolsado,Transferencia,7.99,5
+264,246,2024-09-04,Completado,Efectivo (retiro en local),0.0,
+265,195,2024-06-08,Reembolsado,Billetera virtual,7.99,15
+266,433,2025-10-21,Completado,Tarjeta de débito,0.0,1
+267,583,2025-07-09,Completado,Transferencia,7.99,14
+268,7,2026-02-21,Completado,Transferencia,0.0,9
+269,191,2025-07-17,Completado,Tarjeta de crédito,0.0,11
+270,374,2025-08-13,Completado,Efectivo (retiro en local),0.0,1
+271,405,2025-08-06,Reembolsado,Transferencia,0.0,3
+272,333,2025-07-15,Cancelado,Billetera virtual,0.0,1
+273,513,2024-06-14,Pendiente,Tarjeta de débito,0.0,8
+274,192,2025-02-11,Completado,Tarjeta de crédito,0.0,5
+275,150,2025-08-11,Completado,Efectivo (retiro en local),0.0,
+276,237,2025-01-14,Completado,Billetera virtual,2.5,
+277,330,2025-01-04,Completado,Billetera virtual,0.0,17
+278,504,2025-06-08,Completado,Transferencia,0.0,1
+279,371,2026-01-25,Cancelado,Efectivo (retiro en local),0.0,5
+280,196,2024-12-15,Reembolsado,Billetera virtual,0.0,
+281,430,2025-11-19,Cancelado,Tarjeta de crédito,0.0,17
+282,408,2025-10-20,Reembolsado,Efectivo (retiro en local),4.99,
+283,586,2025-01-10,Cancelado,Tarjeta de crédito,4.99,12
+284,285,2024-10-15,Completado,Tarjeta de crédito,7.99,5
+285,563,2025-02-26,Reembolsado,Tarjeta de débito,2.5,17
+286,264,2026-03-04,Reembolsado,Efectivo (retiro en local),4.99,4
+287,185,2026-03-26,Completado,Tarjeta de crédito,0.0,3
+288,466,2026-03-23,Completado,Tarjeta de crédito,7.99,14
+289,14,2026-03-22,Completado,Tarjeta de débito,0.0,
+290,347,2026-05-26,Completado,Tarjeta de débito,0.0,13
+291,426,2024-10-24,Completado,Tarjeta de débito,0.0,5
+292,289,2025-06-01,Completado,Efectivo (retiro en local),0.0,1
+293,309,2026-03-02,Pendiente,Transferencia,0.0,1
+294,151,2025-04-24,Completado,Billetera virtual,2.5,13
+295,286,2024-10-27,Completado,Transferencia,0.0,3
+296,563,2025-10-23,Cancelado,Efectivo (retiro en local),2.5,15
+297,486,2024-10-15,Completado,Tarjeta de crédito,0.0,9
+298,230,2024-07-28,Reembolsado,Tarjeta de débito,0.0,2
+299,427,2024-11-01,Pendiente,Tarjeta de débito,2.5,2
+300,12,2025-07-11,Pendiente,Billetera virtual,7.99,12
+301,225,2025-07-07,Completado,Efectivo (retiro en local),4.99,
+302,107,2024-08-19,Completado,Efectivo (retiro en local),0.0,
+303,317,2024-12-10,Cancelado,Tarjeta de débito,7.99,
+304,323,2024-09-04,Completado,Tarjeta de crédito,0.0,7
+305,392,2025-10-02,Cancelado,Tarjeta de crédito,0.0,3
+306,238,2025-01-07,Pendiente,Tarjeta de débito,7.99,3
+307,581,2026-03-05,Completado,Tarjeta de crédito,0.0,2
+308,591,2025-06-08,Completado,Tarjeta de crédito,0.0,3
+309,525,2026-03-02,Completado,Transferencia,0.0,11
+310,75,2025-01-15,Completado,Billetera virtual,7.99,
+311,205,2025-07-17,Completado,Tarjeta de crédito,0.0,8
+312,390,2024-08-03,Pendiente,Transferencia,2.5,13
+313,181,2024-08-25,Completado,Tarjeta de crédito,0.0,10
+314,538,2025-01-06,Reembolsado,Transferencia,0.0,
+315,204,2025-05-24,Completado,Billetera virtual,2.5,15
+316,575,2026-02-02,Completado,Tarjeta de crédito,7.99,16
+317,4,2025-09-05,Pendiente,Tarjeta de débito,7.99,12
+318,315,2025-10-28,Pendiente,Tarjeta de crédito,7.99,13
+319,391,2025-03-19,Pendiente,Billetera virtual,7.99,7
+320,118,2024-12-18,Pendiente,Billetera virtual,0.0,9
+321,425,2026-04-21,Completado,Tarjeta de crédito,2.5,
+322,532,2026-06-30,Cancelado,Transferencia,0.0,3
+323,448,2025-01-23,Completado,Tarjeta de débito,4.99,1
+324,26,2026-06-22,Completado,Billetera virtual,7.99,18
+325,53,2025-03-09,Completado,Tarjeta de débito,7.99,
+326,503,2024-06-23,Completado,Tarjeta de crédito,2.5,18
+327,322,2026-03-11,Completado,Tarjeta de débito,0.0,7
+328,352,2025-05-22,Completado,Efectivo (retiro en local),4.99,15
+329,198,2026-02-11,Completado,Efectivo (retiro en local),0.0,14
+330,565,2026-03-30,Completado,Billetera virtual,7.99,13
+331,211,2026-06-10,Completado,Billetera virtual,2.5,11
+332,301,2026-02-09,Pendiente,Efectivo (retiro en local),0.0,10
+333,440,2024-12-08,Completado,Tarjeta de débito,0.0,4
+334,330,2025-01-25,Cancelado,Tarjeta de crédito,2.5,7
+335,511,2024-07-18,Completado,Billetera virtual,0.0,1
+336,413,2024-07-08,Cancelado,Efectivo (retiro en local),0.0,8
+337,426,2026-06-11,Completado,Transferencia,0.0,9
+338,49,2024-06-11,Completado,Tarjeta de crédito,0.0,11
+339,551,2024-06-06,Reembolsado,Tarjeta de crédito,0.0,
+340,389,2025-03-04,Reembolsado,Tarjeta de débito,0.0,16
+341,85,2025-05-28,Cancelado,Tarjeta de débito,7.99,18
+342,222,2025-09-23,Pendiente,Billetera virtual,0.0,13
+343,541,2025-11-09,Pendiente,Transferencia,0.0,12
+344,464,2026-02-26,Cancelado,Tarjeta de débito,2.5,4
+345,315,2026-01-13,Reembolsado,Tarjeta de crédito,0.0,12
+346,274,2024-06-30,Completado,Efectivo (retiro en local),2.5,9
+347,55,2025-08-26,Completado,Transferencia,0.0,
+348,255,2024-09-22,Completado,Tarjeta de crédito,0.0,
+349,356,2026-03-15,Completado,Efectivo (retiro en local),0.0,
+350,245,2024-11-22,Completado,Tarjeta de crédito,0.0,3
+351,175,2026-04-27,Pendiente,Tarjeta de crédito,4.99,9
+352,97,2024-09-11,Completado,Transferencia,2.5,13
+353,342,2025-11-13,Pendiente,Efectivo (retiro en local),2.5,1
+354,32,2025-02-06,Cancelado,Billetera virtual,0.0,4
+355,281,2026-03-04,Reembolsado,Efectivo (retiro en local),2.5,14
+356,196,2024-07-13,Cancelado,Efectivo (retiro en local),7.99,8
+357,167,2025-04-07,Completado,Transferencia,0.0,7
+358,608,2024-10-05,Completado,Billetera virtual,0.0,
+359,202,2025-08-17,Cancelado,Tarjeta de crédito,0.0,5
+360,396,2025-08-07,Completado,Tarjeta de crédito,0.0,7
+361,305,2026-01-02,Reembolsado,Billetera virtual,4.99,3
+362,144,2026-02-20,Completado,Tarjeta de débito,4.99,14
+363,531,2025-09-15,Pendiente,Tarjeta de crédito,0.0,
+364,599,2026-04-22,Cancelado,Tarjeta de crédito,7.99,4
+365,1,2024-11-04,Cancelado,Tarjeta de crédito,4.99,1
+366,125,2025-04-04,Completado,Billetera virtual,0.0,5
+367,103,2026-01-24,Completado,Transferencia,7.99,6
+368,311,2024-07-05,Reembolsado,Efectivo (retiro en local),2.5,
+369,400,2025-11-08,Completado,Tarjeta de débito,7.99,2
+370,70,2026-03-23,Completado,Billetera virtual,2.5,17
+371,595,2025-05-23,Cancelado,Efectivo (retiro en local),2.5,
+372,109,2025-10-25,Reembolsado,Billetera virtual,0.0,5
+373,39,2024-08-14,Completado,Transferencia,4.99,18
+374,461,2025-06-22,Completado,Efectivo (retiro en local),4.99,4
+375,166,2025-08-19,Pendiente,Efectivo (retiro en local),0.0,
+376,213,2026-01-06,Pendiente,Billetera virtual,4.99,9
+377,530,2025-04-02,Completado,Tarjeta de crédito,2.5,5
+378,297,2025-02-13,Completado,Transferencia,0.0,3
+379,114,2026-01-18,Completado,Transferencia,7.99,
+380,343,2024-07-31,Completado,Tarjeta de débito,4.99,8
+381,578,2026-02-15,Reembolsado,Tarjeta de crédito,0.0,
+382,234,2024-06-22,Completado,Tarjeta de crédito,0.0,15
+383,377,2025-05-27,Completado,Transferencia,2.5,
+384,16,2026-06-08,Completado,Tarjeta de crédito,0.0,
+385,251,2025-03-27,Completado,Efectivo (retiro en local),2.5,13
+386,557,2024-12-28,Completado,Transferencia,0.0,12
+387,421,2026-05-24,Cancelado,Billetera virtual,0.0,
+388,146,2024-07-07,Completado,Billetera virtual,7.99,12
+389,277,2025-03-12,Cancelado,Billetera virtual,0.0,
+390,392,2025-06-29,Completado,Tarjeta de crédito,0.0,4
+391,269,2026-01-27,Completado,Tarjeta de crédito,0.0,17
+392,391,2025-09-22,Reembolsado,Tarjeta de débito,0.0,
+393,13,2024-10-06,Completado,Efectivo (retiro en local),7.99,8
+394,570,2025-01-10,Completado,Tarjeta de crédito,4.99,
+395,507,2024-10-09,Completado,Tarjeta de débito,0.0,17
+396,189,2026-05-02,Cancelado,Billetera virtual,4.99,8
+397,266,2025-02-19,Completado,Transferencia,4.99,
+398,147,2024-06-26,Completado,Efectivo (retiro en local),0.0,8
+399,217,2025-04-17,Cancelado,Efectivo (retiro en local),4.99,9
+400,81,2024-08-19,Completado,Efectivo (retiro en local),4.99,16
+401,371,2025-01-23,Completado,Transferencia,7.99,1
+402,79,2025-06-06,Reembolsado,Billetera virtual,4.99,5
+403,507,2026-03-10,Pendiente,Tarjeta de débito,0.0,12
+404,568,2026-05-30,Completado,Tarjeta de crédito,0.0,
+405,122,2025-05-11,Pendiente,Transferencia,4.99,17
+406,604,2025-11-04,Completado,Tarjeta de débito,0.0,16
+407,394,2025-04-23,Pendiente,Tarjeta de débito,0.0,
+408,292,2024-11-17,Completado,Transferencia,0.0,13
+409,41,2025-12-05,Cancelado,Tarjeta de débito,0.0,13
+410,585,2025-08-11,Reembolsado,Billetera virtual,4.99,2
+411,228,2026-06-15,Completado,Transferencia,0.0,14
+412,534,2025-04-22,Completado,Efectivo (retiro en local),7.99,18
+413,601,2025-06-21,Pendiente,Tarjeta de débito,7.99,4
+414,220,2024-06-04,Completado,Tarjeta de crédito,2.5,15
+415,497,2025-10-15,Pendiente,Billetera virtual,4.99,9
+416,408,2026-05-23,Completado,Billetera virtual,2.5,17
+417,453,2025-08-10,Completado,Transferencia,0.0,6
+418,338,2024-10-11,Cancelado,Efectivo (retiro en local),0.0,
+419,235,2025-03-25,Pendiente,Tarjeta de débito,0.0,8
+420,290,2025-04-05,Completado,Tarjeta de débito,7.99,5
+421,387,2026-04-03,Completado,Tarjeta de débito,7.99,6
+422,426,2024-06-21,Completado,Efectivo (retiro en local),4.99,2
+423,320,2025-04-28,Completado,Efectivo (retiro en local),7.99,
+424,417,2025-12-27,Completado,Billetera virtual,0.0,15
+425,319,2025-05-07,Completado,Tarjeta de crédito,0.0,15
+426,485,2025-11-18,Reembolsado,Efectivo (retiro en local),0.0,
+427,330,2025-09-16,Reembolsado,Billetera virtual,4.99,15
+428,14,2024-11-13,Cancelado,Tarjeta de crédito,0.0,4
+429,302,2026-06-08,Reembolsado,Transferencia,4.99,8
+430,154,2025-09-25,Completado,Tarjeta de crédito,0.0,4
+431,609,2024-11-08,Completado,Transferencia,7.99,15
+432,437,2026-01-20,Reembolsado,Transferencia,0.0,17
+433,607,2026-02-10,Completado,Efectivo (retiro en local),7.99,13
+434,151,2024-10-25,Completado,Billetera virtual,0.0,8
+435,451,2025-08-10,Reembolsado,Billetera virtual,0.0,7
+436,124,2025-12-24,Completado,Transferencia,0.0,
+437,11,2024-12-18,Completado,Transferencia,4.99,4
+438,378,2025-02-15,Cancelado,Tarjeta de crédito,4.99,6
+439,408,2024-07-15,Reembolsado,Transferencia,0.0,18
+440,466,2025-10-16,Completado,Billetera virtual,7.99,18
+441,558,2025-03-12,Pendiente,Tarjeta de débito,7.99,17
+442,174,2026-01-22,Reembolsado,Transferencia,4.99,
+443,4,2025-04-15,Completado,Efectivo (retiro en local),0.0,1
+444,89,2024-12-08,Completado,Efectivo (retiro en local),7.99,
+445,196,2026-06-26,Completado,Transferencia,0.0,10
+446,303,2025-02-21,Reembolsado,Billetera virtual,0.0,
+447,296,2024-12-30,Completado,Efectivo (retiro en local),4.99,6
+448,479,2025-02-23,Completado,Tarjeta de crédito,4.99,18
+449,603,2024-07-05,Completado,Tarjeta de crédito,7.99,9
+450,345,2026-03-26,Completado,Tarjeta de débito,0.0,7
+451,468,2026-01-29,Cancelado,Billetera virtual,7.99,10
+452,276,2026-01-13,Completado,Efectivo (retiro en local),0.0,3
+453,145,2025-05-21,Completado,Billetera virtual,0.0,12
+454,177,2025-04-05,Completado,Tarjeta de crédito,0.0,5
+455,164,2025-05-19,Completado,Billetera virtual,4.99,10
+456,99,2025-07-02,Completado,Transferencia,0.0,10
+457,183,2025-01-27,Completado,Transferencia,0.0,14
+458,236,2024-10-20,Completado,Tarjeta de débito,0.0,4
+459,493,2024-07-06,Completado,Billetera virtual,0.0,3
+460,132,2026-01-10,Cancelado,Billetera virtual,7.99,12
+461,56,2025-04-07,Completado,Transferencia,7.99,18
+462,485,2026-05-31,Completado,Efectivo (retiro en local),0.0,1
+463,346,2026-05-26,Cancelado,Transferencia,0.0,14
+464,25,2025-12-08,Completado,Tarjeta de débito,0.0,9
+465,130,2026-06-15,Completado,Billetera virtual,2.5,6
+466,151,2026-02-14,Reembolsado,Tarjeta de crédito,2.5,14
+467,264,2026-06-09,Reembolsado,Tarjeta de crédito,2.5,1
+468,588,2025-09-28,Completado,Billetera virtual,0.0,3
+469,425,2026-04-04,Completado,Transferencia,0.0,12
+470,13,2025-05-18,Completado,Transferencia,0.0,12
+471,262,2025-07-18,Completado,Efectivo (retiro en local),0.0,18
+472,579,2025-08-16,Completado,Tarjeta de crédito,0.0,15
+473,183,2024-11-10,Pendiente,Billetera virtual,4.99,11
+474,546,2025-07-07,Completado,Billetera virtual,2.5,12
+475,101,2025-06-28,Cancelado,Billetera virtual,2.5,11
+476,419,2024-06-24,Completado,Efectivo (retiro en local),0.0,3
+477,205,2025-04-27,Completado,Transferencia,0.0,
+478,182,2025-09-16,Cancelado,Tarjeta de crédito,4.99,8
+479,417,2025-11-15,Completado,Billetera virtual,0.0,11
+480,41,2025-06-08,Completado,Efectivo (retiro en local),7.99,18
+481,249,2025-10-08,Completado,Transferencia,0.0,8
+482,267,2025-05-17,Completado,Billetera virtual,0.0,12
+483,380,2025-12-30,Completado,Transferencia,0.0,3
+484,598,2025-04-07,Completado,Efectivo (retiro en local),0.0,6
+485,514,2025-04-18,Cancelado,Transferencia,2.5,13
+486,67,2025-05-17,Completado,Transferencia,0.0,5
+487,584,2026-03-16,Completado,Efectivo (retiro en local),0.0,4
+488,58,2025-09-01,Cancelado,Efectivo (retiro en local),0.0,5
+489,94,2024-12-12,Reembolsado,Tarjeta de crédito,0.0,14
+490,202,2025-10-03,Completado,Billetera virtual,0.0,13
+491,596,2025-08-15,Pendiente,Tarjeta de crédito,7.99,12
+492,278,2025-10-18,Reembolsado,Tarjeta de débito,0.0,14
+493,522,2025-09-25,Completado,Tarjeta de débito,0.0,
+494,313,2025-04-24,Pendiente,Efectivo (retiro en local),2.5,1
+495,161,2025-04-30,Cancelado,Billetera virtual,7.99,17
+496,323,2025-09-04,Completado,Billetera virtual,4.99,10
+497,263,2025-03-29,Pendiente,Transferencia,0.0,8
+498,492,2026-06-09,Cancelado,Billetera virtual,0.0,10
+499,114,2025-09-27,Completado,Tarjeta de crédito,0.0,11
+500,336,2026-01-08,Cancelado,Transferencia,4.99,14
+501,457,2025-01-06,Completado,Transferencia,2.5,5
+502,542,2024-08-01,Cancelado,Transferencia,0.0,16
+503,526,2024-08-29,Cancelado,Billetera virtual,4.99,18
+504,156,2026-03-29,Completado,Tarjeta de crédito,0.0,18
+505,155,2025-02-21,Pendiente,Tarjeta de débito,4.99,8
+506,554,2025-05-23,Completado,Transferencia,0.0,5
+507,223,2025-05-30,Completado,Tarjeta de débito,2.5,1
+508,180,2025-11-01,Cancelado,Efectivo (retiro en local),0.0,3
+509,216,2024-09-01,Pendiente,Efectivo (retiro en local),0.0,13
+510,318,2024-08-06,Completado,Transferencia,0.0,
+511,482,2024-07-10,Completado,Efectivo (retiro en local),0.0,7
+512,113,2024-11-14,Completado,Billetera virtual,0.0,7
+513,48,2025-12-05,Completado,Efectivo (retiro en local),7.99,14
+514,68,2024-09-24,Completado,Billetera virtual,2.5,15
+515,585,2024-12-18,Completado,Tarjeta de débito,4.99,2
+516,108,2025-02-11,Completado,Transferencia,0.0,7
+517,594,2026-06-25,Pendiente,Tarjeta de crédito,7.99,10
+518,35,2025-01-30,Completado,Billetera virtual,0.0,
+519,191,2025-02-17,Completado,Billetera virtual,4.99,12
+520,270,2024-08-04,Pendiente,Transferencia,2.5,18
+521,469,2024-09-22,Completado,Efectivo (retiro en local),7.99,7
+522,517,2024-12-04,Completado,Efectivo (retiro en local),0.0,2
+523,544,2025-11-20,Completado,Efectivo (retiro en local),0.0,15
+524,232,2026-06-04,Completado,Efectivo (retiro en local),4.99,11
+525,480,2025-04-26,Completado,Transferencia,0.0,
+526,493,2024-11-12,Pendiente,Tarjeta de débito,2.5,3
+527,146,2026-04-20,Completado,Transferencia,0.0,18
+528,483,2025-01-24,Reembolsado,Billetera virtual,0.0,1
+529,106,2024-08-30,Reembolsado,Efectivo (retiro en local),4.99,9
+530,258,2026-03-18,Cancelado,Transferencia,2.5,6
+531,107,2026-05-27,Completado,Efectivo (retiro en local),4.99,16
+532,432,2025-07-09,Reembolsado,Tarjeta de crédito,0.0,18
+533,30,2026-06-17,Completado,Transferencia,0.0,9
+534,561,2026-03-26,Completado,Billetera virtual,0.0,3
+535,191,2025-06-27,Completado,Transferencia,7.99,13
+536,519,2026-05-19,Reembolsado,Efectivo (retiro en local),0.0,15
+537,332,2025-01-17,Completado,Tarjeta de crédito,0.0,15
+538,232,2025-08-25,Reembolsado,Tarjeta de débito,0.0,
+539,397,2025-02-23,Reembolsado,Transferencia,0.0,11
+540,99,2025-11-02,Reembolsado,Billetera virtual,4.99,8
+541,568,2025-01-16,Completado,Transferencia,4.99,
+542,489,2026-05-25,Completado,Tarjeta de crédito,7.99,9
+543,29,2026-06-01,Cancelado,Billetera virtual,2.5,2
+544,367,2026-01-23,Completado,Tarjeta de crédito,4.99,
+545,397,2025-07-23,Completado,Billetera virtual,0.0,8
+546,512,2024-09-01,Completado,Transferencia,2.5,4
+547,21,2026-02-11,Completado,Efectivo (retiro en local),0.0,9
+548,542,2024-06-13,Completado,Transferencia,2.5,7
+549,177,2024-12-11,Reembolsado,Efectivo (retiro en local),2.5,3
+550,605,2025-11-13,Completado,Tarjeta de crédito,2.5,4
+551,414,2024-07-13,Completado,Tarjeta de crédito,2.5,16
+552,329,2025-11-22,Cancelado,Efectivo (retiro en local),7.99,15
+553,330,2025-12-27,Completado,Efectivo (retiro en local),2.5,7
+554,49,2025-04-07,Completado,Tarjeta de débito,0.0,15
+555,537,2024-11-30,Cancelado,Transferencia,7.99,
+556,209,2025-10-21,Completado,Efectivo (retiro en local),7.99,17
+557,120,2025-03-25,Completado,Tarjeta de débito,7.99,8
+558,146,2026-02-04,Completado,Efectivo (retiro en local),7.99,6
+559,195,2025-10-13,Completado,Efectivo (retiro en local),0.0,18
+560,263,2026-04-29,Reembolsado,Billetera virtual,0.0,15
+561,37,2025-09-24,Completado,Tarjeta de crédito,0.0,5
+562,70,2025-02-03,Completado,Efectivo (retiro en local),0.0,12
+563,326,2024-07-15,Cancelado,Tarjeta de crédito,0.0,8
+564,518,2024-08-05,Completado,Tarjeta de débito,7.99,4
+565,147,2025-12-13,Completado,Tarjeta de crédito,0.0,
+566,4,2025-12-29,Completado,Billetera virtual,4.99,1
+567,396,2025-03-17,Reembolsado,Efectivo (retiro en local),2.5,12
+568,466,2025-12-02,Completado,Tarjeta de débito,0.0,7
+569,308,2024-10-26,Completado,Billetera virtual,2.5,15
+570,428,2025-09-15,Reembolsado,Billetera virtual,2.5,10
+571,419,2025-06-19,Reembolsado,Transferencia,0.0,10
+572,565,2024-11-08,Reembolsado,Billetera virtual,4.99,11
+573,160,2026-03-19,Completado,Efectivo (retiro en local),0.0,2
+574,9,2024-07-25,Completado,Tarjeta de crédito,0.0,9
+575,324,2026-01-19,Pendiente,Billetera virtual,2.5,8
+576,156,2024-11-15,Completado,Tarjeta de crédito,4.99,17
+577,100,2024-07-11,Completado,Billetera virtual,2.5,10
+578,88,2025-06-14,Completado,Tarjeta de débito,0.0,17
+579,86,2025-05-30,Cancelado,Billetera virtual,0.0,17
+580,444,2025-05-12,Completado,Transferencia,7.99,12
+581,11,2026-06-23,Cancelado,Tarjeta de crédito,0.0,10
+582,344,2025-06-11,Pendiente,Efectivo (retiro en local),2.5,11
+583,87,2026-04-14,Completado,Efectivo (retiro en local),0.0,
+584,243,2024-08-29,Pendiente,Tarjeta de crédito,0.0,
+585,58,2026-05-23,Completado,Tarjeta de débito,7.99,
+586,82,2025-07-02,Completado,Efectivo (retiro en local),0.0,13
+587,520,2024-06-07,Completado,Tarjeta de débito,0.0,6
+588,330,2025-01-20,Completado,Billetera virtual,7.99,16
+589,258,2025-03-16,Pendiente,Tarjeta de débito,0.0,
+590,62,2026-02-25,Pendiente,Billetera virtual,0.0,12
+591,371,2026-05-16,Reembolsado,Efectivo (retiro en local),7.99,
+592,413,2025-09-18,Pendiente,Billetera virtual,2.5,2
+593,391,2026-03-10,Completado,Billetera virtual,0.0,
+594,402,2024-11-10,Completado,Efectivo (retiro en local),0.0,5
+595,62,2025-05-28,Completado,Tarjeta de crédito,0.0,13
+596,133,2025-11-25,Completado,Transferencia,7.99,9
+597,253,2025-01-01,Completado,Tarjeta de débito,0.0,18
+598,256,2025-10-14,Cancelado,Billetera virtual,0.0,8
+599,373,2024-07-31,Completado,Tarjeta de débito,0.0,18
+600,495,2025-12-28,Completado,Transferencia,0.0,13
+601,200,2025-11-19,Pendiente,Efectivo (retiro en local),0.0,5
+602,152,2025-09-01,Reembolsado,Billetera virtual,4.99,3
+603,332,2025-07-11,Completado,Transferencia,4.99,
+604,105,2025-11-18,Completado,Tarjeta de débito,0.0,9
+605,406,2026-05-13,Completado,Efectivo (retiro en local),0.0,4
+606,239,2024-11-04,Pendiente,Tarjeta de débito,4.99,8
+607,42,2024-12-22,Cancelado,Tarjeta de crédito,0.0,5
+608,164,2024-12-24,Pendiente,Efectivo (retiro en local),0.0,8
+609,457,2026-02-08,Reembolsado,Efectivo (retiro en local),2.5,4
+610,306,2026-05-08,Reembolsado,Tarjeta de débito,4.99,7
+611,342,2024-12-29,Completado,Billetera virtual,7.99,8
+612,32,2026-02-25,Completado,Tarjeta de crédito,0.0,
+613,382,2024-08-17,Completado,Billetera virtual,7.99,
+614,488,2024-11-26,Completado,Tarjeta de crédito,0.0,5
+615,31,2024-07-09,Completado,Billetera virtual,2.5,11
+616,491,2024-12-25,Pendiente,Transferencia,0.0,6
+617,446,2025-12-25,Reembolsado,Billetera virtual,0.0,
+618,417,2024-11-26,Cancelado,Billetera virtual,0.0,12
+619,260,2024-10-19,Completado,Transferencia,7.99,12
+620,211,2026-05-11,Completado,Tarjeta de crédito,2.5,1
+621,405,2025-11-18,Reembolsado,Billetera virtual,0.0,16
+622,314,2025-02-03,Pendiente,Billetera virtual,0.0,4
+623,413,2024-06-11,Reembolsado,Efectivo (retiro en local),0.0,8
+624,433,2026-05-07,Cancelado,Efectivo (retiro en local),0.0,13
+625,89,2025-09-30,Completado,Efectivo (retiro en local),0.0,
+626,481,2024-07-06,Completado,Transferencia,4.99,12
+627,29,2025-11-01,Completado,Tarjeta de crédito,4.99,3
+628,167,2024-07-11,Completado,Efectivo (retiro en local),0.0,11
+629,79,2024-12-21,Completado,Billetera virtual,0.0,
+630,119,2024-09-12,Completado,Tarjeta de débito,0.0,17
+631,90,2025-02-25,Reembolsado,Transferencia,2.5,10
+632,137,2026-05-20,Completado,Tarjeta de crédito,0.0,
+633,220,2024-09-10,Completado,Billetera virtual,4.99,18
+634,371,2025-01-17,Pendiente,Transferencia,2.5,
+635,522,2025-07-22,Reembolsado,Tarjeta de débito,0.0,17
+636,482,2025-11-06,Completado,Billetera virtual,7.99,16
+637,296,2026-01-30,Cancelado,Tarjeta de débito,0.0,8
+638,531,2026-04-24,Completado,Transferencia,0.0,17
+639,474,2026-01-17,Cancelado,Tarjeta de débito,0.0,7
+640,402,2025-10-09,Reembolsado,Transferencia,4.99,12
+641,502,2026-01-31,Completado,Billetera virtual,2.5,10
+642,562,2025-12-01,Completado,Tarjeta de débito,0.0,11
+643,284,2025-03-19,Completado,Tarjeta de débito,0.0,5
+644,94,2026-01-06,Reembolsado,Efectivo (retiro en local),0.0,13
+645,471,2026-02-15,Completado,Tarjeta de débito,0.0,6
+646,446,2026-01-15,Pendiente,Efectivo (retiro en local),2.5,12
+647,394,2026-02-20,Pendiente,Billetera virtual,0.0,15
+648,398,2025-08-27,Cancelado,Tarjeta de débito,0.0,2
+649,414,2024-12-30,Completado,Transferencia,0.0,10
+650,67,2025-09-07,Reembolsado,Tarjeta de crédito,2.5,16
+651,267,2025-10-04,Completado,Tarjeta de débito,0.0,16
+652,301,2024-10-24,Pendiente,Billetera virtual,0.0,3
+653,54,2026-01-08,Reembolsado,Tarjeta de débito,0.0,15
+654,192,2025-02-07,Pendiente,Tarjeta de crédito,0.0,3
+655,248,2026-02-14,Pendiente,Transferencia,4.99,6
+656,295,2025-09-15,Cancelado,Billetera virtual,7.99,10
+657,377,2025-04-02,Completado,Efectivo (retiro en local),2.5,10
+658,310,2025-07-11,Completado,Tarjeta de débito,0.0,5
+659,104,2025-03-30,Completado,Tarjeta de crédito,0.0,12
+660,519,2024-11-17,Completado,Tarjeta de crédito,0.0,15
+661,472,2025-05-22,Cancelado,Transferencia,0.0,9
+662,500,2025-08-18,Pendiente,Efectivo (retiro en local),0.0,15
+663,311,2024-06-13,Completado,Tarjeta de débito,2.5,16
+664,216,2024-06-01,Completado,Tarjeta de débito,0.0,6
+665,265,2026-01-12,Cancelado,Efectivo (retiro en local),7.99,8
+666,279,2025-05-03,Cancelado,Transferencia,2.5,10
+667,264,2024-09-18,Pendiente,Tarjeta de débito,4.99,5
+668,410,2025-08-04,Cancelado,Transferencia,0.0,
+669,59,2025-08-21,Completado,Billetera virtual,0.0,11
+670,241,2025-03-21,Completado,Efectivo (retiro en local),0.0,8
+671,9,2024-11-01,Cancelado,Billetera virtual,2.5,
+672,376,2026-04-27,Reembolsado,Transferencia,7.99,16
+673,40,2026-01-18,Completado,Tarjeta de crédito,4.99,
+674,539,2024-08-13,Pendiente,Efectivo (retiro en local),0.0,2
+675,528,2024-09-07,Completado,Efectivo (retiro en local),0.0,7
+676,485,2025-09-07,Completado,Efectivo (retiro en local),0.0,7
+677,121,2024-10-30,Completado,Billetera virtual,0.0,2
+678,594,2025-01-31,Reembolsado,Billetera virtual,2.5,11
+679,485,2026-04-03,Completado,Transferencia,0.0,10
+680,510,2025-09-18,Reembolsado,Billetera virtual,7.99,8
+681,246,2025-11-08,Cancelado,Billetera virtual,0.0,4
+682,382,2025-05-12,Completado,Tarjeta de crédito,2.5,14
+683,542,2026-01-26,Cancelado,Efectivo (retiro en local),0.0,11
+684,468,2024-07-16,Completado,Transferencia,0.0,11
+685,5,2025-11-26,Completado,Tarjeta de crédito,0.0,12
+686,281,2025-12-01,Pendiente,Efectivo (retiro en local),2.5,
+687,337,2024-11-29,Cancelado,Tarjeta de débito,0.0,11
+688,22,2024-09-10,Completado,Transferencia,0.0,7
+689,556,2026-05-10,Cancelado,Tarjeta de crédito,0.0,2
+690,277,2024-12-01,Completado,Billetera virtual,0.0,1
+691,89,2024-08-04,Completado,Tarjeta de débito,0.0,3
+692,496,2026-01-22,Reembolsado,Tarjeta de crédito,7.99,5
+693,323,2025-09-18,Completado,Tarjeta de débito,0.0,17
+694,110,2024-07-27,Completado,Tarjeta de débito,7.99,6
+695,292,2025-05-02,Completado,Tarjeta de crédito,0.0,14
+696,564,2025-12-07,Pendiente,Tarjeta de crédito,7.99,15
+697,54,2024-10-19,Completado,Tarjeta de crédito,4.99,
+698,370,2025-07-21,Cancelado,Tarjeta de crédito,0.0,3
+699,6,2026-04-29,Cancelado,Transferencia,4.99,4
+700,422,2026-01-14,Completado,Transferencia,0.0,17
+701,510,2024-06-02,Completado,Billetera virtual,4.99,4
+702,42,2025-01-23,Completado,Tarjeta de crédito,7.99,
+703,148,2024-10-29,Reembolsado,Tarjeta de crédito,0.0,8
+704,475,2024-11-10,Completado,Tarjeta de crédito,7.99,12
+705,230,2025-09-04,Completado,Transferencia,2.5,10
+706,565,2025-11-04,Reembolsado,Tarjeta de débito,0.0,6
+707,251,2026-04-16,Cancelado,Efectivo (retiro en local),4.99,14
+708,568,2025-08-04,Cancelado,Transferencia,0.0,13
+709,279,2026-01-22,Completado,Billetera virtual,7.99,17
+710,576,2024-06-17,Reembolsado,Tarjeta de crédito,0.0,16
+711,562,2025-08-26,Reembolsado,Tarjeta de débito,0.0,4
+712,603,2025-09-04,Completado,Tarjeta de crédito,0.0,5
+713,339,2024-09-11,Completado,Efectivo (retiro en local),4.99,5
+714,161,2025-01-26,Reembolsado,Tarjeta de crédito,7.99,3
+715,121,2026-06-14,Reembolsado,Tarjeta de débito,0.0,18
+716,112,2024-08-26,Pendiente,Tarjeta de débito,0.0,
+717,533,2026-06-01,Cancelado,Efectivo (retiro en local),4.99,16
+718,267,2026-02-11,Completado,Tarjeta de crédito,0.0,10
+719,236,2026-06-25,Reembolsado,Efectivo (retiro en local),0.0,15
+720,348,2025-11-20,Cancelado,Tarjeta de crédito,0.0,6
+721,92,2025-11-13,Completado,Efectivo (retiro en local),2.5,
+722,25,2026-06-11,Completado,Tarjeta de crédito,0.0,3
+723,517,2026-03-24,Completado,Transferencia,0.0,3
+724,591,2025-12-05,Completado,Transferencia,2.5,14
+725,296,2025-10-27,Cancelado,Tarjeta de crédito,0.0,10
+726,350,2024-08-30,Completado,Efectivo (retiro en local),0.0,14
+727,524,2025-01-20,Completado,Transferencia,7.99,
+728,247,2025-07-26,Cancelado,Efectivo (retiro en local),4.99,12
+729,542,2026-06-27,Completado,Transferencia,7.99,6
+730,388,2026-06-06,Pendiente,Tarjeta de débito,4.99,18
+731,68,2024-10-23,Reembolsado,Billetera virtual,4.99,7
+732,134,2025-06-13,Reembolsado,Efectivo (retiro en local),2.5,4
+733,400,2025-03-26,Reembolsado,Billetera virtual,0.0,9
+734,24,2026-04-16,Completado,Billetera virtual,2.5,7
+735,138,2025-09-20,Cancelado,Tarjeta de crédito,7.99,8
+736,299,2025-01-31,Completado,Tarjeta de débito,0.0,9
+737,228,2024-10-23,Pendiente,Tarjeta de crédito,0.0,1
+738,331,2025-01-18,Completado,Billetera virtual,0.0,
+739,336,2025-07-04,Completado,Billetera virtual,4.99,11
+740,387,2025-05-08,Completado,Billetera virtual,0.0,7
+741,300,2025-01-18,Completado,Billetera virtual,4.99,13
+742,463,2025-03-09,Completado,Transferencia,2.5,
+743,302,2024-10-12,Cancelado,Efectivo (retiro en local),2.5,
+744,99,2024-09-28,Reembolsado,Tarjeta de débito,2.5,
+745,400,2025-07-13,Cancelado,Tarjeta de crédito,0.0,10
+746,180,2025-01-10,Completado,Transferencia,0.0,
+747,42,2024-09-27,Completado,Transferencia,4.99,
+748,380,2025-09-06,Reembolsado,Tarjeta de crédito,4.99,
+749,566,2026-03-20,Cancelado,Efectivo (retiro en local),7.99,12
+750,375,2026-01-15,Completado,Efectivo (retiro en local),0.0,2
+751,195,2024-09-19,Completado,Tarjeta de débito,0.0,2
+752,428,2024-07-02,Reembolsado,Billetera virtual,0.0,4
+753,18,2025-03-19,Pendiente,Tarjeta de crédito,0.0,11
+754,563,2024-10-29,Completado,Efectivo (retiro en local),0.0,15
+755,353,2025-07-22,Reembolsado,Tarjeta de crédito,0.0,
+756,42,2024-07-01,Pendiente,Tarjeta de débito,2.5,5
+757,399,2024-08-04,Completado,Tarjeta de crédito,2.5,14
+758,27,2024-07-20,Completado,Billetera virtual,4.99,
+759,148,2024-07-22,Reembolsado,Transferencia,0.0,18
+760,422,2026-04-19,Completado,Efectivo (retiro en local),0.0,9
+761,504,2026-06-13,Reembolsado,Billetera virtual,2.5,
+762,270,2024-08-08,Completado,Tarjeta de débito,0.0,12
+763,411,2024-09-20,Completado,Efectivo (retiro en local),0.0,12
+764,81,2026-02-08,Completado,Tarjeta de crédito,2.5,1
+765,354,2025-06-21,Completado,Tarjeta de débito,0.0,12
+766,607,2024-07-21,Reembolsado,Tarjeta de débito,4.99,8
+767,97,2025-08-16,Completado,Transferencia,0.0,5
+768,175,2024-12-09,Completado,Tarjeta de crédito,0.0,18
+769,199,2025-02-23,Cancelado,Billetera virtual,0.0,16
+770,327,2025-07-24,Completado,Transferencia,0.0,16
+771,415,2025-11-13,Pendiente,Tarjeta de débito,0.0,9
+772,176,2024-12-02,Completado,Transferencia,0.0,3
+773,344,2025-12-05,Completado,Tarjeta de crédito,7.99,6
+774,548,2026-04-30,Completado,Tarjeta de débito,2.5,17
+775,299,2026-03-26,Completado,Transferencia,4.99,8
+776,184,2025-01-27,Cancelado,Billetera virtual,2.5,10
+777,473,2025-10-20,Cancelado,Efectivo (retiro en local),2.5,10
+778,545,2025-04-22,Reembolsado,Efectivo (retiro en local),0.0,10
+779,400,2025-06-26,Reembolsado,Efectivo (retiro en local),0.0,12
+780,137,2026-05-01,Cancelado,Efectivo (retiro en local),0.0,10
+781,336,2024-12-09,Cancelado,Transferencia,7.99,13
+782,604,2025-01-13,Pendiente,Tarjeta de débito,0.0,14
+783,573,2025-04-29,Completado,Efectivo (retiro en local),0.0,13
+784,116,2025-10-06,Cancelado,Billetera virtual,0.0,
+785,89,2025-06-08,Completado,Billetera virtual,0.0,
+786,220,2025-08-04,Completado,Efectivo (retiro en local),0.0,5
+787,363,2024-11-29,Completado,Billetera virtual,4.99,14
+788,135,2025-10-03,Completado,Transferencia,0.0,2
+789,571,2025-08-13,Completado,Tarjeta de crédito,0.0,16
+790,433,2025-06-08,Pendiente,Transferencia,7.99,17
+791,27,2024-10-18,Pendiente,Tarjeta de crédito,0.0,
+792,243,2024-10-13,Reembolsado,Tarjeta de crédito,0.0,8
+793,535,2024-12-26,Reembolsado,Billetera virtual,4.99,3
+794,393,2025-07-01,Cancelado,Efectivo (retiro en local),7.99,13
+795,300,2026-03-21,Completado,Tarjeta de débito,7.99,
+796,72,2025-11-21,Completado,Tarjeta de débito,7.99,15
+797,65,2024-10-08,Completado,Efectivo (retiro en local),0.0,18
+798,61,2025-06-22,Reembolsado,Tarjeta de crédito,0.0,14
+799,483,2025-07-19,Cancelado,Tarjeta de crédito,7.99,12
+800,372,2025-12-28,Reembolsado,Transferencia,2.5,2
+801,481,2024-11-27,Completado,Billetera virtual,7.99,4
+802,30,2025-04-30,Completado,Tarjeta de débito,0.0,16
+803,171,2025-04-29,Reembolsado,Transferencia,7.99,5
+804,511,2026-02-16,Reembolsado,Tarjeta de crédito,0.0,12
+805,532,2025-02-04,Completado,Tarjeta de débito,0.0,1
+806,46,2025-02-27,Pendiente,Efectivo (retiro en local),2.5,17
+807,42,2024-12-24,Completado,Transferencia,0.0,5
+808,153,2026-03-21,Cancelado,Tarjeta de débito,7.99,16
+809,202,2024-06-06,Cancelado,Billetera virtual,2.5,
+810,50,2026-03-11,Completado,Tarjeta de débito,0.0,4
+811,92,2024-09-27,Completado,Billetera virtual,2.5,1
+812,352,2026-04-09,Reembolsado,Efectivo (retiro en local),2.5,5
+813,14,2026-04-08,Completado,Billetera virtual,7.99,7
+814,154,2026-02-01,Completado,Billetera virtual,0.0,
+815,598,2025-10-22,Pendiente,Tarjeta de crédito,0.0,5
+816,28,2025-02-21,Completado,Tarjeta de débito,0.0,2
+817,88,2025-08-16,Completado,Efectivo (retiro en local),0.0,11
+818,163,2026-05-02,Reembolsado,Tarjeta de crédito,0.0,7
+819,416,2025-10-22,Cancelado,Billetera virtual,0.0,11
+820,253,2025-02-13,Completado,Tarjeta de crédito,0.0,6
+821,103,2025-09-04,Completado,Transferencia,0.0,13
+822,376,2025-09-02,Completado,Tarjeta de débito,4.99,
+823,201,2025-11-03,Completado,Billetera virtual,2.5,1
+824,295,2025-06-05,Cancelado,Transferencia,2.5,7
+825,446,2024-12-04,Completado,Efectivo (retiro en local),4.99,9
+826,161,2025-08-25,Completado,Billetera virtual,2.5,11
+827,487,2024-06-20,Completado,Tarjeta de crédito,0.0,10
+828,39,2024-06-21,Reembolsado,Transferencia,4.99,5
+829,542,2025-10-18,Reembolsado,Tarjeta de débito,7.99,
+830,105,2025-07-26,Completado,Tarjeta de crédito,0.0,4
+831,117,2026-02-16,Completado,Tarjeta de crédito,0.0,6
+832,472,2025-12-06,Pendiente,Tarjeta de débito,0.0,
+833,115,2024-08-25,Completado,Tarjeta de crédito,7.99,15
+834,463,2025-05-31,Cancelado,Efectivo (retiro en local),7.99,5
+835,185,2024-12-11,Completado,Efectivo (retiro en local),0.0,7
+836,402,2026-01-14,Reembolsado,Billetera virtual,7.99,18
+837,121,2025-02-20,Pendiente,Tarjeta de crédito,4.99,11
+838,566,2026-03-20,Completado,Tarjeta de débito,2.5,7
+839,290,2026-02-15,Completado,Billetera virtual,4.99,5
+840,575,2025-05-13,Completado,Billetera virtual,0.0,3
+841,410,2025-11-28,Reembolsado,Efectivo (retiro en local),0.0,17
+842,155,2025-11-22,Completado,Efectivo (retiro en local),4.99,
+843,210,2026-06-02,Completado,Tarjeta de crédito,0.0,4
+844,23,2024-11-17,Completado,Transferencia,0.0,13
+845,297,2025-03-08,Completado,Efectivo (retiro en local),2.5,10
+846,67,2025-11-11,Completado,Transferencia,4.99,15
+847,335,2026-02-28,Completado,Billetera virtual,7.99,10
+848,519,2025-06-26,Cancelado,Transferencia,7.99,
+849,185,2024-07-30,Pendiente,Billetera virtual,0.0,5
+850,322,2025-02-10,Completado,Tarjeta de débito,0.0,14
+851,301,2025-06-21,Completado,Transferencia,7.99,15
+852,30,2026-01-06,Completado,Transferencia,0.0,5
+853,379,2025-02-20,Pendiente,Billetera virtual,2.5,2
+854,356,2025-01-21,Completado,Tarjeta de crédito,7.99,11
+855,463,2025-08-13,Completado,Billetera virtual,0.0,10
+856,288,2026-05-28,Completado,Tarjeta de crédito,0.0,14
+857,603,2025-11-11,Completado,Billetera virtual,7.99,13
+858,436,2024-08-17,Completado,Tarjeta de crédito,0.0,
+859,441,2025-05-21,Reembolsado,Efectivo (retiro en local),7.99,10
+860,440,2025-02-16,Completado,Transferencia,0.0,18
+861,87,2025-09-05,Completado,Billetera virtual,0.0,5
+862,75,2025-09-30,Completado,Tarjeta de crédito,7.99,15
+863,43,2025-02-17,Completado,Tarjeta de débito,0.0,10
+864,406,2025-08-26,Completado,Efectivo (retiro en local),0.0,14
+865,286,2025-02-16,Completado,Transferencia,0.0,6
+866,127,2024-10-29,Cancelado,Billetera virtual,4.99,14
+867,323,2025-10-06,Cancelado,Tarjeta de débito,2.5,1
+868,180,2025-03-02,Completado,Tarjeta de débito,4.99,18
+869,106,2024-11-02,Completado,Efectivo (retiro en local),2.5,
+870,236,2024-11-27,Completado,Tarjeta de crédito,0.0,14
+871,194,2025-06-17,Completado,Tarjeta de crédito,0.0,
+872,49,2025-10-08,Completado,Billetera virtual,4.99,18
+873,101,2024-07-06,Completado,Tarjeta de débito,7.99,
+874,400,2025-08-07,Completado,Tarjeta de crédito,0.0,
+875,606,2025-03-03,Pendiente,Efectivo (retiro en local),2.5,
+876,541,2025-01-26,Cancelado,Billetera virtual,4.99,15
+877,584,2025-09-09,Completado,Tarjeta de crédito,7.99,17
+878,535,2026-01-13,Cancelado,Tarjeta de débito,2.5,
+879,322,2024-09-29,Completado,Billetera virtual,2.5,7
+880,395,2026-02-07,Completado,Tarjeta de crédito,0.0,15
+881,271,2026-06-09,Reembolsado,Transferencia,0.0,2
+882,47,2025-04-23,Completado,Efectivo (retiro en local),0.0,
+883,217,2024-10-18,Completado,Billetera virtual,0.0,14
+884,92,2025-10-11,Cancelado,Efectivo (retiro en local),0.0,3
+885,68,2024-07-31,Pendiente,Transferencia,4.99,18
+886,2,2026-02-16,Completado,Billetera virtual,0.0,
+887,584,2024-10-18,Completado,Tarjeta de crédito,0.0,12
+888,5,2025-10-09,Completado,Tarjeta de crédito,4.99,16
+889,569,2026-01-08,Completado,Billetera virtual,0.0,2
+890,341,2024-07-17,Completado,Transferencia,4.99,17
+891,156,2025-08-05,Cancelado,Tarjeta de crédito,2.5,6
+892,306,2025-07-21,Completado,Efectivo (retiro en local),0.0,8
+893,373,2025-07-12,Completado,Tarjeta de débito,4.99,3
+894,342,2025-04-29,Completado,Tarjeta de crédito,2.5,18
+895,520,2025-07-03,Completado,Efectivo (retiro en local),7.99,
+896,182,2024-11-20,Reembolsado,Tarjeta de crédito,2.5,17
+897,366,2024-07-31,Completado,Tarjeta de débito,2.5,
+898,188,2025-05-22,Pendiente,Efectivo (retiro en local),0.0,12
+899,237,2026-04-14,Pendiente,Tarjeta de crédito,0.0,
+900,33,2025-01-06,Completado,Tarjeta de crédito,4.99,17
+901,179,2025-12-11,Completado,Transferencia,0.0,9
+902,397,2026-06-05,Completado,Billetera virtual,0.0,
+903,224,2026-04-10,Completado,Efectivo (retiro en local),0.0,7
+904,75,2025-10-19,Completado,Billetera virtual,0.0,6
+905,63,2026-03-05,Completado,Efectivo (retiro en local),7.99,2
+906,33,2026-01-07,Completado,Billetera virtual,7.99,
+907,403,2025-08-29,Completado,Tarjeta de débito,4.99,
+908,608,2026-06-25,Cancelado,Billetera virtual,0.0,3
+909,475,2024-06-26,Reembolsado,Efectivo (retiro en local),0.0,
+910,538,2024-10-06,Cancelado,Efectivo (retiro en local),2.5,
+911,564,2024-08-23,Reembolsado,Efectivo (retiro en local),0.0,16
+912,159,2025-11-03,Cancelado,Billetera virtual,0.0,14
+913,56,2024-11-29,Cancelado,Tarjeta de débito,4.99,7
+914,369,2026-01-13,Cancelado,Tarjeta de débito,7.99,
+915,284,2026-06-02,Reembolsado,Tarjeta de débito,0.0,2
+916,43,2024-10-12,Cancelado,Tarjeta de crédito,2.5,8
+917,3,2026-04-30,Pendiente,Tarjeta de crédito,0.0,17
+918,230,2024-10-14,Pendiente,Tarjeta de crédito,7.99,
+919,388,2026-02-13,Completado,Tarjeta de débito,4.99,14
+920,397,2025-07-07,Completado,Tarjeta de débito,4.99,
+921,571,2025-06-13,Pendiente,Billetera virtual,2.5,12
+922,157,2024-08-26,Cancelado,Efectivo (retiro en local),2.5,9
+923,442,2025-07-06,Completado,Transferencia,4.99,4
+924,195,2024-10-11,Pendiente,Tarjeta de débito,2.5,2
+925,155,2024-09-12,Reembolsado,Efectivo (retiro en local),4.99,18
+926,101,2026-06-28,Cancelado,Billetera virtual,0.0,18
+927,206,2025-12-26,Completado,Tarjeta de débito,0.0,7
+928,247,2024-08-19,Completado,Transferencia,7.99,14
+929,465,2025-07-17,Cancelado,Transferencia,7.99,18
+930,609,2025-10-28,Completado,Tarjeta de crédito,2.5,4
+931,314,2025-11-03,Completado,Transferencia,0.0,10
+932,603,2024-09-30,Completado,Tarjeta de débito,2.5,1
+933,325,2025-04-13,Completado,Tarjeta de crédito,2.5,16
+934,82,2025-06-13,Reembolsado,Efectivo (retiro en local),2.5,
+935,350,2026-06-30,Pendiente,Tarjeta de débito,0.0,12
+936,48,2026-03-07,Reembolsado,Transferencia,0.0,12
+937,233,2026-01-09,Reembolsado,Tarjeta de crédito,0.0,10
+938,383,2026-02-21,Completado,Tarjeta de débito,0.0,2
+939,179,2024-06-02,Completado,Transferencia,2.5,5
+940,51,2025-12-17,Completado,Tarjeta de crédito,4.99,3
+941,103,2025-05-29,Reembolsado,Efectivo (retiro en local),0.0,15
+942,146,2024-11-13,Reembolsado,Efectivo (retiro en local),0.0,18
+943,574,2026-04-18,Pendiente,Efectivo (retiro en local),0.0,18
+944,346,2025-01-03,Completado,Tarjeta de crédito,2.5,5
+945,573,2025-04-09,Pendiente,Tarjeta de crédito,7.99,15
+946,294,2026-04-11,Completado,Tarjeta de débito,4.99,13
+947,179,2026-03-04,Reembolsado,Tarjeta de crédito,0.0,
+948,489,2024-06-01,Pendiente,Tarjeta de débito,0.0,6
+949,92,2024-11-01,Completado,Tarjeta de crédito,0.0,16
+950,580,2025-11-18,Completado,Tarjeta de débito,0.0,3
+951,544,2025-11-30,Cancelado,Billetera virtual,7.99,15
+952,525,2026-04-20,Reembolsado,Efectivo (retiro en local),7.99,8
+953,358,2025-10-11,Pendiente,Billetera virtual,0.0,7
+954,305,2026-01-08,Completado,Efectivo (retiro en local),2.5,7
+955,356,2025-08-11,Reembolsado,Tarjeta de crédito,0.0,8
+956,226,2025-09-25,Completado,Tarjeta de crédito,4.99,10
+957,390,2025-01-15,Completado,Tarjeta de débito,0.0,9
+958,538,2026-02-26,Pendiente,Efectivo (retiro en local),4.99,8
+959,313,2026-02-17,Completado,Billetera virtual,4.99,17
+960,513,2025-08-05,Completado,Efectivo (retiro en local),7.99,13
+961,9,2026-01-06,Completado,Tarjeta de débito,0.0,3
+962,309,2025-11-14,Completado,Tarjeta de débito,0.0,18
+963,312,2025-06-26,Completado,Tarjeta de débito,7.99,17
+964,118,2024-12-26,Reembolsado,Billetera virtual,0.0,10
+965,588,2026-02-15,Completado,Tarjeta de crédito,0.0,9
+966,418,2024-11-09,Reembolsado,Tarjeta de débito,0.0,5
+967,462,2026-06-02,Cancelado,Billetera virtual,4.99,10
+968,293,2024-08-05,Completado,Transferencia,0.0,
+969,573,2026-02-15,Completado,Billetera virtual,2.5,8
+970,157,2026-03-01,Pendiente,Tarjeta de débito,0.0,2
+971,111,2025-01-07,Completado,Tarjeta de crédito,0.0,
+972,126,2026-04-18,Completado,Billetera virtual,0.0,
+973,81,2024-11-25,Completado,Efectivo (retiro en local),4.99,6
+974,167,2024-11-15,Reembolsado,Tarjeta de débito,0.0,
+975,329,2025-02-22,Completado,Tarjeta de crédito,4.99,17
+976,452,2024-11-05,Pendiente,Billetera virtual,7.99,2
+977,547,2025-03-16,Reembolsado,Transferencia,4.99,2
+978,87,2024-08-28,Completado,Tarjeta de crédito,4.99,12
+979,37,2026-03-07,Completado,Efectivo (retiro en local),0.0,9
+980,183,2026-02-03,Completado,Tarjeta de crédito,2.5,1
+981,571,2025-09-09,Completado,Tarjeta de débito,0.0,9
+982,392,2024-12-14,Completado,Tarjeta de crédito,7.99,15
+983,532,2025-10-25,Cancelado,Efectivo (retiro en local),4.99,8
+984,171,2024-06-11,Pendiente,Transferencia,4.99,10
+985,275,2024-12-07,Completado,Billetera virtual,2.5,8
+986,358,2025-12-08,Completado,Tarjeta de débito,4.99,2
+987,162,2024-11-02,Cancelado,Transferencia,0.0,
+988,251,2025-09-18,Reembolsado,Tarjeta de débito,7.99,11
+989,266,2026-03-01,Cancelado,Tarjeta de crédito,7.99,15
+990,161,2024-08-05,Pendiente,Tarjeta de crédito,0.0,2
+991,304,2025-11-06,Reembolsado,Tarjeta de crédito,7.99,9
+992,44,2025-07-03,Completado,Efectivo (retiro en local),4.99,13
+993,122,2026-02-01,Completado,Tarjeta de débito,0.0,7
+994,184,2024-08-16,Completado,Tarjeta de débito,0.0,7
+995,260,2025-11-27,Completado,Tarjeta de crédito,0.0,13
+996,563,2024-06-21,Completado,Tarjeta de débito,2.5,11
+997,194,2024-09-07,Completado,Transferencia,7.99,
+998,176,2026-04-07,Pendiente,Efectivo (retiro en local),4.99,
+999,443,2024-11-15,Pendiente,Billetera virtual,2.5,5
+1000,209,2025-01-06,Pendiente,Billetera virtual,2.5,
+1001,518,2024-11-08,Completado,Tarjeta de débito,7.99,17
+1002,65,2025-11-24,Completado,Transferencia,7.99,
+1003,273,2025-02-09,Pendiente,Tarjeta de crédito,4.99,2
+1004,307,2025-05-25,Reembolsado,Billetera virtual,0.0,
+1005,363,2026-01-10,Pendiente,Tarjeta de crédito,0.0,8
+1006,306,2024-10-18,Cancelado,Efectivo (retiro en local),0.0,12
+1007,406,2025-10-10,Completado,Efectivo (retiro en local),0.0,15
+1008,474,2025-02-04,Completado,Billetera virtual,4.99,18
+1009,324,2024-06-11,Pendiente,Efectivo (retiro en local),0.0,18
+1010,558,2024-12-01,Completado,Efectivo (retiro en local),0.0,9
+1011,109,2025-12-19,Completado,Billetera virtual,0.0,
+1012,354,2026-06-08,Completado,Billetera virtual,0.0,16
+1013,492,2026-06-09,Completado,Tarjeta de crédito,4.99,13
+1014,126,2024-07-19,Completado,Transferencia,0.0,7
+1015,384,2024-11-16,Completado,Tarjeta de crédito,2.5,2
+1016,141,2025-04-19,Completado,Tarjeta de débito,0.0,3
+1017,221,2026-03-13,Reembolsado,Transferencia,2.5,
+1018,238,2025-11-30,Completado,Transferencia,0.0,13
+1019,357,2025-01-10,Completado,Tarjeta de débito,7.99,17
+1020,190,2024-09-02,Pendiente,Tarjeta de crédito,7.99,13
+1021,549,2026-03-20,Cancelado,Tarjeta de débito,4.99,9
+1022,336,2025-10-14,Completado,Efectivo (retiro en local),0.0,12
+1023,542,2026-03-15,Completado,Transferencia,0.0,17
+1024,276,2025-09-26,Completado,Transferencia,7.99,4
+1025,585,2025-09-14,Completado,Transferencia,0.0,17
+1026,128,2025-11-25,Completado,Billetera virtual,0.0,
+1027,519,2025-11-30,Completado,Efectivo (retiro en local),0.0,9
+1028,446,2024-12-06,Completado,Tarjeta de crédito,0.0,3
+1029,218,2025-05-02,Reembolsado,Tarjeta de débito,2.5,14
+1030,193,2025-03-27,Completado,Billetera virtual,2.5,
+1031,590,2025-02-19,Completado,Billetera virtual,0.0,8
+1032,115,2024-07-20,Cancelado,Efectivo (retiro en local),4.99,8
+1033,298,2025-03-22,Completado,Transferencia,2.5,6
+1034,130,2025-11-13,Reembolsado,Tarjeta de crédito,4.99,
+1035,554,2024-12-10,Reembolsado,Efectivo (retiro en local),2.5,
+1036,536,2024-09-16,Completado,Tarjeta de débito,7.99,4
+1037,550,2024-09-25,Pendiente,Tarjeta de crédito,4.99,5
+1038,152,2025-12-26,Pendiente,Billetera virtual,2.5,16
+1039,552,2024-06-22,Pendiente,Billetera virtual,7.99,
+1040,82,2024-06-11,Completado,Efectivo (retiro en local),0.0,16
+1041,104,2025-10-28,Reembolsado,Tarjeta de crédito,0.0,7
+1042,144,2025-08-25,Completado,Tarjeta de débito,7.99,9
+1043,253,2024-08-28,Reembolsado,Transferencia,2.5,10
+1044,403,2026-04-27,Cancelado,Tarjeta de crédito,7.99,2
+1045,85,2025-06-22,Pendiente,Transferencia,0.0,
+1046,272,2024-07-14,Completado,Tarjeta de crédito,0.0,4
+1047,465,2024-09-27,Cancelado,Efectivo (retiro en local),0.0,16
+1048,4,2026-01-05,Completado,Tarjeta de débito,4.99,15
+1049,337,2025-12-03,Reembolsado,Billetera virtual,0.0,13
+1050,436,2025-12-19,Cancelado,Tarjeta de crédito,0.0,10
+1051,454,2026-03-30,Reembolsado,Transferencia,4.99,5
+1052,13,2026-02-28,Completado,Transferencia,0.0,14
+1053,175,2025-01-25,Completado,Efectivo (retiro en local),0.0,18
+1054,507,2026-05-08,Cancelado,Transferencia,0.0,16
+1055,78,2024-07-31,Cancelado,Billetera virtual,7.99,17
+1056,400,2025-02-17,Pendiente,Efectivo (retiro en local),2.5,4
+1057,190,2025-03-24,Completado,Transferencia,7.99,18
+1058,313,2025-06-27,Cancelado,Billetera virtual,0.0,10
+1059,174,2024-07-28,Completado,Tarjeta de crédito,0.0,17
+1060,477,2025-10-01,Cancelado,Transferencia,0.0,
+1061,577,2024-06-13,Completado,Billetera virtual,0.0,17
+1062,400,2025-10-21,Completado,Tarjeta de débito,0.0,
+1063,71,2025-09-29,Pendiente,Tarjeta de crédito,2.5,6
+1064,148,2024-09-04,Reembolsado,Billetera virtual,0.0,2
+1065,185,2025-06-20,Cancelado,Tarjeta de crédito,0.0,3
+1066,25,2026-04-25,Completado,Transferencia,0.0,9
+1067,293,2026-06-21,Cancelado,Efectivo (retiro en local),2.5,6
+1068,266,2024-06-25,Cancelado,Tarjeta de débito,2.5,15
+1069,503,2025-03-26,Cancelado,Efectivo (retiro en local),0.0,
+1070,523,2025-08-22,Completado,Billetera virtual,0.0,14
+1071,10,2024-11-20,Completado,Tarjeta de débito,0.0,13
+1072,3,2024-08-02,Completado,Tarjeta de crédito,4.99,14
+1073,122,2025-07-21,Pendiente,Tarjeta de crédito,0.0,16
+1074,143,2026-05-03,Completado,Tarjeta de débito,2.5,16
+1075,42,2024-07-22,Completado,Efectivo (retiro en local),4.99,14
+1076,85,2024-09-07,Cancelado,Tarjeta de crédito,0.0,
+1077,209,2025-04-28,Pendiente,Tarjeta de débito,0.0,11
+1078,564,2024-10-20,Completado,Tarjeta de crédito,0.0,15
+1079,228,2025-11-08,Completado,Efectivo (retiro en local),0.0,
+1080,333,2024-10-18,Completado,Tarjeta de débito,0.0,18
+1081,466,2024-06-18,Completado,Transferencia,0.0,3
+1082,408,2024-09-26,Completado,Tarjeta de crédito,2.5,17
+1083,131,2025-12-28,Completado,Efectivo (retiro en local),0.0,12
+1084,180,2024-12-23,Completado,Efectivo (retiro en local),7.99,18
+1085,333,2025-01-16,Pendiente,Transferencia,0.0,10
+1086,451,2025-08-04,Completado,Transferencia,2.5,
+1087,8,2025-06-10,Completado,Tarjeta de débito,7.99,7
+1088,130,2025-09-13,Reembolsado,Tarjeta de débito,2.5,12
+1089,397,2025-05-26,Reembolsado,Billetera virtual,0.0,2
+1090,593,2024-08-01,Reembolsado,Tarjeta de débito,0.0,
+1091,580,2025-10-08,Completado,Tarjeta de débito,0.0,5
+1092,114,2024-11-02,Completado,Transferencia,7.99,11
+1093,284,2025-03-17,Reembolsado,Tarjeta de crédito,0.0,1
+1094,24,2025-07-20,Completado,Transferencia,0.0,9
+1095,165,2025-06-15,Completado,Tarjeta de débito,7.99,6
+1096,31,2024-09-30,Reembolsado,Billetera virtual,0.0,7
+1097,34,2024-06-14,Completado,Transferencia,2.5,1
+1098,569,2025-07-30,Completado,Tarjeta de crédito,7.99,10
+1099,292,2026-03-14,Completado,Efectivo (retiro en local),0.0,9
+1100,449,2025-05-15,Completado,Transferencia,4.99,3
+1101,572,2025-11-24,Reembolsado,Billetera virtual,4.99,
+1102,603,2026-03-11,Completado,Transferencia,2.5,13
+1103,233,2024-07-12,Completado,Billetera virtual,4.99,1
+1104,563,2025-06-11,Pendiente,Transferencia,2.5,14
+1105,301,2024-12-16,Pendiente,Tarjeta de débito,0.0,10
+1106,392,2025-12-17,Completado,Billetera virtual,0.0,10
+1107,57,2026-06-24,Completado,Billetera virtual,0.0,2
+1108,217,2026-05-21,Reembolsado,Tarjeta de crédito,4.99,15
+1109,110,2026-06-27,Completado,Efectivo (retiro en local),0.0,
+1110,564,2025-07-03,Reembolsado,Transferencia,2.5,5
+1111,122,2025-03-10,Completado,Billetera virtual,0.0,2
+1112,505,2025-05-04,Pendiente,Tarjeta de crédito,0.0,5
+1113,303,2025-03-27,Completado,Transferencia,0.0,11
+1114,394,2025-02-25,Pendiente,Billetera virtual,4.99,18
+1115,234,2025-11-25,Completado,Tarjeta de débito,2.5,7
+1116,186,2025-06-28,Completado,Tarjeta de débito,4.99,3
+1117,460,2025-08-01,Completado,Transferencia,0.0,
+1118,411,2025-10-01,Completado,Tarjeta de débito,0.0,17
+1119,417,2026-04-19,Reembolsado,Tarjeta de crédito,0.0,14
+1120,461,2025-08-14,Completado,Tarjeta de crédito,0.0,4
+1121,163,2025-08-21,Pendiente,Tarjeta de crédito,4.99,
+1122,413,2024-10-12,Completado,Tarjeta de débito,0.0,
+1123,476,2025-06-15,Reembolsado,Billetera virtual,2.5,17
+1124,302,2024-11-09,Cancelado,Efectivo (retiro en local),0.0,1
+1125,9,2024-12-30,Cancelado,Tarjeta de débito,0.0,
+1126,408,2025-03-03,Completado,Tarjeta de crédito,0.0,11
+1127,299,2026-01-19,Completado,Tarjeta de débito,0.0,11
+1128,569,2024-06-06,Cancelado,Tarjeta de débito,4.99,
+1129,162,2025-10-19,Completado,Efectivo (retiro en local),0.0,3
+1130,465,2024-11-18,Cancelado,Transferencia,0.0,4
+1131,423,2024-06-23,Completado,Tarjeta de crédito,4.99,
+1132,170,2024-12-08,Pendiente,Tarjeta de crédito,0.0,7
+1133,178,2024-11-08,Completado,Tarjeta de débito,0.0,4
+1134,384,2026-03-30,Pendiente,Transferencia,0.0,
+1135,291,2025-05-03,Pendiente,Tarjeta de crédito,0.0,10
+1136,136,2024-06-08,Pendiente,Efectivo (retiro en local),0.0,9
+1137,403,2025-04-17,Pendiente,Efectivo (retiro en local),4.99,17
+1138,78,2025-10-06,Completado,Transferencia,4.99,9
+1139,351,2026-02-28,Pendiente,Tarjeta de crédito,4.99,2
+1140,238,2026-06-10,Completado,Tarjeta de débito,2.5,6
+1141,235,2024-06-28,Completado,Efectivo (retiro en local),4.99,3
+1142,143,2024-09-11,Cancelado,Tarjeta de crédito,0.0,5
+1143,606,2025-09-16,Reembolsado,Tarjeta de débito,0.0,12
+1144,505,2024-07-13,Completado,Billetera virtual,7.99,10
+1145,282,2024-07-29,Cancelado,Transferencia,7.99,14
+1146,177,2024-06-19,Reembolsado,Efectivo (retiro en local),0.0,10
+1147,109,2025-11-29,Completado,Transferencia,7.99,18
+1148,252,2025-03-08,Completado,Transferencia,4.99,16
+1149,455,2024-07-11,Completado,Billetera virtual,2.5,
+1150,20,2026-06-05,Completado,Efectivo (retiro en local),0.0,
+1151,206,2025-12-04,Cancelado,Tarjeta de débito,0.0,3
+1152,542,2024-10-26,Completado,Billetera virtual,7.99,
+1153,401,2025-03-16,Completado,Efectivo (retiro en local),7.99,9
+1154,178,2024-12-22,Completado,Billetera virtual,0.0,12
+1155,96,2025-08-20,Completado,Tarjeta de débito,0.0,1
+1156,33,2025-08-07,Pendiente,Tarjeta de débito,0.0,17
+1157,564,2025-08-26,Completado,Tarjeta de crédito,2.5,17
+1158,173,2025-01-11,Completado,Transferencia,2.5,8
+1159,301,2025-12-01,Completado,Tarjeta de débito,2.5,2
+1160,4,2026-01-31,Completado,Tarjeta de débito,4.99,8
+1161,34,2026-01-17,Pendiente,Tarjeta de débito,2.5,15
+1162,501,2026-03-26,Reembolsado,Billetera virtual,7.99,1
+1163,360,2025-07-31,Completado,Billetera virtual,2.5,2
+1164,171,2026-01-12,Pendiente,Tarjeta de crédito,0.0,14
+1165,439,2024-07-05,Completado,Tarjeta de crédito,0.0,5
+1166,483,2026-05-19,Pendiente,Tarjeta de crédito,4.99,2
+1167,288,2024-08-23,Cancelado,Tarjeta de crédito,4.99,12
+1168,516,2025-10-07,Completado,Tarjeta de crédito,7.99,8
+1169,575,2025-08-07,Pendiente,Tarjeta de crédito,4.99,10
+1170,595,2026-01-17,Completado,Efectivo (retiro en local),4.99,
+1171,7,2025-11-29,Completado,Transferencia,4.99,6
+1172,606,2025-12-01,Reembolsado,Tarjeta de débito,0.0,5
+1173,552,2025-08-24,Completado,Tarjeta de crédito,0.0,6
+1174,515,2024-06-06,Completado,Billetera virtual,7.99,6
+1175,259,2026-01-16,Reembolsado,Tarjeta de débito,7.99,14
+1176,48,2024-09-26,Completado,Tarjeta de crédito,4.99,2
+1177,170,2026-02-06,Completado,Efectivo (retiro en local),0.0,18
+1178,189,2026-03-19,Reembolsado,Billetera virtual,7.99,6
+1179,607,2026-05-03,Completado,Efectivo (retiro en local),2.5,1
+1180,18,2025-02-01,Cancelado,Tarjeta de crédito,2.5,
+1181,610,2025-06-26,Reembolsado,Tarjeta de débito,7.99,6
+1182,383,2025-01-07,Completado,Efectivo (retiro en local),0.0,16
+1183,255,2024-06-10,Completado,Efectivo (retiro en local),0.0,16
+1184,316,2024-07-14,Completado,Transferencia,0.0,11
+1185,279,2025-11-05,Cancelado,Tarjeta de débito,0.0,9
+1186,475,2026-02-09,Pendiente,Efectivo (retiro en local),4.99,11
+1187,52,2025-02-18,Completado,Efectivo (retiro en local),4.99,10
+1188,465,2026-01-04,Cancelado,Billetera virtual,0.0,4
+1189,410,2025-12-22,Cancelado,Billetera virtual,7.99,13
+1190,253,2024-09-06,Completado,Tarjeta de débito,4.99,14
+1191,5,2024-08-08,Completado,Transferencia,0.0,18
+1192,578,2024-08-12,Completado,Transferencia,0.0,
+1193,606,2026-02-18,Cancelado,Billetera virtual,7.99,8
+1194,238,2024-07-02,Cancelado,Billetera virtual,2.5,11
+1195,374,2025-02-07,Reembolsado,Tarjeta de crédito,2.5,17
+1196,231,2024-08-14,Reembolsado,Tarjeta de débito,2.5,17
+1197,590,2026-04-11,Completado,Tarjeta de crédito,0.0,8
+1198,460,2025-03-21,Cancelado,Efectivo (retiro en local),0.0,6
+1199,482,2025-07-29,Completado,Tarjeta de crédito,4.99,
+1200,361,2025-06-28,Completado,Transferencia,0.0,17
+1201,353,2025-05-21,Cancelado,Tarjeta de crédito,7.99,1
+1202,49,2026-03-25,Completado,Billetera virtual,0.0,
+1203,19,2025-02-10,Cancelado,Efectivo (retiro en local),0.0,3
+1204,603,2025-06-27,Completado,Tarjeta de débito,7.99,
+1205,22,2026-04-07,Completado,Efectivo (retiro en local),4.99,
+1206,392,2025-03-17,Reembolsado,Billetera virtual,7.99,17
+1207,480,2025-04-04,Completado,Tarjeta de crédito,4.99,14
+1208,572,2025-10-08,Completado,Efectivo (retiro en local),0.0,
+1209,289,2025-01-14,Completado,Tarjeta de crédito,0.0,2
+1210,413,2024-07-04,Completado,Billetera virtual,7.99,3
+1211,488,2025-10-02,Completado,Transferencia,7.99,6
+1212,66,2025-03-24,Completado,Tarjeta de crédito,4.99,16
+1213,418,2024-12-02,Completado,Transferencia,7.99,16
+1214,569,2025-09-03,Completado,Tarjeta de débito,2.5,14
+1215,90,2026-03-25,Reembolsado,Billetera virtual,0.0,
+1216,376,2025-01-23,Pendiente,Tarjeta de crédito,4.99,18
+1217,475,2025-05-24,Pendiente,Billetera virtual,0.0,8
+1218,338,2025-01-17,Cancelado,Tarjeta de crédito,0.0,15
+1219,610,2025-07-04,Completado,Transferencia,4.99,4
+1220,506,2026-02-22,Completado,Tarjeta de crédito,0.0,11
+1221,158,2025-08-06,Completado,Tarjeta de crédito,0.0,4
+1222,236,2026-04-27,Reembolsado,Tarjeta de crédito,2.5,13
+1223,586,2024-08-03,Completado,Tarjeta de débito,0.0,6
+1224,375,2025-01-05,Completado,Transferencia,7.99,12
+1225,127,2025-12-20,Completado,Tarjeta de débito,0.0,17
+1226,490,2025-09-29,Pendiente,Tarjeta de crédito,4.99,6
+1227,369,2025-08-17,Completado,Tarjeta de débito,0.0,4
+1228,415,2025-03-24,Completado,Tarjeta de crédito,0.0,15
+1229,608,2026-03-31,Completado,Transferencia,0.0,12
+1230,97,2025-02-13,Reembolsado,Tarjeta de crédito,0.0,11
+1231,351,2024-10-08,Completado,Tarjeta de crédito,2.5,8
+1232,252,2025-01-05,Reembolsado,Tarjeta de débito,0.0,11
+1233,35,2025-07-13,Completado,Transferencia,7.99,13
+1234,371,2024-07-24,Completado,Billetera virtual,0.0,8
+1235,277,2024-06-19,Reembolsado,Billetera virtual,2.5,9
+1236,422,2026-06-17,Completado,Transferencia,4.99,12
+1237,555,2026-05-27,Completado,Efectivo (retiro en local),0.0,6
+1238,131,2024-10-13,Reembolsado,Tarjeta de débito,4.99,6
+1239,168,2024-10-19,Completado,Efectivo (retiro en local),4.99,7
+1240,132,2024-12-27,Completado,Efectivo (retiro en local),7.99,15
+1241,262,2026-01-11,Reembolsado,Transferencia,2.5,7
+1242,456,2024-11-05,Completado,Billetera virtual,0.0,
+1243,339,2025-10-25,Reembolsado,Efectivo (retiro en local),2.5,8
+1244,425,2025-11-26,Pendiente,Tarjeta de débito,0.0,
+1245,267,2024-08-10,Pendiente,Efectivo (retiro en local),4.99,17
+1246,66,2025-09-07,Completado,Tarjeta de débito,2.5,4
+1247,275,2024-11-05,Completado,Efectivo (retiro en local),7.99,11
+1248,341,2026-06-19,Completado,Efectivo (retiro en local),4.99,15
+1249,593,2024-06-13,Cancelado,Billetera virtual,7.99,
+1250,44,2025-09-19,Completado,Transferencia,2.5,13
+1251,599,2026-03-06,Pendiente,Efectivo (retiro en local),0.0,2
+1252,288,2026-02-16,Pendiente,Tarjeta de crédito,2.5,4
+1253,448,2025-09-15,Completado,Efectivo (retiro en local),0.0,1
+1254,328,2026-03-19,Cancelado,Billetera virtual,7.99,14
+1255,370,2026-06-10,Cancelado,Billetera virtual,7.99,17
+1256,3,2025-06-29,Completado,Tarjeta de débito,4.99,4
+1257,543,2024-09-01,Completado,Efectivo (retiro en local),4.99,2
+1258,157,2025-01-28,Completado,Billetera virtual,7.99,2
+1259,176,2025-01-20,Completado,Efectivo (retiro en local),0.0,
+1260,456,2025-08-05,Completado,Transferencia,0.0,4
+1261,310,2025-06-14,Cancelado,Efectivo (retiro en local),7.99,18
+1262,409,2024-08-21,Completado,Tarjeta de débito,4.99,10
+1263,29,2026-03-10,Pendiente,Transferencia,7.99,
+1264,412,2025-07-03,Reembolsado,Efectivo (retiro en local),0.0,1
+1265,604,2025-12-21,Completado,Billetera virtual,4.99,17
+1266,249,2026-06-01,Completado,Tarjeta de crédito,2.5,13
+1267,457,2024-06-14,Pendiente,Billetera virtual,2.5,5
+1268,338,2025-05-15,Reembolsado,Tarjeta de crédito,7.99,8
+1269,66,2025-04-12,Completado,Tarjeta de crédito,7.99,1
+1270,455,2024-09-25,Completado,Billetera virtual,4.99,17
+1271,462,2026-02-23,Completado,Efectivo (retiro en local),0.0,2
+1272,485,2026-01-10,Pendiente,Transferencia,0.0,5
+1273,214,2024-09-30,Completado,Efectivo (retiro en local),2.5,9
+1274,140,2025-12-31,Pendiente,Tarjeta de crédito,0.0,15
+1275,382,2024-08-10,Cancelado,Transferencia,7.99,6
+1276,587,2025-06-01,Cancelado,Transferencia,7.99,
+1277,97,2025-07-20,Cancelado,Efectivo (retiro en local),0.0,18
+1278,262,2025-12-28,Completado,Billetera virtual,2.5,7
+1279,129,2025-12-01,Completado,Transferencia,7.99,18
+1280,31,2026-01-10,Reembolsado,Efectivo (retiro en local),2.5,3
+1281,127,2026-02-05,Reembolsado,Billetera virtual,2.5,11
+1282,41,2024-08-14,Completado,Billetera virtual,2.5,15
+1283,464,2026-02-20,Completado,Transferencia,0.0,18
+1284,312,2025-07-10,Completado,Billetera virtual,0.0,2
+1285,391,2026-02-18,Reembolsado,Transferencia,0.0,16
+1286,47,2024-06-27,Completado,Efectivo (retiro en local),0.0,
+1287,278,2025-03-23,Reembolsado,Transferencia,4.99,10
+1288,595,2024-12-20,Completado,Transferencia,0.0,1
+1289,9,2025-03-24,Completado,Efectivo (retiro en local),0.0,7
+1290,542,2025-06-18,Cancelado,Tarjeta de crédito,0.0,1
+1291,16,2025-10-11,Pendiente,Efectivo (retiro en local),0.0,15
+1292,417,2026-03-20,Cancelado,Tarjeta de crédito,0.0,11
+1293,515,2025-08-17,Pendiente,Transferencia,7.99,8
+1294,142,2024-11-20,Completado,Tarjeta de crédito,0.0,7
+1295,263,2025-04-24,Reembolsado,Efectivo (retiro en local),4.99,2
+1296,532,2024-10-23,Completado,Tarjeta de débito,0.0,6
+1297,602,2024-10-12,Completado,Tarjeta de débito,0.0,9
+1298,104,2024-12-15,Completado,Tarjeta de débito,0.0,3
+1299,306,2026-02-15,Completado,Billetera virtual,0.0,3
+1300,465,2026-03-14,Reembolsado,Billetera virtual,7.99,5
+1301,393,2025-07-19,Completado,Transferencia,4.99,
+1302,108,2025-02-28,Completado,Transferencia,0.0,5
+1303,347,2024-12-31,Cancelado,Efectivo (retiro en local),7.99,11
+1304,398,2025-10-19,Cancelado,Tarjeta de débito,0.0,1
+1305,218,2026-04-07,Completado,Billetera virtual,4.99,8
+1306,560,2026-04-05,Completado,Billetera virtual,0.0,9
+1307,91,2024-06-30,Completado,Tarjeta de crédito,2.5,4
+1308,568,2026-05-30,Completado,Efectivo (retiro en local),0.0,10
+1309,305,2025-08-27,Completado,Tarjeta de débito,0.0,18
+1310,196,2026-02-03,Completado,Billetera virtual,0.0,16
+1311,581,2025-09-15,Completado,Efectivo (retiro en local),2.5,12
+1312,226,2026-02-05,Completado,Tarjeta de crédito,0.0,10
+1313,585,2024-06-29,Completado,Billetera virtual,7.99,5
+1314,281,2025-11-29,Pendiente,Tarjeta de crédito,0.0,
+1315,11,2025-03-17,Cancelado,Efectivo (retiro en local),7.99,
+1316,166,2024-07-10,Completado,Efectivo (retiro en local),4.99,11
+1317,338,2025-04-06,Cancelado,Transferencia,0.0,
+1318,99,2025-10-11,Pendiente,Efectivo (retiro en local),0.0,4
+1319,317,2024-06-17,Completado,Transferencia,2.5,
+1320,547,2025-09-14,Pendiente,Transferencia,0.0,2
+1321,245,2025-12-20,Pendiente,Tarjeta de crédito,0.0,18
+1322,78,2026-05-29,Completado,Tarjeta de crédito,0.0,4
+1323,353,2025-05-12,Completado,Transferencia,0.0,18
+1324,283,2025-11-16,Cancelado,Transferencia,2.5,10
+1325,373,2025-10-30,Completado,Tarjeta de débito,0.0,12
+1326,137,2026-04-01,Completado,Billetera virtual,0.0,
+1327,228,2024-06-06,Pendiente,Billetera virtual,4.99,18
+1328,61,2026-04-20,Completado,Tarjeta de crédito,2.5,2
+1329,159,2025-03-18,Completado,Efectivo (retiro en local),0.0,13
+1330,568,2025-03-02,Completado,Efectivo (retiro en local),0.0,5
+1331,454,2024-10-28,Completado,Efectivo (retiro en local),4.99,2
+1332,369,2025-10-15,Cancelado,Tarjeta de crédito,4.99,12
+1333,130,2025-11-05,Pendiente,Tarjeta de crédito,7.99,6
+1334,523,2026-04-22,Cancelado,Efectivo (retiro en local),0.0,
+1335,456,2025-02-12,Completado,Billetera virtual,4.99,16
+1336,353,2025-10-18,Pendiente,Transferencia,4.99,16
+1337,51,2026-05-08,Completado,Transferencia,0.0,14
+1338,326,2024-10-26,Completado,Billetera virtual,0.0,5
+1339,165,2026-03-18,Cancelado,Billetera virtual,0.0,6
+1340,145,2025-02-12,Completado,Tarjeta de débito,0.0,14
+1341,130,2025-04-12,Completado,Transferencia,0.0,5
+1342,388,2024-06-16,Completado,Transferencia,0.0,9
+1343,330,2026-03-18,Cancelado,Tarjeta de débito,4.99,10
+1344,402,2024-12-06,Reembolsado,Efectivo (retiro en local),4.99,
+1345,392,2026-02-09,Completado,Billetera virtual,0.0,10
+1346,601,2024-11-08,Cancelado,Tarjeta de crédito,0.0,15
+1347,217,2025-06-18,Cancelado,Tarjeta de débito,2.5,17
+1348,349,2025-06-21,Reembolsado,Transferencia,7.99,13
+1349,3,2026-06-15,Completado,Efectivo (retiro en local),4.99,2
+1350,240,2024-08-24,Completado,Billetera virtual,2.5,15
+1351,452,2026-06-22,Completado,Tarjeta de débito,2.5,
+1352,362,2024-12-18,Reembolsado,Efectivo (retiro en local),7.99,1
+1353,431,2026-05-30,Completado,Transferencia,0.0,9
+1354,164,2025-12-20,Completado,Transferencia,2.5,15
+1355,62,2024-11-07,Completado,Tarjeta de débito,0.0,1
+1356,498,2024-10-05,Cancelado,Transferencia,4.99,2
+1357,530,2026-06-08,Completado,Efectivo (retiro en local),0.0,11
+1358,198,2024-06-23,Completado,Tarjeta de crédito,7.99,5
+1359,214,2024-10-08,Completado,Efectivo (retiro en local),7.99,6
+1360,509,2025-07-28,Completado,Efectivo (retiro en local),0.0,8
+1361,32,2025-07-03,Pendiente,Transferencia,0.0,11
+1362,354,2025-01-12,Pendiente,Tarjeta de débito,2.5,9
+1363,592,2025-03-22,Reembolsado,Transferencia,0.0,
+1364,113,2024-10-25,Pendiente,Tarjeta de crédito,2.5,2
+1365,75,2024-10-13,Cancelado,Tarjeta de crédito,0.0,11
+1366,354,2025-10-18,Reembolsado,Efectivo (retiro en local),2.5,2
+1367,160,2026-05-12,Completado,Efectivo (retiro en local),7.99,6
+1368,225,2026-04-19,Completado,Efectivo (retiro en local),2.5,4
+1369,156,2024-06-28,Pendiente,Tarjeta de crédito,7.99,14
+1370,463,2026-04-23,Cancelado,Billetera virtual,0.0,14
+1371,391,2024-06-09,Pendiente,Transferencia,7.99,6
+1372,96,2025-12-30,Completado,Transferencia,0.0,18
+1373,299,2025-07-06,Completado,Billetera virtual,0.0,14
+1374,537,2026-06-22,Cancelado,Efectivo (retiro en local),7.99,
+1375,522,2025-05-15,Completado,Tarjeta de débito,0.0,4
+1376,326,2025-06-26,Completado,Billetera virtual,0.0,13
+1377,106,2025-08-21,Completado,Tarjeta de crédito,0.0,14
+1378,488,2024-07-13,Reembolsado,Transferencia,0.0,8
+1379,146,2024-09-05,Completado,Billetera virtual,0.0,15
+1380,275,2025-08-10,Completado,Efectivo (retiro en local),2.5,17
+1381,474,2024-12-01,Completado,Billetera virtual,2.5,16
+1382,245,2024-06-05,Pendiente,Efectivo (retiro en local),2.5,4
+1383,9,2026-03-17,Completado,Tarjeta de débito,4.99,3
+1384,63,2024-06-09,Completado,Tarjeta de crédito,0.0,
+1385,303,2026-04-23,Completado,Billetera virtual,0.0,
+1386,594,2026-01-18,Reembolsado,Billetera virtual,0.0,10
+1387,295,2025-02-28,Completado,Tarjeta de crédito,4.99,9
+1388,374,2024-12-18,Pendiente,Billetera virtual,4.99,4
+1389,14,2025-09-13,Completado,Transferencia,7.99,7
+1390,407,2026-05-27,Pendiente,Tarjeta de débito,2.5,
+1391,358,2025-12-26,Cancelado,Tarjeta de débito,7.99,6
+1392,111,2025-03-18,Cancelado,Billetera virtual,2.5,16
+1393,518,2025-07-29,Reembolsado,Billetera virtual,0.0,5
+1394,374,2024-10-28,Pendiente,Efectivo (retiro en local),0.0,7
+1395,145,2024-06-22,Cancelado,Billetera virtual,7.99,
+1396,328,2024-08-28,Cancelado,Tarjeta de crédito,4.99,8
+1397,328,2025-08-05,Pendiente,Tarjeta de débito,2.5,17
+1398,539,2026-01-31,Cancelado,Tarjeta de débito,0.0,15
+1399,557,2026-02-05,Pendiente,Tarjeta de débito,4.99,
+1400,85,2024-10-22,Completado,Billetera virtual,4.99,
+1401,91,2024-07-08,Completado,Efectivo (retiro en local),0.0,5
+1402,208,2026-02-10,Completado,Efectivo (retiro en local),4.99,7
+1403,239,2025-09-29,Completado,Transferencia,7.99,
+1404,101,2025-11-04,Completado,Billetera virtual,2.5,2
+1405,443,2025-08-20,Completado,Efectivo (retiro en local),7.99,14
+1406,407,2024-08-27,Completado,Transferencia,0.0,3
+1407,445,2025-04-27,Cancelado,Billetera virtual,2.5,7
+1408,379,2026-06-30,Cancelado,Tarjeta de crédito,0.0,
+1409,452,2024-09-20,Pendiente,Billetera virtual,0.0,13
+1410,41,2024-07-28,Pendiente,Transferencia,0.0,
+1411,145,2026-01-25,Completado,Tarjeta de crédito,0.0,1
+1412,37,2025-10-19,Completado,Tarjeta de débito,4.99,
+1413,575,2024-06-17,Completado,Tarjeta de débito,0.0,
+1414,481,2026-06-23,Reembolsado,Transferencia,0.0,8
+1415,312,2025-02-15,Completado,Tarjeta de débito,0.0,8
+1416,563,2025-12-02,Reembolsado,Billetera virtual,0.0,14
+1417,561,2025-08-14,Reembolsado,Tarjeta de débito,2.5,13
+1418,485,2025-06-09,Cancelado,Billetera virtual,0.0,14
+1419,313,2025-04-23,Pendiente,Tarjeta de crédito,0.0,
+1420,502,2024-10-24,Pendiente,Efectivo (retiro en local),0.0,6
+1421,360,2024-09-21,Completado,Tarjeta de crédito,7.99,2
+1422,190,2025-12-28,Completado,Transferencia,0.0,8
+1423,504,2026-02-26,Pendiente,Transferencia,0.0,
+1424,362,2026-01-11,Completado,Transferencia,0.0,10
+1425,53,2025-11-19,Completado,Billetera virtual,0.0,14
+1426,266,2026-03-10,Pendiente,Billetera virtual,0.0,17
+1427,81,2025-10-02,Reembolsado,Transferencia,0.0,9
+1428,453,2025-02-12,Completado,Tarjeta de crédito,0.0,
+1429,30,2025-11-09,Completado,Efectivo (retiro en local),0.0,14
+1430,345,2024-08-15,Completado,Billetera virtual,0.0,7
+1431,103,2024-11-25,Pendiente,Tarjeta de débito,0.0,5
+1432,376,2024-07-18,Pendiente,Tarjeta de débito,4.99,3
+1433,453,2025-06-23,Completado,Tarjeta de débito,4.99,17
+1434,25,2025-03-20,Reembolsado,Transferencia,0.0,
+1435,599,2024-09-26,Reembolsado,Billetera virtual,4.99,2
+1436,253,2025-07-12,Cancelado,Tarjeta de crédito,0.0,12
+1437,368,2024-10-19,Cancelado,Efectivo (retiro en local),7.99,12
+1438,11,2024-11-29,Completado,Tarjeta de débito,7.99,10
+1439,49,2025-01-30,Reembolsado,Tarjeta de crédito,0.0,
+1440,322,2024-09-11,Completado,Tarjeta de débito,0.0,10
+1441,3,2024-09-09,Completado,Efectivo (retiro en local),7.99,15
+1442,79,2026-04-20,Completado,Efectivo (retiro en local),0.0,18
+1443,607,2026-05-25,Completado,Billetera virtual,2.5,13
+1444,103,2024-07-22,Completado,Tarjeta de crédito,2.5,1
+1445,113,2026-01-20,Pendiente,Tarjeta de crédito,4.99,6
+1446,191,2025-09-08,Completado,Billetera virtual,0.0,5
+1447,391,2025-08-26,Cancelado,Tarjeta de débito,0.0,9
+1448,144,2025-01-09,Reembolsado,Transferencia,7.99,10
+1449,181,2025-10-20,Completado,Tarjeta de débito,7.99,4
+1450,469,2025-08-01,Pendiente,Tarjeta de crédito,7.99,7
+1451,116,2026-02-06,Completado,Efectivo (retiro en local),7.99,11
+1452,387,2025-12-04,Cancelado,Billetera virtual,4.99,14
+1453,233,2026-05-08,Pendiente,Tarjeta de crédito,0.0,16
+1454,60,2025-06-28,Completado,Efectivo (retiro en local),0.0,6
+1455,149,2026-01-14,Completado,Tarjeta de crédito,4.99,12
+1456,21,2024-08-29,Cancelado,Tarjeta de crédito,2.5,16
+1457,59,2025-04-20,Completado,Tarjeta de débito,0.0,13
+1458,420,2025-05-10,Completado,Transferencia,4.99,1
+1459,97,2024-11-20,Cancelado,Billetera virtual,0.0,9
+1460,605,2026-03-26,Cancelado,Efectivo (retiro en local),0.0,10
+1461,200,2025-08-06,Completado,Tarjeta de débito,0.0,13
+1462,350,2026-05-13,Completado,Tarjeta de débito,7.99,17
+1463,189,2025-04-27,Cancelado,Tarjeta de crédito,7.99,6
+1464,268,2025-06-02,Completado,Tarjeta de crédito,0.0,15
+1465,482,2026-02-03,Completado,Efectivo (retiro en local),7.99,8
+1466,472,2025-10-09,Reembolsado,Tarjeta de débito,0.0,18
+1467,212,2025-01-07,Cancelado,Billetera virtual,0.0,11
+1468,176,2026-03-24,Completado,Transferencia,0.0,17
+1469,318,2025-03-25,Completado,Tarjeta de débito,0.0,15
+1470,316,2025-08-24,Completado,Transferencia,7.99,
+1471,345,2025-08-01,Completado,Tarjeta de crédito,4.99,16
+1472,319,2026-03-14,Completado,Transferencia,0.0,
+1473,179,2025-02-03,Completado,Billetera virtual,7.99,10
+1474,67,2026-03-03,Pendiente,Efectivo (retiro en local),0.0,17
+1475,313,2024-10-08,Completado,Tarjeta de débito,0.0,
+1476,264,2024-12-31,Completado,Transferencia,0.0,14
+1477,137,2025-12-20,Completado,Transferencia,0.0,12
+1478,9,2025-02-10,Cancelado,Billetera virtual,4.99,11
+1479,128,2025-12-15,Cancelado,Tarjeta de débito,0.0,
+1480,419,2026-05-19,Completado,Billetera virtual,7.99,18
+1481,268,2026-02-27,Completado,Tarjeta de crédito,0.0,
+1482,368,2025-08-03,Completado,Transferencia,0.0,18
+1483,186,2024-12-27,Completado,Tarjeta de débito,0.0,17
+1484,319,2024-07-17,Completado,Transferencia,0.0,15
+1485,247,2025-12-04,Completado,Billetera virtual,2.5,3
+1486,54,2026-04-19,Completado,Tarjeta de débito,0.0,14
+1487,592,2025-06-22,Cancelado,Transferencia,0.0,17
+1488,537,2025-06-21,Pendiente,Billetera virtual,0.0,4
+1489,387,2026-06-27,Reembolsado,Tarjeta de débito,0.0,1
+1490,178,2026-04-23,Completado,Tarjeta de débito,2.5,5
+1491,294,2026-03-28,Completado,Transferencia,4.99,8
+1492,29,2025-02-01,Completado,Billetera virtual,2.5,11
+1493,325,2025-09-26,Pendiente,Tarjeta de débito,7.99,4
+1494,48,2026-01-06,Pendiente,Transferencia,7.99,
+1495,433,2025-06-10,Completado,Transferencia,0.0,4
+1496,38,2025-02-22,Completado,Tarjeta de crédito,4.99,
+1497,599,2026-04-13,Completado,Billetera virtual,0.0,
+1498,284,2025-07-17,Completado,Tarjeta de crédito,0.0,7
+1499,393,2025-12-13,Completado,Efectivo (retiro en local),0.0,9
+1500,70,2025-03-10,Reembolsado,Tarjeta de débito,7.99,5
+1501,324,2025-03-12,Pendiente,Billetera virtual,7.99,5
+1502,250,2025-01-05,Cancelado,Efectivo (retiro en local),0.0,6
+1503,289,2024-09-14,Completado,Tarjeta de débito,7.99,5
+1504,193,2024-06-09,Completado,Transferencia,4.99,9
+1505,540,2025-12-03,Completado,Tarjeta de débito,7.99,1
+1506,532,2024-09-22,Completado,Billetera virtual,0.0,17
+1507,319,2025-11-28,Pendiente,Efectivo (retiro en local),0.0,15
+1508,546,2024-08-06,Pendiente,Transferencia,2.5,4
+1509,248,2024-07-24,Pendiente,Efectivo (retiro en local),7.99,1
+1510,90,2025-03-30,Reembolsado,Billetera virtual,0.0,4
+1511,61,2025-04-11,Completado,Tarjeta de crédito,2.5,12
+1512,313,2025-04-30,Completado,Tarjeta de crédito,4.99,3
+1513,392,2026-03-19,Completado,Efectivo (retiro en local),0.0,
+1514,257,2024-10-16,Pendiente,Tarjeta de crédito,2.5,15
+1515,512,2025-05-31,Reembolsado,Billetera virtual,0.0,18
+1516,361,2025-10-18,Completado,Tarjeta de débito,4.99,18
+1517,261,2024-12-13,Cancelado,Billetera virtual,0.0,2
+1518,566,2024-06-30,Completado,Tarjeta de débito,0.0,
+1519,86,2026-03-12,Cancelado,Efectivo (retiro en local),4.99,8
+1520,573,2025-10-17,Cancelado,Efectivo (retiro en local),4.99,12
+1521,142,2026-01-27,Completado,Tarjeta de crédito,0.0,4
+1522,125,2026-06-09,Reembolsado,Transferencia,4.99,16
+1523,49,2025-06-06,Completado,Transferencia,2.5,2
+1524,570,2025-02-17,Pendiente,Efectivo (retiro en local),4.99,10
+1525,2,2024-09-22,Cancelado,Tarjeta de débito,0.0,5
+1526,420,2026-03-17,Completado,Efectivo (retiro en local),0.0,17
+1527,206,2024-08-23,Completado,Transferencia,0.0,8
+1528,396,2026-05-02,Completado,Billetera virtual,2.5,8
+1529,505,2025-08-09,Completado,Transferencia,0.0,6
+1530,52,2026-01-01,Completado,Transferencia,7.99,14
+1531,336,2026-01-11,Completado,Tarjeta de débito,0.0,6
+1532,172,2025-10-05,Completado,Billetera virtual,4.99,
+1533,342,2025-01-11,Completado,Tarjeta de débito,0.0,14
+1534,42,2026-02-20,Completado,Billetera virtual,0.0,10
+1535,307,2026-03-02,Cancelado,Tarjeta de crédito,0.0,17
+1536,374,2026-06-26,Completado,Tarjeta de débito,0.0,9
+1537,328,2025-12-15,Completado,Tarjeta de crédito,0.0,10
+1538,525,2025-03-01,Completado,Billetera virtual,0.0,12
+1539,315,2026-02-09,Pendiente,Tarjeta de débito,0.0,4
+1540,183,2025-11-15,Pendiente,Tarjeta de débito,4.99,18
+1541,38,2025-10-06,Completado,Transferencia,0.0,7
+1542,3,2026-01-18,Completado,Efectivo (retiro en local),0.0,13
+1543,342,2026-03-21,Completado,Billetera virtual,2.5,5
+1544,361,2025-06-10,Completado,Efectivo (retiro en local),0.0,10
+1545,384,2025-09-22,Completado,Efectivo (retiro en local),7.99,8
+1546,597,2025-05-19,Completado,Efectivo (retiro en local),0.0,13
+1547,121,2024-12-16,Completado,Tarjeta de débito,0.0,4
+1548,99,2025-02-16,Reembolsado,Billetera virtual,7.99,16
+1549,196,2026-02-14,Pendiente,Billetera virtual,0.0,
+1550,32,2026-04-06,Pendiente,Tarjeta de crédito,0.0,12
+1551,277,2026-01-10,Completado,Billetera virtual,4.99,11
+1552,256,2025-05-28,Completado,Billetera virtual,2.5,5
+1553,220,2025-03-04,Pendiente,Tarjeta de crédito,0.0,5
+1554,318,2024-11-16,Completado,Transferencia,4.99,5
+1555,23,2024-12-18,Reembolsado,Tarjeta de crédito,7.99,
+1556,606,2025-02-26,Reembolsado,Tarjeta de crédito,0.0,14
+1557,151,2025-05-08,Pendiente,Efectivo (retiro en local),0.0,10
+1558,325,2025-03-14,Completado,Tarjeta de crédito,0.0,14
+1559,392,2025-09-04,Completado,Efectivo (retiro en local),0.0,8
+1560,440,2025-11-08,Completado,Tarjeta de crédito,4.99,6
+1561,62,2024-09-08,Completado,Tarjeta de débito,2.5,3
+1562,495,2025-08-20,Completado,Efectivo (retiro en local),0.0,12
+1563,511,2024-10-29,Completado,Transferencia,4.99,14
+1564,440,2025-09-22,Completado,Tarjeta de crédito,4.99,17
+1565,237,2026-02-14,Reembolsado,Tarjeta de crédito,2.5,6
+1566,401,2025-09-19,Completado,Billetera virtual,0.0,3
+1567,255,2026-03-15,Completado,Tarjeta de débito,0.0,3
+1568,145,2026-02-08,Completado,Tarjeta de débito,0.0,15
+1569,371,2025-09-03,Completado,Transferencia,0.0,13
+1570,312,2024-07-19,Pendiente,Tarjeta de crédito,0.0,15
+1571,13,2025-01-12,Completado,Efectivo (retiro en local),2.5,1
+1572,260,2026-05-17,Completado,Tarjeta de crédito,0.0,
+1573,414,2025-09-12,Completado,Billetera virtual,0.0,
+1574,182,2025-02-26,Cancelado,Billetera virtual,7.99,12
+1575,450,2026-06-13,Pendiente,Tarjeta de débito,0.0,15
+1576,350,2025-03-24,Completado,Billetera virtual,0.0,12
+1577,360,2025-08-03,Completado,Billetera virtual,0.0,14
+1578,390,2025-11-24,Pendiente,Transferencia,7.99,11
+1579,187,2026-03-28,Reembolsado,Billetera virtual,0.0,4
+1580,455,2024-08-11,Reembolsado,Tarjeta de crédito,0.0,12
+1581,553,2026-03-31,Completado,Transferencia,0.0,3
+1582,604,2025-01-22,Completado,Transferencia,2.5,
+1583,551,2025-07-07,Completado,Tarjeta de débito,4.99,7
+1584,50,2024-07-04,Pendiente,Billetera virtual,0.0,6
+1585,543,2024-06-07,Completado,Tarjeta de débito,2.5,11
+1586,29,2026-04-27,Completado,Tarjeta de crédito,0.0,16
+1587,96,2026-02-27,Reembolsado,Transferencia,4.99,10
+1588,318,2026-01-03,Completado,Billetera virtual,0.0,16
+1589,118,2025-08-12,Completado,Tarjeta de débito,0.0,3
+1590,164,2026-06-19,Reembolsado,Tarjeta de crédito,0.0,13
+1591,426,2024-10-13,Pendiente,Billetera virtual,0.0,18
+1592,585,2025-09-02,Completado,Transferencia,0.0,
+1593,556,2024-12-11,Completado,Tarjeta de crédito,4.99,9
+1594,411,2025-10-11,Completado,Transferencia,7.99,15
+1595,509,2026-02-14,Pendiente,Billetera virtual,7.99,2
+1596,586,2024-10-12,Completado,Tarjeta de crédito,4.99,2
+1597,608,2024-09-14,Completado,Efectivo (retiro en local),7.99,9
+1598,478,2025-05-09,Pendiente,Billetera virtual,0.0,1
+1599,82,2025-11-12,Cancelado,Tarjeta de débito,7.99,
+1600,445,2026-05-27,Pendiente,Billetera virtual,2.5,3
+1601,169,2026-02-09,Pendiente,Billetera virtual,0.0,13
+1602,315,2025-01-15,Cancelado,Tarjeta de crédito,0.0,17
+1603,68,2025-08-04,Reembolsado,Transferencia,2.5,5
+1604,275,2026-03-07,Completado,Tarjeta de crédito,7.99,8
+1605,189,2024-12-04,Completado,Transferencia,0.0,6
+1606,280,2025-09-03,Pendiente,Transferencia,0.0,3
+1607,171,2025-08-16,Pendiente,Tarjeta de débito,7.99,7
+1608,465,2025-07-22,Completado,Transferencia,0.0,2
+1609,505,2026-02-04,Completado,Tarjeta de crédito,7.99,11
+1610,218,2026-06-28,Pendiente,Efectivo (retiro en local),0.0,9
+1611,524,2024-09-09,Completado,Tarjeta de débito,0.0,13
+1612,236,2025-08-08,Completado,Tarjeta de crédito,0.0,2
+1613,46,2025-04-28,Completado,Billetera virtual,0.0,2
+1614,375,2025-06-01,Completado,Efectivo (retiro en local),2.5,
+1615,382,2024-08-29,Completado,Transferencia,0.0,14
+1616,256,2026-06-21,Completado,Tarjeta de crédito,0.0,5
+1617,125,2025-07-07,Completado,Tarjeta de débito,0.0,14
+1618,421,2024-10-16,Pendiente,Tarjeta de crédito,7.99,15
+1619,297,2024-11-05,Completado,Transferencia,4.99,15
+1620,433,2024-06-25,Cancelado,Tarjeta de crédito,7.99,16
+1621,292,2025-08-02,Reembolsado,Tarjeta de crédito,0.0,4
+1622,362,2025-08-05,Cancelado,Tarjeta de crédito,0.0,18
+1623,410,2025-12-23,Cancelado,Tarjeta de débito,2.5,13
+1624,161,2024-06-02,Reembolsado,Efectivo (retiro en local),0.0,7
+1625,533,2026-02-03,Cancelado,Efectivo (retiro en local),0.0,1
+1626,37,2025-08-20,Completado,Efectivo (retiro en local),4.99,11
+1627,375,2025-07-17,Completado,Transferencia,0.0,
+1628,494,2025-02-03,Completado,Tarjeta de débito,0.0,10
+1629,148,2025-02-24,Reembolsado,Tarjeta de crédito,0.0,9
+1630,564,2024-12-31,Cancelado,Billetera virtual,2.5,18
+1631,226,2026-04-19,Completado,Tarjeta de crédito,0.0,16
+1632,315,2026-02-24,Completado,Tarjeta de crédito,2.5,6
+1633,278,2025-07-29,Pendiente,Billetera virtual,0.0,14
+1634,133,2025-01-16,Completado,Tarjeta de crédito,0.0,10
+1635,520,2024-06-13,Completado,Tarjeta de crédito,2.5,10
+1636,35,2026-01-19,Cancelado,Billetera virtual,0.0,11
+1637,331,2025-12-17,Pendiente,Transferencia,0.0,7
+1638,153,2025-02-13,Cancelado,Efectivo (retiro en local),2.5,4
+1639,79,2025-04-04,Completado,Tarjeta de crédito,0.0,
+1640,390,2026-04-27,Completado,Efectivo (retiro en local),0.0,6
+1641,419,2024-06-07,Completado,Tarjeta de crédito,0.0,6
+1642,498,2025-07-25,Cancelado,Efectivo (retiro en local),7.99,4
+1643,114,2025-12-28,Reembolsado,Tarjeta de crédito,0.0,
+1644,370,2025-07-30,Completado,Efectivo (retiro en local),7.99,6
+1645,516,2025-09-13,Cancelado,Tarjeta de débito,0.0,
+1646,486,2024-10-07,Pendiente,Tarjeta de débito,2.5,8
+1647,236,2025-02-08,Cancelado,Tarjeta de crédito,7.99,5
+1648,462,2025-05-26,Completado,Tarjeta de crédito,7.99,18
+1649,232,2025-07-11,Completado,Billetera virtual,0.0,
+1650,534,2025-07-15,Completado,Efectivo (retiro en local),0.0,15
+1651,55,2025-09-10,Pendiente,Billetera virtual,0.0,
+1652,106,2024-09-22,Completado,Billetera virtual,0.0,16
+1653,607,2025-08-08,Completado,Transferencia,0.0,5
+1654,351,2025-06-19,Completado,Tarjeta de débito,4.99,1
+1655,414,2025-05-23,Completado,Billetera virtual,7.99,1
+1656,201,2025-12-26,Pendiente,Transferencia,4.99,10
+1657,81,2025-02-03,Completado,Efectivo (retiro en local),0.0,1
+1658,474,2026-02-13,Completado,Tarjeta de crédito,7.99,1
+1659,548,2026-05-12,Cancelado,Billetera virtual,0.0,1
+1660,244,2025-02-12,Reembolsado,Tarjeta de débito,2.5,1
+1661,86,2025-05-01,Completado,Tarjeta de crédito,2.5,
+1662,311,2026-04-13,Completado,Efectivo (retiro en local),4.99,
+1663,423,2025-06-07,Completado,Billetera virtual,0.0,17
+1664,84,2025-11-21,Reembolsado,Billetera virtual,0.0,1
+1665,606,2024-08-07,Completado,Billetera virtual,2.5,6
+1666,592,2026-04-14,Completado,Efectivo (retiro en local),7.99,5
+1667,105,2024-11-27,Completado,Efectivo (retiro en local),0.0,12
+1668,255,2026-03-07,Completado,Efectivo (retiro en local),2.5,14
+1669,228,2025-01-13,Completado,Billetera virtual,0.0,
+1670,171,2025-10-07,Cancelado,Billetera virtual,4.99,
+1671,273,2025-07-05,Completado,Billetera virtual,0.0,1
+1672,328,2025-05-19,Reembolsado,Efectivo (retiro en local),4.99,16
+1673,88,2024-08-15,Completado,Billetera virtual,7.99,4
+1674,374,2025-12-21,Completado,Tarjeta de débito,0.0,4
+1675,256,2024-07-03,Reembolsado,Efectivo (retiro en local),7.99,2
+1676,298,2025-12-10,Completado,Tarjeta de débito,0.0,
+1677,165,2025-10-15,Cancelado,Billetera virtual,0.0,18
+1678,34,2025-11-08,Completado,Efectivo (retiro en local),0.0,15
+1679,463,2024-10-16,Completado,Tarjeta de débito,0.0,
+1680,146,2026-03-18,Completado,Tarjeta de débito,2.5,8
+1681,574,2024-07-01,Pendiente,Efectivo (retiro en local),0.0,11
+1682,261,2025-06-18,Completado,Transferencia,0.0,
+1683,98,2025-10-15,Completado,Transferencia,0.0,16
+1684,426,2024-09-10,Reembolsado,Tarjeta de débito,0.0,8
+1685,566,2024-07-20,Completado,Efectivo (retiro en local),4.99,4
+1686,349,2026-04-24,Completado,Efectivo (retiro en local),0.0,
+1687,163,2025-04-29,Completado,Efectivo (retiro en local),7.99,11
+1688,456,2025-03-10,Cancelado,Efectivo (retiro en local),0.0,5
+1689,547,2025-11-02,Completado,Efectivo (retiro en local),2.5,1
+1690,362,2025-12-30,Completado,Billetera virtual,0.0,12
+1691,147,2025-08-27,Pendiente,Transferencia,0.0,1
+1692,366,2025-11-26,Cancelado,Billetera virtual,0.0,1
+1693,527,2024-12-18,Completado,Billetera virtual,2.5,
+1694,109,2026-06-29,Completado,Tarjeta de débito,7.99,16
+1695,532,2026-04-24,Completado,Tarjeta de débito,4.99,9
+1696,602,2025-03-19,Cancelado,Efectivo (retiro en local),4.99,18
+1697,596,2024-11-22,Reembolsado,Billetera virtual,0.0,10
+1698,528,2025-01-01,Cancelado,Efectivo (retiro en local),0.0,18
+1699,539,2025-04-13,Pendiente,Tarjeta de débito,0.0,
+1700,27,2026-03-20,Reembolsado,Tarjeta de crédito,2.5,14
+1701,142,2026-05-01,Pendiente,Billetera virtual,0.0,4
+1702,292,2026-03-01,Completado,Tarjeta de débito,0.0,17
+1703,252,2025-03-02,Completado,Billetera virtual,0.0,7
+1704,153,2024-07-08,Completado,Billetera virtual,0.0,13
+1705,114,2024-11-11,Completado,Efectivo (retiro en local),4.99,5
+1706,555,2026-03-27,Completado,Tarjeta de crédito,0.0,10
+1707,349,2026-01-16,Completado,Tarjeta de crédito,0.0,11
+1708,552,2026-02-11,Pendiente,Transferencia,0.0,5
+1709,421,2024-07-07,Completado,Efectivo (retiro en local),0.0,5
+1710,578,2025-08-29,Completado,Transferencia,7.99,
+1711,58,2024-12-30,Cancelado,Tarjeta de débito,0.0,7
+1712,75,2026-06-29,Cancelado,Tarjeta de débito,4.99,10
+1713,524,2025-01-25,Reembolsado,Billetera virtual,2.5,6
+1714,456,2024-11-18,Cancelado,Tarjeta de débito,0.0,10
+1715,591,2025-12-19,Completado,Transferencia,0.0,11
+1716,20,2026-03-25,Completado,Transferencia,2.5,2
+1717,550,2025-02-23,Completado,Billetera virtual,0.0,17
+1718,527,2025-10-26,Cancelado,Billetera virtual,0.0,15
+1719,73,2026-05-26,Reembolsado,Billetera virtual,0.0,1
+1720,412,2025-06-23,Completado,Billetera virtual,4.99,9
+1721,196,2024-10-05,Completado,Transferencia,0.0,15
+1722,88,2026-02-22,Cancelado,Transferencia,4.99,
+1723,57,2025-09-26,Pendiente,Transferencia,0.0,7
+1724,156,2026-03-26,Completado,Billetera virtual,0.0,
+1725,371,2024-06-29,Reembolsado,Tarjeta de débito,0.0,9
+1726,168,2026-05-04,Pendiente,Tarjeta de débito,7.99,17
+1727,482,2025-06-09,Cancelado,Efectivo (retiro en local),2.5,6
+1728,172,2025-05-21,Completado,Billetera virtual,7.99,17
+1729,217,2025-08-26,Completado,Tarjeta de crédito,7.99,9
+1730,236,2025-08-29,Pendiente,Billetera virtual,2.5,16
+1731,48,2025-06-07,Cancelado,Transferencia,4.99,10
+1732,455,2025-02-17,Completado,Transferencia,0.0,16
+1733,59,2026-05-19,Cancelado,Transferencia,7.99,
+1734,465,2026-06-11,Reembolsado,Tarjeta de débito,7.99,6
+1735,105,2026-06-06,Cancelado,Tarjeta de débito,0.0,7
+1736,494,2026-06-09,Cancelado,Transferencia,7.99,13
+1737,549,2024-07-19,Pendiente,Transferencia,0.0,2
+1738,71,2025-01-28,Completado,Tarjeta de crédito,0.0,17
+1739,446,2024-12-04,Reembolsado,Billetera virtual,0.0,
+1740,412,2024-10-18,Reembolsado,Tarjeta de débito,7.99,5
+1741,259,2025-11-13,Completado,Transferencia,0.0,1
+1742,504,2024-08-09,Cancelado,Billetera virtual,7.99,18
+1743,65,2024-09-16,Completado,Tarjeta de crédito,0.0,15
+1744,500,2025-12-05,Pendiente,Tarjeta de crédito,2.5,11
+1745,523,2025-05-06,Cancelado,Billetera virtual,2.5,5
+1746,78,2024-11-23,Reembolsado,Efectivo (retiro en local),7.99,15
+1747,158,2024-07-16,Completado,Tarjeta de crédito,7.99,5
+1748,164,2024-06-18,Completado,Billetera virtual,2.5,14
+1749,250,2024-11-01,Completado,Efectivo (retiro en local),2.5,12
+1750,351,2025-08-10,Completado,Tarjeta de débito,7.99,2
+1751,129,2025-09-17,Completado,Tarjeta de débito,0.0,15
+1752,346,2025-03-25,Completado,Efectivo (retiro en local),4.99,5
+1753,472,2025-01-25,Cancelado,Billetera virtual,0.0,10
+1754,167,2025-03-18,Cancelado,Efectivo (retiro en local),0.0,9
+1755,500,2025-07-28,Completado,Efectivo (retiro en local),4.99,8
+1756,251,2026-01-11,Cancelado,Tarjeta de crédito,7.99,1
+1757,230,2025-02-09,Completado,Billetera virtual,4.99,17
+1758,18,2024-09-28,Completado,Tarjeta de débito,0.0,12
+1759,327,2025-06-26,Completado,Efectivo (retiro en local),2.5,17
+1760,380,2025-06-12,Completado,Transferencia,0.0,18
+1761,308,2025-11-09,Completado,Transferencia,0.0,15
+1762,376,2024-10-25,Pendiente,Tarjeta de crédito,2.5,14
+1763,42,2026-04-12,Completado,Billetera virtual,7.99,10
+1764,292,2025-03-20,Completado,Tarjeta de débito,4.99,4
+1765,586,2025-04-21,Cancelado,Efectivo (retiro en local),0.0,
+1766,9,2024-08-28,Cancelado,Efectivo (retiro en local),0.0,1
+1767,207,2025-01-06,Cancelado,Efectivo (retiro en local),2.5,3
+1768,170,2026-02-25,Completado,Tarjeta de débito,4.99,
+1769,167,2026-02-23,Cancelado,Efectivo (retiro en local),0.0,15
+1770,72,2026-04-18,Completado,Tarjeta de débito,0.0,10
+1771,88,2024-06-12,Pendiente,Tarjeta de débito,7.99,15
+1772,270,2026-01-28,Completado,Billetera virtual,0.0,13
+1773,354,2024-07-30,Pendiente,Billetera virtual,2.5,9
+1774,214,2024-09-29,Completado,Tarjeta de crédito,0.0,13
+1775,409,2025-09-16,Completado,Tarjeta de crédito,0.0,17
+1776,326,2025-11-18,Pendiente,Tarjeta de crédito,0.0,16
+1777,548,2025-10-16,Completado,Transferencia,7.99,15
+1778,564,2025-05-12,Reembolsado,Transferencia,0.0,8
+1779,25,2025-01-06,Completado,Efectivo (retiro en local),0.0,5
+1780,242,2025-07-27,Completado,Billetera virtual,0.0,14
+1781,91,2024-10-12,Completado,Billetera virtual,0.0,1
+1782,114,2025-03-03,Completado,Tarjeta de crédito,0.0,12
+1783,75,2025-07-30,Cancelado,Billetera virtual,0.0,1
+1784,350,2025-05-14,Reembolsado,Transferencia,2.5,9
+1785,280,2026-03-10,Reembolsado,Transferencia,0.0,8
+1786,102,2026-03-30,Pendiente,Billetera virtual,7.99,4
+1787,588,2024-08-27,Completado,Transferencia,0.0,15
+1788,266,2024-06-20,Completado,Transferencia,4.99,18
+1789,499,2026-01-06,Completado,Efectivo (retiro en local),0.0,1
+1790,87,2026-06-30,Pendiente,Billetera virtual,7.99,9
+1791,314,2025-09-16,Cancelado,Transferencia,7.99,8
+1792,456,2024-06-14,Completado,Efectivo (retiro en local),0.0,2
+1793,296,2024-11-25,Reembolsado,Tarjeta de débito,0.0,9
+1794,504,2026-01-09,Cancelado,Tarjeta de crédito,7.99,4
+1795,388,2025-03-08,Reembolsado,Billetera virtual,7.99,13
+1796,67,2025-11-20,Pendiente,Billetera virtual,0.0,14
+1797,597,2025-10-30,Completado,Tarjeta de crédito,4.99,12
+1798,190,2025-02-02,Completado,Billetera virtual,0.0,15
+1799,569,2024-07-02,Cancelado,Tarjeta de débito,0.0,10
+1800,209,2025-12-15,Completado,Efectivo (retiro en local),7.99,9
+1801,608,2024-06-22,Completado,Tarjeta de crédito,0.0,13
+1802,528,2025-01-27,Completado,Efectivo (retiro en local),0.0,17
+1803,420,2026-05-02,Completado,Efectivo (retiro en local),2.5,9
+1804,276,2025-05-15,Completado,Transferencia,2.5,2
+1805,592,2025-05-25,Completado,Tarjeta de crédito,0.0,7
+1806,129,2025-07-04,Reembolsado,Transferencia,0.0,3
+1807,391,2025-01-19,Completado,Tarjeta de crédito,2.5,14
+1808,572,2024-12-22,Completado,Efectivo (retiro en local),4.99,
+1809,215,2025-07-15,Reembolsado,Billetera virtual,4.99,4
+1810,410,2024-11-11,Pendiente,Efectivo (retiro en local),0.0,12
+1811,239,2025-01-21,Reembolsado,Billetera virtual,7.99,
+1812,35,2024-12-27,Reembolsado,Billetera virtual,0.0,6
+1813,85,2024-10-09,Completado,Billetera virtual,4.99,18
+1814,104,2026-01-28,Cancelado,Transferencia,7.99,1
+1815,502,2026-04-13,Reembolsado,Efectivo (retiro en local),0.0,12
+1816,227,2026-02-08,Completado,Efectivo (retiro en local),4.99,12
+1817,31,2024-10-09,Completado,Tarjeta de crédito,2.5,11
+1818,305,2026-01-03,Cancelado,Efectivo (retiro en local),2.5,5
+1819,1,2025-01-23,Cancelado,Transferencia,0.0,7
+1820,411,2025-02-03,Reembolsado,Billetera virtual,0.0,4
+1821,526,2025-10-16,Completado,Tarjeta de crédito,0.0,2
+1822,479,2024-12-26,Completado,Billetera virtual,0.0,3
+1823,518,2025-09-06,Completado,Efectivo (retiro en local),0.0,17
+1824,99,2026-01-16,Completado,Tarjeta de crédito,4.99,
+1825,158,2025-07-29,Completado,Transferencia,2.5,15
+1826,425,2025-03-27,Pendiente,Transferencia,7.99,15
+1827,503,2025-02-08,Reembolsado,Transferencia,2.5,11
+1828,196,2025-08-28,Cancelado,Transferencia,7.99,12
+1829,220,2025-10-29,Completado,Billetera virtual,0.0,8
+1830,585,2026-03-23,Cancelado,Billetera virtual,0.0,10
+1831,241,2025-10-30,Completado,Tarjeta de crédito,0.0,14
+1832,597,2024-10-04,Reembolsado,Tarjeta de crédito,2.5,
+1833,565,2025-07-24,Reembolsado,Efectivo (retiro en local),7.99,
+1834,494,2024-12-15,Pendiente,Efectivo (retiro en local),0.0,1
+1835,363,2025-09-20,Completado,Efectivo (retiro en local),0.0,9
+1836,590,2024-09-06,Reembolsado,Efectivo (retiro en local),0.0,16
+1837,572,2026-06-03,Pendiente,Transferencia,0.0,13
+1838,606,2025-01-12,Completado,Tarjeta de débito,0.0,4
+1839,219,2025-10-03,Pendiente,Tarjeta de crédito,2.5,13
+1840,109,2024-08-09,Reembolsado,Tarjeta de débito,2.5,2
+1841,607,2025-06-15,Completado,Billetera virtual,0.0,13
+1842,442,2024-07-20,Pendiente,Tarjeta de crédito,4.99,
+1843,236,2026-04-27,Cancelado,Efectivo (retiro en local),0.0,4
+1844,521,2025-10-21,Cancelado,Tarjeta de débito,0.0,11
+1845,569,2026-04-05,Reembolsado,Efectivo (retiro en local),7.99,17
+1846,415,2025-12-13,Completado,Transferencia,0.0,
+1847,415,2025-03-08,Pendiente,Tarjeta de crédito,7.99,15
+1848,417,2024-07-14,Cancelado,Tarjeta de crédito,7.99,17
+1849,341,2025-10-27,Completado,Billetera virtual,0.0,12
+1850,146,2026-02-13,Completado,Tarjeta de crédito,0.0,2
+1851,400,2026-02-10,Completado,Efectivo (retiro en local),0.0,4
+1852,293,2025-10-21,Completado,Efectivo (retiro en local),7.99,10
+1853,385,2025-11-14,Completado,Efectivo (retiro en local),0.0,2
+1854,535,2024-10-09,Completado,Billetera virtual,4.99,17
+1855,65,2025-06-08,Pendiente,Billetera virtual,0.0,4
+1856,281,2024-12-01,Completado,Transferencia,0.0,8
+1857,154,2024-06-09,Reembolsado,Transferencia,7.99,5
+1858,154,2024-10-08,Reembolsado,Tarjeta de crédito,0.0,17
+1859,232,2026-06-13,Completado,Transferencia,7.99,18
+1860,552,2025-10-11,Cancelado,Tarjeta de débito,0.0,4
+1861,223,2025-10-17,Cancelado,Efectivo (retiro en local),7.99,14
+1862,44,2026-04-29,Cancelado,Billetera virtual,0.0,7
+1863,341,2025-06-06,Cancelado,Billetera virtual,2.5,7
+1864,153,2025-04-19,Completado,Transferencia,7.99,3
+1865,540,2026-04-27,Cancelado,Tarjeta de débito,4.99,
+1866,269,2025-08-26,Completado,Billetera virtual,2.5,10
+1867,74,2026-05-02,Pendiente,Tarjeta de débito,7.99,10
+1868,270,2025-01-12,Completado,Tarjeta de crédito,0.0,10
+1869,606,2026-02-02,Completado,Transferencia,0.0,12
+1870,372,2025-01-19,Completado,Tarjeta de débito,0.0,16
+1871,309,2026-02-05,Cancelado,Billetera virtual,0.0,15
+1872,55,2026-05-29,Pendiente,Tarjeta de débito,0.0,9
+1873,165,2024-11-19,Completado,Tarjeta de débito,4.99,8
+1874,538,2025-01-10,Pendiente,Billetera virtual,4.99,12
+1875,362,2025-07-17,Completado,Tarjeta de crédito,7.99,12
+1876,516,2025-07-31,Pendiente,Efectivo (retiro en local),0.0,13
+1877,38,2025-07-17,Completado,Billetera virtual,0.0,6
+1878,534,2026-04-05,Completado,Billetera virtual,0.0,1
+1879,479,2025-12-23,Reembolsado,Tarjeta de crédito,2.5,
+1880,566,2026-03-03,Reembolsado,Transferencia,4.99,6
+1881,199,2026-05-07,Completado,Transferencia,4.99,13
+1882,375,2026-01-03,Completado,Transferencia,4.99,11
+1883,264,2026-01-31,Completado,Efectivo (retiro en local),0.0,5
+1884,118,2025-06-08,Pendiente,Tarjeta de crédito,0.0,1
+1885,343,2025-04-12,Cancelado,Tarjeta de crédito,0.0,7
+1886,268,2026-01-21,Cancelado,Tarjeta de crédito,0.0,
+1887,237,2025-07-02,Completado,Tarjeta de débito,0.0,16
+1888,450,2024-11-10,Completado,Transferencia,4.99,13
+1889,455,2026-02-23,Completado,Tarjeta de débito,2.5,12
+1890,316,2026-04-26,Cancelado,Tarjeta de crédito,2.5,13
+1891,417,2025-11-03,Cancelado,Efectivo (retiro en local),7.99,15
+1892,200,2025-07-26,Completado,Transferencia,2.5,
+1893,360,2026-01-30,Completado,Transferencia,7.99,8
+1894,328,2026-03-26,Completado,Tarjeta de débito,0.0,
+1895,537,2026-02-16,Completado,Transferencia,0.0,18
+1896,547,2025-06-16,Completado,Efectivo (retiro en local),0.0,3
+1897,282,2024-08-29,Completado,Tarjeta de crédito,7.99,10
+1898,145,2025-07-23,Completado,Efectivo (retiro en local),0.0,15
+1899,39,2025-02-09,Completado,Tarjeta de débito,2.5,4
+1900,495,2025-11-29,Completado,Efectivo (retiro en local),0.0,1
+1901,270,2025-02-13,Completado,Transferencia,2.5,18
+1902,188,2025-07-25,Completado,Tarjeta de débito,2.5,
+1903,409,2024-09-06,Pendiente,Tarjeta de débito,4.99,1
+1904,105,2026-05-18,Reembolsado,Tarjeta de débito,0.0,13
+1905,466,2025-11-23,Completado,Efectivo (retiro en local),7.99,18
+1906,360,2025-09-17,Completado,Billetera virtual,0.0,7
+1907,491,2024-12-07,Cancelado,Tarjeta de crédito,4.99,
+1908,263,2025-02-07,Reembolsado,Tarjeta de crédito,2.5,13
+1909,351,2024-11-06,Completado,Efectivo (retiro en local),4.99,
+1910,39,2024-10-12,Cancelado,Efectivo (retiro en local),7.99,17
+1911,31,2025-08-25,Cancelado,Efectivo (retiro en local),0.0,9
+1912,366,2025-01-07,Completado,Efectivo (retiro en local),0.0,
+1913,545,2024-10-22,Reembolsado,Tarjeta de crédito,7.99,10
+1914,539,2024-11-01,Completado,Transferencia,7.99,8
+1915,193,2025-11-10,Pendiente,Tarjeta de débito,2.5,6
+1916,374,2026-03-25,Completado,Billetera virtual,4.99,14
+1917,250,2024-07-25,Cancelado,Tarjeta de crédito,4.99,11
+1918,334,2026-06-25,Completado,Efectivo (retiro en local),4.99,2
+1919,370,2025-05-21,Pendiente,Transferencia,4.99,4
+1920,338,2025-04-04,Completado,Billetera virtual,7.99,13
+1921,255,2025-10-08,Cancelado,Billetera virtual,4.99,
+1922,339,2025-06-08,Cancelado,Transferencia,4.99,7
+1923,227,2025-05-18,Completado,Tarjeta de débito,2.5,11
+1924,203,2024-08-04,Completado,Transferencia,0.0,18
+1925,290,2025-06-09,Completado,Efectivo (retiro en local),0.0,7
+1926,220,2024-12-26,Completado,Billetera virtual,7.99,11
+1927,53,2025-03-28,Completado,Tarjeta de crédito,2.5,
+1928,229,2025-07-06,Cancelado,Billetera virtual,0.0,17
+1929,26,2024-08-30,Completado,Transferencia,0.0,15
+1930,166,2025-07-21,Completado,Tarjeta de crédito,0.0,17
+1931,602,2024-07-14,Completado,Tarjeta de crédito,7.99,5
+1932,443,2025-07-19,Completado,Transferencia,0.0,
+1933,573,2024-12-16,Pendiente,Tarjeta de débito,2.5,17
+1934,540,2025-08-31,Reembolsado,Tarjeta de crédito,0.0,6
+1935,598,2024-06-12,Pendiente,Efectivo (retiro en local),4.99,10
+1936,591,2024-10-28,Completado,Tarjeta de débito,0.0,10
+1937,424,2025-10-17,Completado,Efectivo (retiro en local),0.0,13
+1938,576,2026-04-25,Completado,Tarjeta de crédito,0.0,8
+1939,491,2026-03-30,Completado,Transferencia,7.99,6
+1940,299,2024-11-02,Completado,Efectivo (retiro en local),2.5,12
+1941,541,2025-05-22,Reembolsado,Tarjeta de crédito,0.0,11
+1942,191,2026-05-28,Cancelado,Efectivo (retiro en local),2.5,11
+1943,518,2026-02-21,Completado,Billetera virtual,0.0,
+1944,417,2025-06-06,Cancelado,Efectivo (retiro en local),0.0,8
+1945,116,2025-03-24,Completado,Transferencia,4.99,4
+1946,491,2026-06-20,Reembolsado,Transferencia,0.0,5
+1947,144,2024-09-20,Completado,Efectivo (retiro en local),4.99,12
+1948,252,2024-08-24,Cancelado,Tarjeta de débito,2.5,7
+1949,45,2024-11-27,Completado,Tarjeta de débito,2.5,
+1950,143,2024-07-26,Reembolsado,Tarjeta de débito,2.5,18
+1951,73,2024-11-30,Completado,Efectivo (retiro en local),0.0,10
+1952,380,2025-03-07,Cancelado,Transferencia,7.99,16
+1953,111,2026-05-25,Cancelado,Tarjeta de débito,0.0,2
+1954,588,2024-06-26,Completado,Tarjeta de crédito,0.0,
+1955,34,2025-04-20,Completado,Tarjeta de crédito,4.99,5
+1956,208,2025-01-30,Completado,Transferencia,2.5,9
+1957,460,2024-07-04,Reembolsado,Tarjeta de débito,0.0,12
+1958,350,2026-05-22,Reembolsado,Efectivo (retiro en local),0.0,15
+1959,388,2026-02-10,Completado,Transferencia,0.0,9
+1960,76,2025-10-13,Cancelado,Tarjeta de débito,2.5,7
+1961,343,2026-01-06,Completado,Transferencia,2.5,
+1962,595,2026-04-09,Pendiente,Tarjeta de débito,2.5,
+1963,447,2025-11-07,Pendiente,Tarjeta de crédito,7.99,1
+1964,4,2026-01-23,Reembolsado,Tarjeta de crédito,4.99,6
+1965,603,2025-09-19,Completado,Billetera virtual,4.99,2
+1966,411,2025-04-10,Completado,Tarjeta de crédito,2.5,12
+1967,172,2024-10-31,Completado,Transferencia,0.0,4
+1968,109,2025-08-09,Completado,Transferencia,7.99,14
+1969,289,2025-10-25,Completado,Efectivo (retiro en local),0.0,9
+1970,205,2024-08-03,Reembolsado,Billetera virtual,0.0,11
+1971,489,2025-06-18,Completado,Tarjeta de débito,0.0,8
+1972,503,2025-02-15,Completado,Efectivo (retiro en local),0.0,1
+1973,378,2024-10-04,Completado,Tarjeta de débito,4.99,3
+1974,344,2024-06-09,Pendiente,Tarjeta de débito,4.99,18
+1975,507,2026-06-13,Completado,Efectivo (retiro en local),0.0,12
+1976,79,2024-08-10,Reembolsado,Transferencia,2.5,9
+1977,52,2026-02-24,Completado,Efectivo (retiro en local),0.0,4
+1978,387,2025-09-15,Completado,Efectivo (retiro en local),4.99,8
+1979,70,2024-06-17,Completado,Tarjeta de débito,2.5,16
+1980,426,2026-02-16,Cancelado,Tarjeta de crédito,0.0,2
+1981,406,2024-07-25,Reembolsado,Tarjeta de crédito,2.5,7
+1982,4,2024-11-30,Completado,Tarjeta de débito,0.0,6
+1983,235,2025-03-10,Completado,Billetera virtual,0.0,17
+1984,539,2024-08-18,Completado,Billetera virtual,4.99,9
+1985,77,2025-02-21,Reembolsado,Tarjeta de crédito,7.99,3
+1986,347,2025-07-14,Completado,Billetera virtual,4.99,
+1987,349,2026-02-02,Pendiente,Tarjeta de crédito,0.0,11
+1988,182,2026-06-26,Pendiente,Transferencia,4.99,3
+1989,164,2026-01-06,Cancelado,Efectivo (retiro en local),0.0,14
+1990,87,2025-01-08,Pendiente,Efectivo (retiro en local),0.0,10
+1991,156,2024-07-23,Cancelado,Efectivo (retiro en local),7.99,7
+1992,128,2025-02-09,Reembolsado,Billetera virtual,2.5,8
+1993,547,2024-11-22,Completado,Transferencia,0.0,15
+1994,84,2026-03-07,Completado,Tarjeta de débito,0.0,2
+1995,31,2025-04-15,Pendiente,Tarjeta de débito,4.99,4
+1996,183,2025-03-27,Pendiente,Tarjeta de crédito,0.0,5
+1997,505,2024-10-27,Completado,Billetera virtual,0.0,9
+1998,498,2025-08-19,Pendiente,Tarjeta de débito,4.99,15
+1999,197,2026-04-18,Reembolsado,Tarjeta de débito,2.5,15
+2000,83,2026-06-13,Completado,Efectivo (retiro en local),4.99,3
+2001,320,2026-05-26,Completado,Tarjeta de crédito,0.0,
+2002,517,2025-08-01,Reembolsado,Billetera virtual,0.0,
+2003,285,2024-11-23,Completado,Transferencia,4.99,8
+2004,214,2026-04-07,Reembolsado,Transferencia,0.0,1
+2005,236,2025-08-14,Completado,Billetera virtual,0.0,17
+2006,504,2025-01-30,Completado,Tarjeta de débito,0.0,5
+2007,204,2026-04-26,Completado,Tarjeta de débito,7.99,15
+2008,539,2026-02-28,Reembolsado,Efectivo (retiro en local),0.0,9
+2009,510,2025-01-09,Completado,Tarjeta de crédito,0.0,17
+2010,247,2024-07-26,Pendiente,Billetera virtual,7.99,8
+2011,133,2024-08-09,Cancelado,Tarjeta de débito,0.0,
+2012,564,2025-09-25,Cancelado,Billetera virtual,7.99,18
+2013,12,2025-01-01,Reembolsado,Tarjeta de débito,0.0,6
+2014,422,2025-06-05,Completado,Tarjeta de crédito,0.0,7
+2015,137,2024-07-19,Reembolsado,Billetera virtual,0.0,2
+2016,387,2024-08-18,Reembolsado,Efectivo (retiro en local),4.99,15
+2017,165,2024-07-13,Completado,Efectivo (retiro en local),2.5,5
+2018,259,2025-04-23,Completado,Efectivo (retiro en local),2.5,14
+2019,229,2025-03-15,Completado,Efectivo (retiro en local),4.99,
+2020,583,2024-09-17,Pendiente,Efectivo (retiro en local),7.99,8
+2021,196,2025-01-28,Cancelado,Tarjeta de débito,2.5,
+2022,286,2024-12-08,Completado,Transferencia,0.0,18
+2023,516,2025-11-21,Cancelado,Efectivo (retiro en local),0.0,18
+2024,10,2025-03-11,Completado,Efectivo (retiro en local),0.0,13
+2025,109,2026-05-06,Completado,Transferencia,7.99,13
+2026,300,2025-04-04,Pendiente,Billetera virtual,0.0,6
+2027,301,2025-01-16,Pendiente,Tarjeta de crédito,2.5,5
+2028,263,2026-02-06,Pendiente,Tarjeta de crédito,0.0,18
+2029,104,2025-09-19,Completado,Efectivo (retiro en local),4.99,14
+2030,296,2025-02-06,Completado,Tarjeta de débito,0.0,6
+2031,487,2024-07-29,Completado,Tarjeta de débito,0.0,5
+2032,159,2024-12-28,Completado,Tarjeta de crédito,0.0,6
+2033,28,2026-03-18,Completado,Tarjeta de crédito,2.5,
+2034,435,2025-08-23,Reembolsado,Tarjeta de débito,7.99,9
+2035,321,2026-04-16,Pendiente,Efectivo (retiro en local),4.99,17
+2036,450,2025-04-21,Cancelado,Tarjeta de débito,2.5,14
+2037,595,2026-04-04,Completado,Tarjeta de crédito,0.0,4
+2038,212,2026-04-17,Reembolsado,Transferencia,7.99,3
+2039,501,2025-10-08,Completado,Transferencia,0.0,16
+2040,560,2025-08-19,Completado,Billetera virtual,0.0,9
+2041,298,2026-03-31,Pendiente,Billetera virtual,0.0,16
+2042,261,2024-06-25,Completado,Tarjeta de débito,0.0,6
+2043,259,2025-09-23,Completado,Billetera virtual,4.99,2
+2044,237,2026-04-28,Reembolsado,Efectivo (retiro en local),0.0,5
+2045,363,2026-05-30,Cancelado,Transferencia,2.5,14
+2046,112,2025-10-18,Reembolsado,Transferencia,7.99,2
+2047,419,2025-03-05,Reembolsado,Tarjeta de crédito,7.99,6
+2048,83,2024-11-15,Cancelado,Billetera virtual,0.0,14
+2049,140,2026-05-26,Pendiente,Tarjeta de débito,4.99,17
+2050,174,2025-11-21,Reembolsado,Tarjeta de débito,2.5,11
+2051,429,2026-01-14,Completado,Tarjeta de crédito,0.0,1
+2052,502,2025-08-26,Pendiente,Tarjeta de débito,0.0,6
+2053,352,2025-01-08,Pendiente,Billetera virtual,0.0,9
+2054,465,2025-01-14,Completado,Efectivo (retiro en local),0.0,
+2055,282,2024-08-27,Reembolsado,Transferencia,4.99,8
+2056,28,2025-11-21,Completado,Billetera virtual,4.99,
+2057,177,2024-06-29,Cancelado,Billetera virtual,0.0,3
+2058,252,2026-02-01,Reembolsado,Transferencia,4.99,11
+2059,529,2026-06-09,Completado,Transferencia,0.0,12
+2060,4,2026-02-10,Completado,Tarjeta de crédito,2.5,8
+2061,227,2024-06-25,Completado,Billetera virtual,4.99,18
+2062,449,2024-11-28,Completado,Billetera virtual,2.5,17
+2063,128,2025-03-22,Pendiente,Tarjeta de débito,0.0,7
+2064,266,2025-07-16,Completado,Tarjeta de crédito,2.5,10
+2065,35,2025-08-27,Cancelado,Efectivo (retiro en local),7.99,11
+2066,297,2024-09-02,Cancelado,Billetera virtual,4.99,5
+2067,535,2024-10-29,Completado,Tarjeta de débito,2.5,15
+2068,41,2025-10-08,Reembolsado,Efectivo (retiro en local),0.0,10
+2069,226,2026-04-16,Reembolsado,Tarjeta de débito,2.5,4
+2070,350,2025-09-12,Reembolsado,Efectivo (retiro en local),4.99,9
+2071,208,2025-03-03,Completado,Tarjeta de débito,7.99,10
+2072,452,2024-06-29,Reembolsado,Billetera virtual,0.0,11
+2073,285,2025-02-01,Completado,Billetera virtual,0.0,
+2074,391,2025-01-31,Cancelado,Billetera virtual,2.5,3
+2075,309,2024-06-07,Reembolsado,Transferencia,0.0,9
+2076,265,2026-05-04,Cancelado,Tarjeta de débito,0.0,18
+2077,577,2024-06-25,Completado,Billetera virtual,7.99,1
+2078,265,2025-05-26,Completado,Billetera virtual,2.5,
+2079,562,2026-01-25,Pendiente,Tarjeta de débito,4.99,
+2080,411,2025-10-17,Pendiente,Billetera virtual,2.5,9
+2081,144,2026-01-22,Completado,Transferencia,0.0,8
+2082,608,2025-12-24,Cancelado,Billetera virtual,0.0,12
+2083,425,2026-02-12,Completado,Efectivo (retiro en local),4.99,12
+2084,390,2025-10-04,Completado,Transferencia,2.5,11
+2085,57,2024-12-16,Completado,Efectivo (retiro en local),7.99,4
+2086,365,2024-11-05,Cancelado,Billetera virtual,0.0,8
+2087,469,2025-02-15,Completado,Billetera virtual,7.99,14
+2088,468,2026-05-31,Completado,Tarjeta de débito,0.0,9
+2089,547,2024-10-23,Completado,Billetera virtual,0.0,1
+2090,403,2026-05-02,Cancelado,Transferencia,0.0,11
+2091,321,2026-06-08,Reembolsado,Tarjeta de débito,0.0,4
+2092,97,2025-07-06,Completado,Billetera virtual,2.5,4
+2093,135,2025-06-28,Completado,Transferencia,0.0,15
+2094,507,2025-04-18,Completado,Efectivo (retiro en local),4.99,7
+2095,63,2024-10-23,Completado,Efectivo (retiro en local),0.0,4
+2096,528,2024-07-26,Pendiente,Efectivo (retiro en local),7.99,16
+2097,337,2026-05-21,Reembolsado,Tarjeta de débito,0.0,13
+2098,296,2025-09-23,Completado,Tarjeta de débito,2.5,11
+2099,71,2025-05-21,Completado,Tarjeta de crédito,0.0,6
+2100,553,2026-02-18,Reembolsado,Transferencia,4.99,3
+2101,113,2024-10-30,Completado,Transferencia,4.99,5
+2102,401,2026-04-01,Reembolsado,Transferencia,4.99,
+2103,258,2025-01-07,Completado,Transferencia,0.0,6
+2104,8,2026-03-09,Completado,Billetera virtual,7.99,2
+2105,520,2025-08-31,Cancelado,Transferencia,7.99,13
+2106,382,2025-01-10,Completado,Tarjeta de crédito,0.0,16
+2107,144,2025-05-17,Cancelado,Billetera virtual,7.99,13
+2108,281,2025-08-06,Reembolsado,Tarjeta de débito,0.0,3
+2109,507,2024-12-26,Completado,Tarjeta de crédito,4.99,9
+2110,396,2025-06-03,Reembolsado,Efectivo (retiro en local),0.0,16
+2111,189,2024-10-09,Completado,Tarjeta de crédito,7.99,6
+2112,407,2025-07-29,Completado,Transferencia,0.0,7
+2113,80,2025-01-12,Pendiente,Billetera virtual,0.0,3
+2114,313,2026-01-03,Completado,Tarjeta de débito,4.99,6
+2115,606,2025-05-03,Completado,Efectivo (retiro en local),0.0,15
+2116,442,2025-07-07,Completado,Efectivo (retiro en local),0.0,15
+2117,419,2025-10-31,Completado,Transferencia,7.99,
+2118,163,2025-10-13,Completado,Transferencia,7.99,11
+2119,108,2024-07-18,Completado,Tarjeta de crédito,0.0,17
+2120,257,2026-02-09,Completado,Tarjeta de crédito,0.0,18
+2121,558,2025-02-09,Cancelado,Tarjeta de crédito,0.0,10
+2122,162,2024-11-11,Pendiente,Tarjeta de crédito,0.0,10
+2123,247,2026-01-15,Completado,Transferencia,0.0,4
+2124,405,2026-03-15,Pendiente,Tarjeta de débito,7.99,
+2125,610,2025-08-11,Completado,Tarjeta de débito,0.0,1
+2126,468,2025-10-11,Reembolsado,Transferencia,2.5,16
+2127,82,2025-09-18,Completado,Transferencia,0.0,3
+2128,505,2025-04-08,Completado,Efectivo (retiro en local),0.0,1
+2129,244,2026-04-04,Reembolsado,Efectivo (retiro en local),0.0,15
+2130,26,2025-06-19,Pendiente,Efectivo (retiro en local),7.99,4
+2131,359,2024-12-09,Reembolsado,Billetera virtual,2.5,3
+2132,221,2024-11-19,Completado,Billetera virtual,7.99,
+2133,114,2024-09-24,Pendiente,Billetera virtual,2.5,15
+2134,240,2024-06-17,Completado,Tarjeta de débito,0.0,17
+2135,63,2026-04-12,Completado,Tarjeta de crédito,2.5,8
+2136,239,2025-10-22,Cancelado,Transferencia,2.5,12
+2137,8,2024-08-26,Completado,Tarjeta de débito,2.5,3
+2138,162,2024-08-04,Pendiente,Tarjeta de débito,0.0,
+2139,68,2026-04-22,Completado,Transferencia,2.5,
+2140,279,2025-12-06,Completado,Billetera virtual,4.99,11
+2141,83,2025-02-08,Cancelado,Efectivo (retiro en local),0.0,16
+2142,281,2025-05-10,Reembolsado,Billetera virtual,2.5,10
+2143,495,2025-09-21,Pendiente,Tarjeta de crédito,0.0,2
+2144,313,2025-09-06,Cancelado,Tarjeta de débito,2.5,12
+2145,187,2025-11-27,Completado,Efectivo (retiro en local),4.99,15
+2146,17,2024-11-15,Reembolsado,Transferencia,0.0,17
+2147,293,2025-02-28,Completado,Billetera virtual,0.0,16
+2148,342,2025-01-18,Pendiente,Tarjeta de débito,0.0,
+2149,408,2026-05-08,Completado,Transferencia,7.99,8
+2150,223,2024-12-17,Completado,Billetera virtual,0.0,7
+2151,87,2024-08-19,Completado,Billetera virtual,0.0,6
+2152,77,2024-11-13,Cancelado,Tarjeta de crédito,0.0,11
+2153,452,2026-06-16,Completado,Transferencia,0.0,18
+2154,226,2025-03-12,Completado,Efectivo (retiro en local),0.0,5
+2155,572,2024-11-23,Completado,Transferencia,7.99,4
+2156,415,2025-04-04,Completado,Billetera virtual,4.99,18
+2157,28,2025-06-22,Pendiente,Efectivo (retiro en local),7.99,11
+2158,66,2025-11-14,Completado,Efectivo (retiro en local),7.99,18
+2159,80,2025-02-28,Completado,Tarjeta de crédito,0.0,16
+2160,327,2024-06-03,Completado,Tarjeta de débito,0.0,11
+2161,192,2025-10-06,Completado,Efectivo (retiro en local),4.99,15
+2162,38,2025-09-17,Cancelado,Billetera virtual,2.5,17
+2163,229,2025-10-14,Completado,Tarjeta de débito,7.99,15
+2164,448,2025-01-05,Pendiente,Billetera virtual,7.99,17
+2165,103,2024-07-12,Completado,Efectivo (retiro en local),0.0,17
+2166,243,2025-05-16,Pendiente,Billetera virtual,7.99,
+2167,16,2026-02-23,Completado,Tarjeta de débito,0.0,7
+2168,389,2025-04-15,Pendiente,Transferencia,0.0,14
+2169,301,2024-08-02,Cancelado,Transferencia,4.99,18
+2170,251,2025-09-25,Pendiente,Billetera virtual,7.99,16
+2171,229,2025-10-11,Pendiente,Transferencia,4.99,9
+2172,565,2025-03-25,Completado,Billetera virtual,4.99,18
+2173,174,2024-11-09,Pendiente,Billetera virtual,4.99,18
+2174,407,2025-10-22,Completado,Efectivo (retiro en local),4.99,17
+2175,530,2025-05-14,Completado,Tarjeta de crédito,2.5,
+2176,351,2026-01-06,Reembolsado,Tarjeta de crédito,0.0,7
+2177,494,2025-06-20,Reembolsado,Tarjeta de débito,0.0,3
+2178,148,2025-11-16,Completado,Billetera virtual,0.0,17
+2179,394,2024-07-20,Completado,Tarjeta de débito,7.99,5
+2180,89,2025-11-24,Reembolsado,Transferencia,0.0,11
+2181,426,2025-10-11,Reembolsado,Billetera virtual,2.5,12
+2182,257,2024-12-24,Completado,Tarjeta de crédito,0.0,
+2183,51,2025-12-03,Cancelado,Tarjeta de débito,0.0,5
+2184,533,2025-04-19,Completado,Tarjeta de crédito,2.5,
+2185,451,2025-03-16,Reembolsado,Tarjeta de crédito,0.0,18
+2186,161,2024-09-18,Completado,Transferencia,4.99,5
+2187,336,2025-10-03,Completado,Transferencia,0.0,
+2188,115,2024-11-12,Completado,Efectivo (retiro en local),0.0,15
+2189,394,2026-04-26,Reembolsado,Transferencia,4.99,16
+2190,301,2025-04-02,Completado,Transferencia,0.0,2
+2191,160,2026-06-26,Cancelado,Billetera virtual,2.5,15
+2192,128,2026-05-03,Completado,Billetera virtual,2.5,
+2193,34,2026-03-13,Completado,Tarjeta de débito,0.0,11
+2194,101,2025-01-13,Reembolsado,Transferencia,0.0,13
+2195,347,2024-09-01,Completado,Tarjeta de crédito,2.5,10
+2196,580,2025-02-01,Completado,Tarjeta de débito,2.5,6
+2197,193,2024-12-09,Completado,Transferencia,0.0,
+2198,398,2026-01-15,Completado,Efectivo (retiro en local),0.0,14
+2199,53,2025-02-22,Reembolsado,Tarjeta de débito,2.5,16
+2200,289,2025-07-21,Cancelado,Tarjeta de crédito,0.0,13
+2201,5,2025-08-05,Pendiente,Tarjeta de débito,0.0,4
+2202,482,2024-12-29,Reembolsado,Transferencia,2.5,12
+2203,37,2025-01-09,Pendiente,Tarjeta de débito,2.5,4
+2204,537,2024-11-26,Reembolsado,Billetera virtual,0.0,10
+2205,155,2024-06-14,Completado,Efectivo (retiro en local),0.0,11
+2206,81,2025-09-21,Completado,Efectivo (retiro en local),0.0,4
+2207,335,2026-01-17,Cancelado,Transferencia,0.0,
+2208,285,2024-07-02,Pendiente,Tarjeta de débito,2.5,9
+2209,160,2026-05-29,Completado,Transferencia,0.0,12
+2210,569,2024-08-03,Completado,Tarjeta de crédito,0.0,10
+2211,518,2025-01-30,Cancelado,Efectivo (retiro en local),0.0,
+2212,479,2025-08-27,Completado,Billetera virtual,0.0,16
+2213,419,2025-05-27,Completado,Billetera virtual,0.0,2
+2214,263,2026-06-29,Pendiente,Transferencia,2.5,13
+2215,609,2025-05-21,Reembolsado,Billetera virtual,7.99,12
+2216,236,2025-07-25,Completado,Efectivo (retiro en local),2.5,15
+2217,144,2024-06-30,Pendiente,Tarjeta de débito,7.99,4
+2218,257,2025-10-29,Completado,Billetera virtual,0.0,11
+2219,501,2025-10-03,Completado,Transferencia,0.0,10
+2220,546,2025-10-21,Reembolsado,Tarjeta de débito,7.99,
+2221,131,2025-04-20,Completado,Billetera virtual,4.99,
+2222,314,2024-06-15,Pendiente,Tarjeta de crédito,0.0,10
+2223,14,2024-07-12,Completado,Tarjeta de crédito,4.99,
+2224,328,2025-02-19,Completado,Billetera virtual,7.99,5
+2225,283,2024-09-16,Completado,Tarjeta de crédito,4.99,14
+2226,129,2026-04-08,Cancelado,Transferencia,7.99,3
+2227,15,2026-01-13,Completado,Tarjeta de débito,7.99,16
+2228,143,2025-02-08,Cancelado,Efectivo (retiro en local),7.99,12
+2229,218,2025-12-30,Cancelado,Billetera virtual,4.99,4
+2230,185,2025-06-30,Pendiente,Billetera virtual,0.0,14
+2231,565,2025-04-30,Completado,Tarjeta de débito,0.0,1
+2232,449,2025-09-03,Completado,Billetera virtual,2.5,
+2233,367,2025-10-29,Cancelado,Tarjeta de débito,0.0,
+2234,174,2025-02-28,Pendiente,Efectivo (retiro en local),2.5,3
+2235,98,2026-05-13,Reembolsado,Transferencia,0.0,5
+2236,375,2024-09-15,Pendiente,Tarjeta de crédito,0.0,8
+2237,62,2026-04-08,Completado,Efectivo (retiro en local),0.0,17
+2238,307,2025-05-19,Completado,Tarjeta de débito,7.99,5
+2239,329,2025-09-06,Completado,Transferencia,0.0,8
+2240,276,2026-04-25,Reembolsado,Tarjeta de débito,2.5,
+2241,481,2024-06-26,Completado,Efectivo (retiro en local),0.0,18
+2242,159,2024-12-01,Reembolsado,Efectivo (retiro en local),0.0,
+2243,594,2025-02-12,Pendiente,Tarjeta de crédito,4.99,9
+2244,4,2024-07-23,Completado,Transferencia,2.5,5
+2245,442,2025-09-30,Completado,Transferencia,7.99,7
+2246,428,2024-11-24,Pendiente,Efectivo (retiro en local),2.5,15
+2247,591,2024-11-22,Pendiente,Transferencia,4.99,12
+2248,80,2025-07-12,Completado,Tarjeta de débito,0.0,15
+2249,15,2025-01-28,Completado,Billetera virtual,0.0,17
+2250,512,2025-03-16,Cancelado,Tarjeta de crédito,7.99,
+2251,241,2025-06-20,Completado,Tarjeta de débito,0.0,14
+2252,388,2024-11-03,Completado,Efectivo (retiro en local),0.0,
+2253,540,2025-08-12,Completado,Tarjeta de crédito,2.5,11
+2254,399,2024-06-07,Completado,Billetera virtual,4.99,
+2255,344,2024-12-22,Cancelado,Efectivo (retiro en local),0.0,10
+2256,504,2025-12-11,Cancelado,Transferencia,0.0,13
+2257,281,2024-11-04,Completado,Efectivo (retiro en local),4.99,4
+2258,176,2026-02-22,Cancelado,Transferencia,0.0,3
+2259,445,2025-08-30,Completado,Transferencia,4.99,8
+2260,261,2025-09-10,Cancelado,Transferencia,0.0,6
+2261,593,2024-11-30,Completado,Tarjeta de crédito,0.0,14
+2262,47,2025-05-02,Pendiente,Tarjeta de crédito,2.5,5
+2263,253,2026-05-06,Pendiente,Tarjeta de débito,0.0,
+2264,518,2025-03-16,Completado,Tarjeta de crédito,7.99,5
+2265,27,2025-11-18,Completado,Transferencia,0.0,7
+2266,343,2026-01-20,Completado,Transferencia,0.0,15
+2267,495,2025-02-15,Completado,Transferencia,2.5,16
+2268,11,2024-07-01,Completado,Transferencia,0.0,10
+2269,6,2025-08-28,Completado,Tarjeta de débito,2.5,10
+2270,152,2024-06-07,Cancelado,Tarjeta de crédito,4.99,
+2271,136,2025-11-29,Reembolsado,Efectivo (retiro en local),7.99,7
+2272,120,2025-07-17,Completado,Tarjeta de débito,2.5,17
+2273,53,2025-01-09,Reembolsado,Tarjeta de crédito,2.5,4
+2274,215,2026-03-02,Pendiente,Transferencia,0.0,17
+2275,298,2026-05-23,Pendiente,Tarjeta de crédito,0.0,
+2276,461,2025-09-18,Completado,Transferencia,4.99,17
+2277,70,2026-02-08,Completado,Transferencia,2.5,8
+2278,595,2024-09-07,Completado,Efectivo (retiro en local),7.99,
+2279,33,2025-09-29,Pendiente,Tarjeta de débito,0.0,14
+2280,271,2025-12-03,Pendiente,Transferencia,2.5,15
+2281,601,2024-09-29,Completado,Billetera virtual,4.99,17
+2282,198,2025-09-20,Reembolsado,Tarjeta de débito,0.0,6
+2283,127,2025-08-20,Pendiente,Efectivo (retiro en local),0.0,6
+2284,433,2025-04-16,Pendiente,Tarjeta de crédito,2.5,17
+2285,265,2026-01-24,Reembolsado,Billetera virtual,4.99,17
+2286,283,2025-08-31,Reembolsado,Transferencia,4.99,12
+2287,200,2026-06-02,Completado,Tarjeta de crédito,7.99,1
+2288,102,2025-07-24,Reembolsado,Billetera virtual,2.5,12
+2289,334,2024-06-10,Completado,Transferencia,0.0,12
+2290,104,2025-10-12,Reembolsado,Billetera virtual,2.5,10
+2291,238,2026-01-10,Completado,Transferencia,4.99,7
+2292,46,2026-04-30,Completado,Billetera virtual,4.99,
+2293,483,2025-01-18,Completado,Tarjeta de débito,0.0,
+2294,422,2025-12-31,Completado,Tarjeta de débito,0.0,5
+2295,70,2025-02-01,Cancelado,Tarjeta de crédito,0.0,12
+2296,574,2025-06-30,Completado,Transferencia,0.0,9
+2297,357,2026-04-13,Completado,Billetera virtual,0.0,9
+2298,274,2025-03-24,Completado,Tarjeta de débito,0.0,8
+2299,192,2025-05-09,Reembolsado,Transferencia,0.0,9
+2300,600,2024-12-23,Completado,Efectivo (retiro en local),0.0,16
+2301,343,2025-11-25,Reembolsado,Tarjeta de crédito,7.99,
+2302,268,2025-09-04,Completado,Efectivo (retiro en local),0.0,
+2303,454,2024-08-14,Cancelado,Efectivo (retiro en local),4.99,6
+2304,310,2025-12-20,Reembolsado,Tarjeta de crédito,0.0,10
+2305,116,2026-05-13,Reembolsado,Tarjeta de crédito,0.0,10
+2306,242,2024-08-10,Completado,Billetera virtual,7.99,11
+2307,356,2026-01-01,Cancelado,Tarjeta de débito,2.5,3
+2308,574,2025-02-25,Cancelado,Transferencia,4.99,
+2309,266,2025-08-18,Completado,Billetera virtual,7.99,9
+2310,311,2025-01-27,Cancelado,Efectivo (retiro en local),7.99,10
+2311,134,2024-10-09,Pendiente,Tarjeta de débito,0.0,13
+2312,424,2024-09-10,Completado,Efectivo (retiro en local),0.0,9
+2313,38,2025-11-13,Completado,Transferencia,0.0,18
+2314,16,2025-08-18,Cancelado,Billetera virtual,0.0,10
+2315,482,2025-05-15,Completado,Transferencia,0.0,15
+2316,34,2024-11-12,Pendiente,Tarjeta de débito,4.99,
+2317,28,2025-08-05,Completado,Efectivo (retiro en local),0.0,9
+2318,586,2025-03-21,Completado,Billetera virtual,0.0,9
+2319,223,2024-12-08,Completado,Tarjeta de crédito,4.99,11
+2320,100,2024-08-21,Reembolsado,Tarjeta de crédito,0.0,
+2321,606,2025-01-18,Cancelado,Tarjeta de débito,0.0,6
+2322,259,2025-06-06,Completado,Transferencia,0.0,3
+2323,103,2025-03-16,Cancelado,Transferencia,2.5,
+2324,548,2025-10-14,Cancelado,Efectivo (retiro en local),0.0,3
+2325,602,2025-12-26,Completado,Transferencia,7.99,14
+2326,84,2025-08-04,Reembolsado,Billetera virtual,4.99,7
+2327,336,2026-01-21,Completado,Tarjeta de crédito,0.0,15
+2328,507,2025-10-13,Cancelado,Billetera virtual,0.0,10
+2329,577,2026-02-28,Completado,Billetera virtual,4.99,
+2330,418,2026-04-15,Completado,Efectivo (retiro en local),0.0,10
+2331,597,2024-07-14,Cancelado,Billetera virtual,2.5,1
+2332,272,2026-03-09,Completado,Efectivo (retiro en local),7.99,13
+2333,604,2025-07-09,Completado,Transferencia,7.99,2
+2334,241,2025-05-02,Completado,Billetera virtual,2.5,9
+2335,212,2026-04-13,Completado,Tarjeta de crédito,0.0,18
+2336,591,2026-02-01,Completado,Billetera virtual,0.0,10
+2337,434,2025-10-26,Reembolsado,Tarjeta de débito,7.99,
+2338,334,2025-11-27,Completado,Billetera virtual,2.5,4
+2339,305,2025-09-16,Pendiente,Billetera virtual,0.0,11
+2340,210,2026-04-04,Completado,Tarjeta de débito,0.0,16
+2341,411,2025-01-09,Completado,Tarjeta de crédito,7.99,10
+2342,80,2025-07-04,Completado,Tarjeta de crédito,2.5,14
+2343,488,2026-03-09,Reembolsado,Tarjeta de débito,4.99,11
+2344,607,2026-01-20,Reembolsado,Tarjeta de crédito,2.5,
+2345,188,2025-10-03,Completado,Tarjeta de crédito,7.99,2
+2346,549,2025-03-22,Completado,Transferencia,2.5,13
+2347,70,2025-11-21,Completado,Tarjeta de débito,7.99,18
+2348,161,2024-11-06,Completado,Transferencia,0.0,2
+2349,557,2025-08-24,Cancelado,Efectivo (retiro en local),2.5,1
+2350,511,2025-02-28,Completado,Transferencia,7.99,9
+2351,126,2025-12-16,Completado,Tarjeta de crédito,4.99,15
+2352,318,2025-05-26,Pendiente,Tarjeta de crédito,7.99,8
+2353,218,2025-09-01,Cancelado,Efectivo (retiro en local),2.5,10
+2354,225,2025-01-26,Completado,Billetera virtual,2.5,6
+2355,298,2024-12-29,Cancelado,Billetera virtual,0.0,7
+2356,134,2025-08-01,Completado,Efectivo (retiro en local),2.5,18
+2357,306,2025-10-10,Reembolsado,Tarjeta de débito,2.5,11
+2358,549,2025-02-15,Completado,Transferencia,7.99,17
+2359,162,2024-08-21,Completado,Tarjeta de débito,4.99,6
+2360,42,2026-03-17,Pendiente,Tarjeta de crédito,0.0,8
+2361,284,2025-04-07,Completado,Transferencia,2.5,2
+2362,200,2026-06-01,Completado,Efectivo (retiro en local),2.5,8
+2363,517,2026-03-30,Pendiente,Efectivo (retiro en local),0.0,13
+2364,595,2026-03-19,Pendiente,Efectivo (retiro en local),7.99,5
+2365,57,2026-05-04,Reembolsado,Transferencia,0.0,9
+2366,28,2026-05-04,Completado,Tarjeta de crédito,2.5,17
+2367,163,2025-05-20,Completado,Billetera virtual,0.0,
+2368,328,2024-12-26,Cancelado,Efectivo (retiro en local),7.99,12
+2369,519,2026-04-19,Cancelado,Transferencia,0.0,13
+2370,535,2025-01-09,Pendiente,Efectivo (retiro en local),0.0,
+2371,548,2024-09-18,Completado,Billetera virtual,4.99,5
+2372,437,2026-05-07,Completado,Efectivo (retiro en local),0.0,14
+2373,529,2024-10-05,Completado,Billetera virtual,0.0,4
+2374,4,2025-04-23,Reembolsado,Billetera virtual,2.5,2
+2375,155,2025-01-03,Completado,Billetera virtual,4.99,7
+2376,294,2024-08-27,Completado,Tarjeta de crédito,2.5,7
+2377,283,2025-08-26,Reembolsado,Transferencia,0.0,
+2378,568,2026-01-23,Completado,Tarjeta de débito,7.99,13
+2379,394,2025-04-14,Cancelado,Transferencia,4.99,5
+2380,223,2025-07-19,Completado,Billetera virtual,0.0,3
+2381,304,2026-03-21,Reembolsado,Tarjeta de débito,0.0,6
+2382,324,2024-09-15,Completado,Tarjeta de crédito,7.99,16
+2383,575,2024-09-14,Completado,Tarjeta de crédito,0.0,18
+2384,379,2025-08-24,Completado,Tarjeta de crédito,0.0,9
+2385,166,2026-01-20,Completado,Billetera virtual,7.99,18
+2386,435,2024-07-08,Completado,Tarjeta de débito,2.5,
+2387,441,2025-02-23,Completado,Transferencia,7.99,14
+2388,588,2024-09-26,Pendiente,Tarjeta de débito,7.99,12
+2389,178,2025-09-30,Reembolsado,Billetera virtual,0.0,13
+2390,159,2025-04-30,Completado,Transferencia,2.5,
+2391,136,2026-03-06,Completado,Tarjeta de débito,2.5,8
+2392,516,2026-03-16,Completado,Efectivo (retiro en local),0.0,18
+2393,108,2026-06-21,Pendiente,Tarjeta de débito,0.0,11
+2394,344,2025-11-01,Pendiente,Efectivo (retiro en local),0.0,16
+2395,199,2024-08-14,Completado,Billetera virtual,2.5,9
+2396,514,2025-01-01,Pendiente,Tarjeta de débito,0.0,4
+2397,212,2024-09-18,Completado,Billetera virtual,4.99,
+2398,99,2025-11-07,Completado,Tarjeta de crédito,2.5,10
+2399,375,2024-12-16,Completado,Tarjeta de crédito,0.0,6
+2400,89,2025-04-22,Cancelado,Tarjeta de crédito,0.0,10
+2401,179,2024-10-25,Completado,Billetera virtual,4.99,18
+2402,62,2025-11-25,Completado,Tarjeta de crédito,0.0,8
+2403,433,2025-11-26,Completado,Billetera virtual,0.0,
+2404,288,2024-12-20,Cancelado,Tarjeta de crédito,0.0,17
+2405,54,2025-05-16,Pendiente,Billetera virtual,0.0,10
+2406,292,2025-10-18,Completado,Efectivo (retiro en local),0.0,18
+2407,213,2024-11-25,Completado,Efectivo (retiro en local),2.5,3
+2408,377,2025-03-26,Completado,Tarjeta de crédito,4.99,15
+2409,222,2025-07-15,Completado,Efectivo (retiro en local),4.99,5
+2410,14,2026-06-30,Completado,Billetera virtual,0.0,17
+2411,384,2026-04-21,Completado,Efectivo (retiro en local),2.5,6
+2412,416,2024-07-02,Completado,Efectivo (retiro en local),7.99,4
+2413,179,2025-06-28,Completado,Efectivo (retiro en local),0.0,
+2414,8,2024-08-05,Completado,Tarjeta de crédito,7.99,12
+2415,257,2024-07-18,Completado,Tarjeta de crédito,4.99,18
+2416,232,2025-06-09,Cancelado,Transferencia,0.0,13
+2417,101,2024-07-26,Completado,Billetera virtual,0.0,11
+2418,198,2025-06-11,Completado,Billetera virtual,2.5,7
+2419,377,2025-09-26,Completado,Billetera virtual,0.0,4
+2420,357,2024-11-15,Completado,Tarjeta de crédito,0.0,14
+2421,265,2024-11-14,Reembolsado,Transferencia,0.0,3
+2422,482,2026-06-02,Completado,Tarjeta de crédito,4.99,
+2423,93,2025-10-18,Completado,Tarjeta de crédito,2.5,
+2424,31,2025-02-06,Completado,Billetera virtual,4.99,10
+2425,133,2025-07-14,Reembolsado,Tarjeta de crédito,7.99,12
+2426,541,2024-10-28,Completado,Tarjeta de débito,0.0,18
+2427,347,2026-02-19,Completado,Tarjeta de débito,0.0,11
+2428,277,2026-01-16,Pendiente,Transferencia,0.0,11
+2429,219,2025-10-01,Reembolsado,Tarjeta de crédito,0.0,18
+2430,591,2026-05-02,Reembolsado,Transferencia,2.5,10
+2431,331,2026-03-12,Pendiente,Transferencia,7.99,7
+2432,369,2024-11-07,Pendiente,Transferencia,0.0,
+2433,459,2025-03-03,Reembolsado,Tarjeta de crédito,7.99,17
+2434,458,2026-06-18,Completado,Billetera virtual,2.5,14
+2435,177,2025-03-22,Completado,Billetera virtual,7.99,1
+2436,37,2026-05-08,Reembolsado,Billetera virtual,0.0,13
+2437,190,2025-05-04,Completado,Billetera virtual,2.5,2
+2438,180,2026-05-07,Completado,Tarjeta de crédito,0.0,
+2439,207,2025-04-20,Reembolsado,Billetera virtual,0.0,13
+2440,379,2026-03-28,Cancelado,Billetera virtual,0.0,17
+2441,561,2025-10-17,Completado,Efectivo (retiro en local),7.99,17
+2442,465,2024-10-31,Completado,Efectivo (retiro en local),7.99,18
+2443,153,2024-08-27,Completado,Transferencia,0.0,1
+2444,31,2025-09-30,Completado,Tarjeta de débito,0.0,
+2445,107,2024-11-22,Completado,Tarjeta de débito,7.99,2
+2446,330,2026-05-22,Pendiente,Billetera virtual,0.0,16
+2447,211,2025-10-05,Cancelado,Tarjeta de débito,0.0,5
+2448,56,2025-11-11,Completado,Efectivo (retiro en local),4.99,4
+2449,203,2025-08-29,Reembolsado,Transferencia,7.99,12
+2450,406,2024-11-21,Completado,Transferencia,0.0,7
+2451,16,2024-06-16,Completado,Tarjeta de débito,0.0,8
+2452,140,2026-06-17,Cancelado,Transferencia,2.5,13
+2453,35,2025-08-31,Pendiente,Tarjeta de crédito,2.5,11
+2454,605,2025-05-07,Completado,Tarjeta de débito,0.0,17
+2455,236,2025-10-13,Completado,Efectivo (retiro en local),0.0,12
+2456,217,2024-06-29,Completado,Tarjeta de crédito,4.99,16
+2457,47,2025-10-02,Completado,Tarjeta de crédito,2.5,3
+2458,329,2024-08-02,Pendiente,Billetera virtual,0.0,2
+2459,489,2025-12-14,Pendiente,Efectivo (retiro en local),0.0,5
+2460,446,2025-05-01,Reembolsado,Billetera virtual,7.99,15
+2461,35,2025-04-19,Completado,Tarjeta de crédito,7.99,9
+2462,288,2024-06-10,Cancelado,Tarjeta de débito,0.0,1
+2463,35,2025-05-24,Reembolsado,Efectivo (retiro en local),0.0,10
+2464,368,2025-02-13,Cancelado,Billetera virtual,2.5,14
+2465,289,2025-12-17,Cancelado,Efectivo (retiro en local),0.0,7
+2466,520,2024-09-23,Completado,Tarjeta de crédito,2.5,9
+2467,338,2026-02-07,Completado,Transferencia,0.0,1
+2468,496,2026-06-10,Reembolsado,Billetera virtual,0.0,1
+2469,254,2024-10-03,Cancelado,Billetera virtual,2.5,13
+2470,385,2024-09-11,Completado,Efectivo (retiro en local),0.0,7
+2471,556,2025-01-20,Completado,Efectivo (retiro en local),0.0,
+2472,610,2026-05-29,Completado,Efectivo (retiro en local),2.5,8
+2473,594,2024-11-06,Reembolsado,Transferencia,4.99,14
+2474,152,2025-05-26,Completado,Efectivo (retiro en local),0.0,15
+2475,84,2026-01-24,Completado,Efectivo (retiro en local),0.0,9
+2476,446,2026-01-15,Completado,Tarjeta de crédito,4.99,9
+2477,311,2025-03-12,Pendiente,Billetera virtual,2.5,13
+2478,462,2025-09-23,Completado,Tarjeta de débito,0.0,
+2479,263,2026-02-23,Completado,Tarjeta de crédito,7.99,17
+2480,485,2025-07-05,Pendiente,Billetera virtual,0.0,5
+2481,11,2026-05-04,Completado,Tarjeta de débito,2.5,13
+2482,570,2025-10-23,Completado,Efectivo (retiro en local),4.99,6
+2483,434,2026-02-15,Cancelado,Tarjeta de crédito,7.99,3
+2484,408,2024-09-14,Completado,Transferencia,0.0,13
+2485,399,2024-12-15,Reembolsado,Billetera virtual,4.99,8
+2486,181,2025-05-19,Completado,Tarjeta de crédito,2.5,17
+2487,543,2024-08-03,Completado,Efectivo (retiro en local),4.99,2
+2488,316,2026-06-25,Cancelado,Tarjeta de crédito,0.0,4
+2489,592,2026-03-17,Completado,Efectivo (retiro en local),4.99,1
+2490,308,2025-08-05,Completado,Tarjeta de crédito,0.0,
+2491,97,2025-02-25,Completado,Transferencia,4.99,9
+2492,194,2025-01-23,Cancelado,Tarjeta de crédito,0.0,17
+2493,294,2024-11-10,Cancelado,Efectivo (retiro en local),0.0,10
+2494,250,2024-06-10,Pendiente,Tarjeta de débito,2.5,13
+2495,367,2024-07-18,Pendiente,Transferencia,0.0,4
+2496,524,2025-02-07,Reembolsado,Billetera virtual,0.0,10
+2497,86,2024-07-24,Completado,Tarjeta de crédito,2.5,10
+2498,325,2025-10-11,Completado,Tarjeta de crédito,7.99,14
+2499,271,2024-08-19,Reembolsado,Tarjeta de crédito,2.5,1
+2500,82,2024-07-02,Completado,Transferencia,4.99,7
+2501,68,2026-04-12,Reembolsado,Billetera virtual,0.0,16
+2502,107,2026-05-24,Reembolsado,Billetera virtual,0.0,12
+2503,101,2026-04-08,Completado,Efectivo (retiro en local),0.0,11
+2504,268,2024-06-16,Completado,Billetera virtual,0.0,4
+2505,483,2024-08-25,Completado,Efectivo (retiro en local),7.99,
+2506,324,2025-02-04,Completado,Tarjeta de crédito,4.99,8
+2507,336,2025-02-18,Cancelado,Transferencia,2.5,2
+2508,397,2026-01-26,Completado,Efectivo (retiro en local),2.5,1
+2509,378,2025-12-22,Completado,Tarjeta de crédito,4.99,13
+2510,269,2025-03-05,Reembolsado,Transferencia,0.0,7
+2511,127,2025-01-19,Completado,Efectivo (retiro en local),7.99,11
+2512,147,2025-02-16,Completado,Billetera virtual,7.99,16
+2513,591,2025-09-27,Completado,Tarjeta de débito,4.99,18
+2514,443,2024-06-15,Completado,Billetera virtual,0.0,1
+2515,444,2025-08-13,Completado,Tarjeta de débito,7.99,
+2516,181,2025-06-08,Cancelado,Billetera virtual,4.99,5
+2517,591,2024-09-13,Completado,Tarjeta de crédito,0.0,16
+2518,425,2024-09-07,Reembolsado,Tarjeta de crédito,4.99,15
+2519,72,2025-07-19,Pendiente,Tarjeta de débito,7.99,
+2520,388,2024-08-18,Completado,Billetera virtual,0.0,16
+2521,193,2024-10-26,Pendiente,Tarjeta de crédito,4.99,2
+2522,275,2024-06-19,Cancelado,Billetera virtual,4.99,12
+2523,295,2024-09-29,Pendiente,Tarjeta de crédito,0.0,18
+2524,300,2025-11-10,Completado,Tarjeta de débito,7.99,16
+2525,321,2026-03-28,Reembolsado,Billetera virtual,0.0,15
+2526,130,2025-10-14,Reembolsado,Efectivo (retiro en local),4.99,
+2527,329,2026-03-08,Pendiente,Tarjeta de crédito,0.0,17
+2528,3,2025-08-30,Completado,Transferencia,0.0,5
+2529,379,2024-07-28,Completado,Tarjeta de débito,0.0,3
+2530,371,2024-10-04,Completado,Efectivo (retiro en local),7.99,1
+2531,383,2024-08-09,Completado,Billetera virtual,4.99,17
+2532,392,2025-12-28,Cancelado,Efectivo (retiro en local),0.0,12
+2533,183,2024-12-26,Cancelado,Tarjeta de crédito,2.5,
+2534,211,2026-02-15,Pendiente,Transferencia,4.99,
+2535,295,2024-12-12,Completado,Transferencia,0.0,11
+2536,431,2025-12-18,Pendiente,Tarjeta de crédito,0.0,
+2537,9,2025-03-15,Completado,Tarjeta de débito,0.0,5
+2538,560,2025-08-20,Completado,Billetera virtual,4.99,7
+2539,208,2025-07-29,Cancelado,Tarjeta de crédito,0.0,4
+2540,512,2024-07-22,Reembolsado,Billetera virtual,0.0,1
+2541,537,2024-08-04,Completado,Billetera virtual,4.99,
+2542,77,2026-04-25,Completado,Efectivo (retiro en local),0.0,3
+2543,64,2025-11-26,Completado,Transferencia,4.99,
+2544,326,2025-12-05,Completado,Billetera virtual,7.99,18
+2545,517,2026-05-06,Completado,Billetera virtual,7.99,11
+2546,217,2025-08-30,Cancelado,Tarjeta de débito,7.99,8
+2547,83,2025-05-08,Pendiente,Transferencia,2.5,15
+2548,80,2025-03-18,Pendiente,Tarjeta de débito,0.0,13
+2549,114,2025-10-22,Cancelado,Tarjeta de débito,2.5,5
+2550,139,2024-07-03,Cancelado,Transferencia,0.0,12
+2551,352,2026-03-09,Completado,Transferencia,0.0,7
+2552,587,2026-02-12,Completado,Billetera virtual,0.0,2
+2553,239,2025-12-23,Completado,Efectivo (retiro en local),4.99,4
+2554,367,2026-03-25,Completado,Billetera virtual,7.99,14
+2555,320,2024-12-23,Completado,Tarjeta de crédito,7.99,7
+2556,38,2026-01-21,Pendiente,Billetera virtual,0.0,7
+2557,99,2025-09-29,Cancelado,Transferencia,2.5,2
+2558,564,2026-01-06,Cancelado,Billetera virtual,7.99,4
+2559,422,2025-07-12,Completado,Billetera virtual,4.99,1
+2560,414,2024-08-07,Pendiente,Tarjeta de crédito,2.5,
+2561,23,2025-07-22,Completado,Tarjeta de débito,0.0,12
+2562,328,2024-12-15,Completado,Billetera virtual,2.5,6
+2563,521,2025-06-18,Reembolsado,Efectivo (retiro en local),0.0,4
+2564,237,2024-06-21,Reembolsado,Tarjeta de débito,7.99,2
+2565,484,2025-09-09,Completado,Transferencia,7.99,18
+2566,77,2024-06-23,Completado,Efectivo (retiro en local),4.99,12
+2567,482,2024-07-22,Pendiente,Tarjeta de débito,0.0,14
+2568,151,2025-01-15,Completado,Tarjeta de débito,0.0,6
+2569,527,2024-06-21,Completado,Tarjeta de débito,0.0,5
+2570,168,2024-08-15,Reembolsado,Tarjeta de crédito,0.0,3
+2571,29,2025-08-29,Completado,Efectivo (retiro en local),0.0,18
+2572,395,2026-04-16,Completado,Tarjeta de débito,2.5,10
+2573,4,2025-10-21,Cancelado,Efectivo (retiro en local),0.0,6
+2574,446,2024-12-17,Completado,Efectivo (retiro en local),0.0,14
+2575,583,2024-11-05,Cancelado,Tarjeta de débito,2.5,2
+2576,230,2024-12-15,Completado,Tarjeta de crédito,7.99,12
+2577,52,2024-10-24,Completado,Tarjeta de crédito,0.0,
+2578,535,2026-04-18,Pendiente,Billetera virtual,0.0,
+2579,3,2025-05-05,Completado,Billetera virtual,2.5,17
+2580,510,2025-03-21,Reembolsado,Billetera virtual,0.0,3
+2581,198,2026-06-21,Completado,Transferencia,7.99,7
+2582,589,2026-03-30,Completado,Tarjeta de débito,7.99,6
+2583,458,2026-04-12,Completado,Transferencia,2.5,5
+2584,197,2024-08-31,Reembolsado,Efectivo (retiro en local),2.5,12
+2585,80,2026-02-25,Completado,Billetera virtual,7.99,12
+2586,402,2026-04-01,Completado,Transferencia,2.5,10
+2587,489,2025-10-05,Completado,Tarjeta de crédito,0.0,8
+2588,156,2025-02-03,Completado,Tarjeta de crédito,4.99,7
+2589,474,2025-01-12,Pendiente,Tarjeta de crédito,0.0,4
+2590,208,2024-08-03,Cancelado,Billetera virtual,0.0,9
+2591,52,2025-08-17,Completado,Tarjeta de crédito,2.5,17
+2592,471,2024-07-30,Completado,Efectivo (retiro en local),0.0,6
+2593,588,2026-03-18,Pendiente,Billetera virtual,2.5,17
+2594,431,2024-08-10,Pendiente,Tarjeta de débito,0.0,17
+2595,402,2025-12-03,Reembolsado,Billetera virtual,0.0,12
+2596,605,2025-05-30,Completado,Tarjeta de crédito,0.0,4
+2597,187,2025-03-28,Pendiente,Billetera virtual,0.0,17
+2598,431,2025-04-30,Completado,Efectivo (retiro en local),0.0,18
+2599,481,2025-12-04,Completado,Tarjeta de débito,0.0,18
+2600,313,2025-03-16,Cancelado,Transferencia,0.0,9
+2601,548,2026-02-01,Completado,Tarjeta de crédito,4.99,14
+2602,399,2024-09-07,Completado,Billetera virtual,2.5,2
+2603,492,2025-10-10,Reembolsado,Efectivo (retiro en local),7.99,8
+2604,318,2026-02-16,Completado,Billetera virtual,2.5,6
+2605,355,2025-11-01,Completado,Tarjeta de débito,0.0,
+2606,485,2024-07-27,Cancelado,Transferencia,4.99,7
+2607,271,2024-12-21,Reembolsado,Transferencia,0.0,15
+2608,103,2026-04-20,Completado,Tarjeta de crédito,0.0,17
+2609,226,2024-10-29,Completado,Tarjeta de débito,0.0,2
+2610,495,2026-01-11,Completado,Transferencia,2.5,3
+2611,175,2026-02-18,Completado,Tarjeta de crédito,2.5,15
+2612,185,2026-01-12,Completado,Billetera virtual,0.0,11
+2613,390,2024-06-20,Cancelado,Tarjeta de crédito,0.0,9
+2614,461,2024-06-26,Pendiente,Tarjeta de débito,0.0,1
+2615,451,2026-01-26,Cancelado,Efectivo (retiro en local),2.5,
+2616,339,2025-09-07,Reembolsado,Transferencia,0.0,18
+2617,263,2026-04-24,Completado,Tarjeta de débito,4.99,16
+2618,270,2025-05-15,Completado,Tarjeta de crédito,2.5,14
+2619,597,2025-11-11,Reembolsado,Billetera virtual,0.0,7
+2620,196,2026-03-12,Completado,Transferencia,2.5,17
+2621,327,2024-11-20,Cancelado,Efectivo (retiro en local),4.99,17
+2622,210,2026-05-22,Completado,Tarjeta de crédito,0.0,11
+2623,507,2025-10-21,Pendiente,Billetera virtual,0.0,15
+2624,239,2025-11-07,Completado,Tarjeta de débito,0.0,16
+2625,171,2026-02-03,Completado,Tarjeta de débito,0.0,1
+2626,135,2026-05-04,Completado,Tarjeta de crédito,0.0,
+2627,546,2025-04-22,Cancelado,Tarjeta de débito,0.0,11
+2628,172,2025-07-11,Completado,Efectivo (retiro en local),4.99,1
+2629,44,2024-06-20,Pendiente,Tarjeta de crédito,2.5,17
+2630,557,2026-03-30,Completado,Tarjeta de crédito,0.0,12
+2631,574,2024-09-02,Pendiente,Efectivo (retiro en local),0.0,
+2632,85,2026-05-23,Completado,Billetera virtual,0.0,12
+2633,212,2025-06-07,Completado,Tarjeta de crédito,2.5,3
+2634,372,2026-04-13,Completado,Transferencia,0.0,4
+2635,601,2024-11-01,Completado,Tarjeta de crédito,2.5,7
+2636,430,2025-07-30,Completado,Tarjeta de débito,0.0,16
+2637,530,2025-06-06,Completado,Transferencia,0.0,5
+2638,441,2025-11-14,Completado,Tarjeta de crédito,0.0,10
+2639,298,2025-07-03,Pendiente,Transferencia,7.99,3
+2640,22,2024-10-22,Completado,Tarjeta de débito,0.0,1
+2641,352,2024-10-01,Reembolsado,Efectivo (retiro en local),0.0,10
+2642,572,2026-03-17,Completado,Tarjeta de débito,0.0,2
+2643,31,2025-01-19,Completado,Transferencia,0.0,7
+2644,304,2025-06-08,Cancelado,Transferencia,0.0,
+2645,460,2026-05-06,Completado,Efectivo (retiro en local),0.0,4
+2646,441,2026-04-12,Completado,Billetera virtual,0.0,2
+2647,439,2024-06-14,Completado,Tarjeta de débito,0.0,3
+2648,560,2024-06-29,Cancelado,Transferencia,0.0,
+2649,567,2024-09-25,Completado,Tarjeta de débito,4.99,4
+2650,434,2026-03-30,Reembolsado,Transferencia,2.5,1
+2651,365,2025-06-27,Completado,Transferencia,0.0,15
+2652,16,2026-01-16,Cancelado,Tarjeta de débito,4.99,11
+2653,343,2024-09-18,Completado,Tarjeta de débito,4.99,2
+2654,126,2025-12-29,Pendiente,Efectivo (retiro en local),0.0,9
+2655,444,2025-10-14,Completado,Tarjeta de crédito,7.99,15
+2656,476,2025-07-17,Cancelado,Tarjeta de débito,7.99,
+2657,285,2024-06-26,Pendiente,Billetera virtual,4.99,1
+2658,382,2025-07-29,Completado,Billetera virtual,4.99,8
+2659,196,2026-04-24,Pendiente,Efectivo (retiro en local),0.0,16
+2660,329,2026-05-01,Pendiente,Tarjeta de crédito,0.0,
+2661,237,2024-11-01,Cancelado,Efectivo (retiro en local),2.5,10
+2662,439,2025-02-02,Completado,Transferencia,7.99,4
+2663,448,2025-12-28,Completado,Billetera virtual,0.0,
+2664,175,2024-06-26,Completado,Tarjeta de débito,0.0,12
+2665,101,2025-07-11,Cancelado,Efectivo (retiro en local),0.0,16
+2666,536,2026-02-09,Completado,Tarjeta de débito,4.99,4
+2667,375,2025-09-29,Cancelado,Tarjeta de crédito,2.5,9
+2668,190,2025-12-22,Cancelado,Tarjeta de débito,2.5,
+2669,200,2026-05-08,Completado,Efectivo (retiro en local),0.0,4
+2670,538,2026-06-27,Completado,Transferencia,4.99,1
+2671,262,2026-01-16,Completado,Billetera virtual,0.0,15
+2672,213,2026-04-06,Cancelado,Tarjeta de débito,0.0,14
+2673,466,2025-07-19,Completado,Tarjeta de débito,4.99,13
+2674,32,2025-02-10,Cancelado,Tarjeta de crédito,2.5,13
+2675,159,2024-12-06,Pendiente,Billetera virtual,7.99,14
+2676,256,2026-01-29,Completado,Tarjeta de débito,2.5,16
+2677,54,2026-05-13,Completado,Billetera virtual,4.99,
+2678,39,2024-08-26,Completado,Tarjeta de crédito,0.0,15
+2679,163,2024-07-09,Cancelado,Tarjeta de débito,2.5,2
+2680,492,2025-01-13,Pendiente,Tarjeta de débito,2.5,12
+2681,423,2026-01-29,Cancelado,Transferencia,7.99,5
+2682,351,2025-10-07,Completado,Billetera virtual,7.99,13
+2683,387,2024-07-09,Completado,Tarjeta de débito,0.0,6
+2684,178,2026-02-23,Completado,Efectivo (retiro en local),4.99,15
+2685,240,2025-08-23,Reembolsado,Billetera virtual,0.0,3
+2686,608,2025-09-17,Completado,Billetera virtual,7.99,14
+2687,483,2025-06-11,Cancelado,Transferencia,0.0,9
+2688,374,2025-06-09,Completado,Billetera virtual,0.0,14
+2689,346,2025-04-19,Completado,Tarjeta de débito,4.99,18
+2690,418,2026-04-22,Pendiente,Tarjeta de crédito,7.99,8
+2691,384,2025-06-21,Cancelado,Billetera virtual,7.99,16
+2692,236,2026-05-09,Pendiente,Billetera virtual,4.99,12
+2693,185,2025-08-02,Completado,Transferencia,0.0,5
+2694,297,2026-03-17,Completado,Tarjeta de débito,2.5,5
+2695,58,2024-11-16,Completado,Efectivo (retiro en local),0.0,
+2696,487,2024-12-07,Completado,Billetera virtual,2.5,15
+2697,380,2024-09-20,Pendiente,Tarjeta de crédito,0.0,1
+2698,370,2026-01-15,Reembolsado,Tarjeta de débito,7.99,2
+2699,463,2026-01-18,Completado,Tarjeta de débito,0.0,17
+2700,542,2024-10-20,Completado,Efectivo (retiro en local),2.5,10
+2701,238,2025-12-31,Completado,Transferencia,0.0,15
+2702,289,2025-03-26,Completado,Billetera virtual,0.0,3
+2703,168,2025-12-15,Completado,Transferencia,0.0,12
+2704,173,2025-12-25,Completado,Tarjeta de débito,0.0,11
+2705,221,2026-02-06,Reembolsado,Tarjeta de débito,0.0,10
+2706,422,2024-08-11,Completado,Tarjeta de débito,0.0,15
+2707,259,2025-07-18,Completado,Transferencia,0.0,16
+2708,477,2025-06-25,Completado,Tarjeta de crédito,4.99,18
+2709,256,2025-02-16,Cancelado,Tarjeta de débito,4.99,
+2710,364,2025-02-08,Pendiente,Billetera virtual,0.0,
+2711,224,2024-12-10,Completado,Transferencia,0.0,7
+2712,468,2025-05-01,Cancelado,Transferencia,7.99,2
+2713,319,2024-11-06,Completado,Tarjeta de crédito,4.99,6
+2714,425,2025-03-16,Completado,Tarjeta de crédito,0.0,
+2715,66,2024-10-09,Pendiente,Tarjeta de crédito,0.0,15
+2716,526,2026-02-23,Completado,Efectivo (retiro en local),4.99,1
+2717,441,2024-10-07,Pendiente,Efectivo (retiro en local),7.99,11
+2718,255,2025-11-01,Completado,Billetera virtual,0.0,
+2719,516,2026-06-23,Completado,Tarjeta de crédito,0.0,15
+2720,428,2026-05-31,Completado,Tarjeta de crédito,0.0,
+2721,245,2024-06-02,Completado,Tarjeta de crédito,0.0,15
+2722,18,2024-08-02,Cancelado,Tarjeta de débito,7.99,4
+2723,49,2025-09-27,Cancelado,Billetera virtual,0.0,
+2724,163,2025-07-03,Completado,Tarjeta de crédito,0.0,9
+2725,354,2026-06-21,Completado,Efectivo (retiro en local),7.99,5
+2726,360,2024-08-21,Cancelado,Efectivo (retiro en local),4.99,9
+2727,73,2025-12-27,Cancelado,Efectivo (retiro en local),2.5,9
+2728,4,2025-01-01,Completado,Billetera virtual,0.0,15
+2729,295,2024-12-31,Cancelado,Tarjeta de crédito,7.99,10
+2730,262,2025-03-03,Completado,Billetera virtual,0.0,18
+2731,555,2026-03-31,Cancelado,Tarjeta de crédito,0.0,
+2732,74,2026-06-23,Completado,Efectivo (retiro en local),7.99,6
+2733,68,2024-06-30,Completado,Efectivo (retiro en local),0.0,9
+2734,109,2026-05-03,Pendiente,Tarjeta de débito,0.0,18
+2735,538,2025-01-13,Completado,Tarjeta de crédito,0.0,3
+2736,241,2024-09-07,Completado,Billetera virtual,0.0,4
+2737,390,2024-07-20,Pendiente,Billetera virtual,0.0,11
+2738,27,2025-10-29,Reembolsado,Transferencia,2.5,17
+2739,231,2025-07-14,Reembolsado,Billetera virtual,7.99,8
+2740,199,2025-02-26,Completado,Tarjeta de crédito,0.0,17
+2741,92,2025-08-09,Completado,Efectivo (retiro en local),0.0,8
+2742,145,2026-03-12,Completado,Tarjeta de crédito,0.0,9
+2743,528,2026-06-01,Completado,Tarjeta de crédito,0.0,3
+2744,476,2025-10-09,Completado,Tarjeta de crédito,0.0,2
+2745,377,2024-10-10,Completado,Transferencia,0.0,11
+2746,315,2024-09-12,Completado,Billetera virtual,0.0,9
+2747,584,2026-03-18,Reembolsado,Billetera virtual,7.99,13
+2748,256,2026-04-04,Completado,Tarjeta de crédito,0.0,6
+2749,64,2026-04-27,Completado,Tarjeta de crédito,0.0,18
+2750,228,2024-10-23,Completado,Tarjeta de crédito,7.99,7
+2751,518,2025-03-26,Completado,Billetera virtual,0.0,16
+2752,522,2024-08-29,Completado,Billetera virtual,2.5,
+2753,221,2025-02-25,Completado,Transferencia,4.99,4
+2754,267,2024-09-05,Reembolsado,Billetera virtual,2.5,10
+2755,206,2024-10-22,Completado,Efectivo (retiro en local),0.0,7
+2756,159,2025-06-22,Completado,Billetera virtual,2.5,4
+2757,574,2025-09-20,Completado,Billetera virtual,0.0,6
+2758,259,2025-02-23,Completado,Billetera virtual,0.0,3
+2759,118,2025-07-28,Cancelado,Tarjeta de débito,0.0,13
+2760,466,2024-06-30,Reembolsado,Transferencia,0.0,18
+2761,540,2024-07-15,Completado,Billetera virtual,2.5,7
+2762,131,2025-02-18,Completado,Tarjeta de débito,0.0,15
+2763,102,2024-09-14,Reembolsado,Efectivo (retiro en local),7.99,1
+2764,228,2026-01-03,Reembolsado,Tarjeta de crédito,7.99,3
+2765,200,2026-02-07,Completado,Efectivo (retiro en local),0.0,12
+2766,551,2026-01-31,Reembolsado,Tarjeta de débito,0.0,16
+2767,399,2025-04-30,Cancelado,Transferencia,0.0,2
+2768,183,2025-07-29,Completado,Tarjeta de crédito,4.99,
+2769,341,2024-12-17,Completado,Efectivo (retiro en local),0.0,15
+2770,556,2024-08-04,Pendiente,Billetera virtual,4.99,3
+2771,376,2025-03-03,Completado,Transferencia,7.99,
+2772,419,2025-01-08,Completado,Efectivo (retiro en local),0.0,7
+2773,369,2025-06-07,Pendiente,Efectivo (retiro en local),4.99,9
+2774,28,2025-05-25,Completado,Efectivo (retiro en local),2.5,9
+2775,600,2026-02-06,Reembolsado,Tarjeta de crédito,7.99,17
+2776,555,2024-08-22,Pendiente,Tarjeta de crédito,4.99,17
+2777,346,2025-11-11,Completado,Efectivo (retiro en local),7.99,13
+2778,554,2024-06-23,Completado,Tarjeta de débito,0.0,
+2779,132,2025-05-05,Completado,Transferencia,7.99,11
+2780,157,2025-03-07,Reembolsado,Tarjeta de débito,0.0,17
+2781,276,2025-08-10,Completado,Efectivo (retiro en local),0.0,13
+2782,136,2026-04-17,Cancelado,Efectivo (retiro en local),0.0,17
+2783,428,2025-02-11,Completado,Billetera virtual,0.0,18
+2784,138,2024-07-17,Reembolsado,Tarjeta de débito,0.0,4
+2785,220,2025-08-18,Cancelado,Tarjeta de débito,4.99,13
+2786,437,2025-06-29,Completado,Efectivo (retiro en local),2.5,14
+2787,47,2024-07-23,Completado,Tarjeta de débito,0.0,9
+2788,272,2026-03-13,Reembolsado,Efectivo (retiro en local),0.0,7
+2789,605,2025-07-09,Reembolsado,Tarjeta de crédito,0.0,15
+2790,90,2024-08-22,Cancelado,Tarjeta de crédito,0.0,10
+2791,450,2024-09-10,Completado,Tarjeta de débito,7.99,11
+2792,540,2026-04-13,Completado,Billetera virtual,2.5,7
+2793,458,2025-12-30,Reembolsado,Tarjeta de crédito,7.99,
+2794,545,2025-04-06,Completado,Efectivo (retiro en local),0.0,15
+2795,215,2024-09-20,Pendiente,Efectivo (retiro en local),7.99,5
+2796,379,2026-05-11,Cancelado,Tarjeta de crédito,7.99,3
+2797,213,2025-05-07,Completado,Transferencia,4.99,2
+2798,497,2025-07-03,Completado,Transferencia,0.0,4
+2799,214,2025-02-07,Reembolsado,Transferencia,2.5,6
+2800,561,2026-04-11,Completado,Tarjeta de crédito,0.0,8
+2801,98,2025-09-30,Completado,Tarjeta de débito,7.99,10
+2802,173,2025-02-18,Completado,Transferencia,7.99,9
+2803,5,2025-02-28,Completado,Efectivo (retiro en local),4.99,2
+2804,375,2025-06-02,Completado,Tarjeta de débito,4.99,9
+2805,501,2026-05-30,Completado,Tarjeta de débito,4.99,
+2806,466,2025-04-19,Completado,Transferencia,2.5,10
+2807,509,2026-05-30,Reembolsado,Tarjeta de débito,0.0,4
+2808,108,2024-07-09,Pendiente,Billetera virtual,4.99,13
+2809,248,2025-05-15,Cancelado,Tarjeta de crédito,7.99,
+2810,568,2025-07-27,Reembolsado,Tarjeta de crédito,0.0,
+2811,153,2025-01-23,Reembolsado,Tarjeta de débito,7.99,
+2812,176,2025-12-10,Reembolsado,Tarjeta de débito,0.0,5
+2813,497,2025-07-26,Completado,Efectivo (retiro en local),0.0,14
+2814,71,2025-03-09,Completado,Efectivo (retiro en local),0.0,
+2815,343,2025-08-08,Completado,Tarjeta de débito,2.5,
+2816,199,2025-10-28,Completado,Tarjeta de crédito,0.0,11
+2817,229,2024-12-19,Cancelado,Tarjeta de crédito,0.0,14
+2818,595,2026-05-24,Completado,Tarjeta de crédito,7.99,1
+2819,379,2025-07-03,Completado,Tarjeta de crédito,4.99,18
+2820,351,2025-12-19,Pendiente,Tarjeta de débito,0.0,14
+2821,494,2025-06-06,Cancelado,Transferencia,0.0,14
+2822,494,2024-06-05,Cancelado,Billetera virtual,0.0,15
+2823,390,2025-06-07,Completado,Efectivo (retiro en local),7.99,10
+2824,64,2025-06-12,Completado,Billetera virtual,0.0,18
+2825,321,2026-01-04,Completado,Transferencia,2.5,
+2826,333,2024-12-21,Reembolsado,Tarjeta de débito,0.0,11
+2827,213,2025-10-03,Completado,Transferencia,0.0,6
+2828,31,2026-02-24,Reembolsado,Transferencia,0.0,
+2829,563,2025-09-18,Completado,Billetera virtual,2.5,18
+2830,71,2026-06-21,Completado,Tarjeta de crédito,0.0,7
+2831,522,2025-10-07,Completado,Efectivo (retiro en local),7.99,
+2832,56,2026-04-05,Pendiente,Tarjeta de crédito,2.5,3
+2833,291,2026-01-04,Cancelado,Tarjeta de débito,0.0,11
+2834,212,2024-08-16,Completado,Transferencia,0.0,
+2835,16,2025-08-15,Completado,Transferencia,7.99,1
+2836,124,2025-02-28,Reembolsado,Tarjeta de débito,2.5,13
+2837,553,2025-07-03,Completado,Tarjeta de crédito,0.0,1
+2838,483,2024-09-07,Completado,Tarjeta de débito,0.0,17
+2839,11,2026-03-09,Completado,Billetera virtual,0.0,8
+2840,450,2024-10-27,Completado,Tarjeta de crédito,4.99,18
+2841,439,2026-04-22,Cancelado,Tarjeta de débito,0.0,5
+2842,605,2024-09-09,Pendiente,Transferencia,0.0,
+2843,314,2026-06-21,Completado,Transferencia,7.99,16
+2844,437,2025-02-22,Reembolsado,Tarjeta de débito,2.5,5
+2845,510,2026-02-23,Cancelado,Tarjeta de débito,7.99,10
+2846,86,2026-06-04,Reembolsado,Tarjeta de débito,0.0,1
+2847,457,2024-11-02,Cancelado,Transferencia,7.99,1
+2848,434,2024-09-22,Completado,Tarjeta de crédito,4.99,6
+2849,582,2024-12-02,Reembolsado,Billetera virtual,2.5,13
+2850,355,2024-07-16,Completado,Billetera virtual,7.99,10
+2851,55,2025-12-14,Completado,Tarjeta de crédito,2.5,18
+2852,130,2025-02-23,Completado,Billetera virtual,0.0,10
+2853,599,2026-02-15,Completado,Billetera virtual,2.5,
+2854,286,2025-12-30,Pendiente,Tarjeta de crédito,0.0,13
+2855,457,2025-05-29,Reembolsado,Tarjeta de débito,0.0,17
+2856,453,2025-06-04,Completado,Billetera virtual,0.0,4
+2857,531,2024-09-16,Completado,Tarjeta de crédito,2.5,15
+2858,553,2024-08-31,Pendiente,Tarjeta de crédito,0.0,
+2859,100,2025-07-20,Completado,Efectivo (retiro en local),7.99,17
+2860,533,2025-11-30,Pendiente,Transferencia,0.0,10
+2861,409,2026-06-05,Completado,Billetera virtual,7.99,2
+2862,108,2024-06-20,Completado,Transferencia,7.99,
+2863,310,2025-07-28,Completado,Transferencia,4.99,2
+2864,520,2025-07-16,Completado,Efectivo (retiro en local),4.99,4
+2865,65,2025-11-28,Completado,Tarjeta de débito,0.0,15
+2866,230,2026-04-17,Reembolsado,Billetera virtual,0.0,10
+2867,229,2026-06-26,Completado,Efectivo (retiro en local),0.0,12
+2868,170,2026-03-20,Completado,Efectivo (retiro en local),0.0,3
+2869,437,2025-10-17,Completado,Tarjeta de crédito,4.99,17
+2870,432,2025-06-05,Cancelado,Tarjeta de débito,4.99,4
+2871,387,2025-07-05,Cancelado,Tarjeta de crédito,4.99,1
+2872,231,2024-12-05,Reembolsado,Efectivo (retiro en local),7.99,5
+2873,107,2026-02-23,Completado,Transferencia,7.99,14
+2874,73,2024-12-01,Cancelado,Efectivo (retiro en local),0.0,17
+2875,504,2026-05-27,Completado,Tarjeta de débito,0.0,
+2876,439,2025-09-01,Completado,Transferencia,0.0,
+2877,327,2025-10-09,Pendiente,Billetera virtual,7.99,
+2878,186,2025-02-15,Completado,Transferencia,0.0,9
+2879,324,2025-08-22,Completado,Tarjeta de crédito,7.99,6
+2880,397,2024-08-09,Completado,Billetera virtual,0.0,
+2881,338,2026-02-05,Reembolsado,Billetera virtual,0.0,12
+2882,168,2025-08-03,Pendiente,Transferencia,7.99,11
+2883,350,2026-04-22,Pendiente,Transferencia,0.0,5
+2884,306,2026-03-06,Completado,Tarjeta de débito,7.99,
+2885,169,2025-08-31,Completado,Transferencia,0.0,14
+2886,478,2026-06-05,Completado,Efectivo (retiro en local),0.0,7
+2887,435,2025-11-10,Cancelado,Billetera virtual,7.99,18
+2888,360,2025-08-31,Cancelado,Billetera virtual,0.0,13
+2889,299,2024-06-21,Reembolsado,Tarjeta de débito,0.0,16
+2890,124,2025-08-09,Completado,Transferencia,7.99,10
+2891,506,2025-07-20,Reembolsado,Efectivo (retiro en local),2.5,12
+2892,95,2026-03-16,Completado,Efectivo (retiro en local),7.99,16
+2893,155,2026-02-02,Cancelado,Tarjeta de crédito,0.0,17
+2894,276,2024-10-10,Completado,Billetera virtual,0.0,
+2895,95,2026-02-09,Completado,Billetera virtual,0.0,11
+2896,567,2024-12-19,Completado,Billetera virtual,0.0,3
+2897,165,2025-05-12,Completado,Billetera virtual,2.5,8
+2898,129,2025-06-14,Cancelado,Tarjeta de débito,0.0,
+2899,380,2025-07-03,Pendiente,Tarjeta de débito,2.5,13
+2900,199,2024-10-14,Pendiente,Billetera virtual,2.5,4
+2901,269,2025-01-04,Reembolsado,Transferencia,0.0,11
+2902,377,2026-02-27,Completado,Transferencia,2.5,11
+2903,398,2025-11-08,Completado,Tarjeta de débito,0.0,7
+2904,277,2025-08-05,Cancelado,Tarjeta de crédito,0.0,4
+2905,427,2024-06-01,Completado,Billetera virtual,0.0,4
+2906,341,2026-02-25,Reembolsado,Efectivo (retiro en local),0.0,16
+2907,389,2026-02-27,Pendiente,Tarjeta de crédito,4.99,
+2908,583,2024-10-10,Completado,Transferencia,4.99,7
+2909,427,2024-06-19,Cancelado,Billetera virtual,0.0,4
+2910,343,2024-12-24,Pendiente,Tarjeta de crédito,0.0,5
+2911,308,2026-02-01,Completado,Tarjeta de crédito,0.0,11
+2912,290,2024-07-03,Pendiente,Transferencia,7.99,12
+2913,594,2024-08-15,Reembolsado,Billetera virtual,2.5,13
+2914,267,2024-10-26,Cancelado,Tarjeta de crédito,0.0,14
+2915,85,2024-11-05,Completado,Transferencia,4.99,15
+2916,263,2024-06-23,Reembolsado,Efectivo (retiro en local),0.0,18
+2917,567,2024-09-12,Completado,Billetera virtual,0.0,13
+2918,528,2025-06-02,Completado,Tarjeta de crédito,7.99,2
+2919,170,2025-04-22,Completado,Tarjeta de débito,7.99,16
+2920,133,2024-10-03,Completado,Tarjeta de débito,4.99,6
+2921,99,2025-04-12,Cancelado,Tarjeta de débito,0.0,6
+2922,139,2026-04-25,Completado,Tarjeta de crédito,0.0,1
+2923,24,2024-10-04,Completado,Billetera virtual,4.99,10
+2924,315,2024-09-10,Completado,Tarjeta de débito,0.0,7
+2925,377,2024-06-08,Cancelado,Transferencia,0.0,14
+2926,340,2025-08-31,Completado,Tarjeta de débito,0.0,
+2927,320,2026-01-29,Completado,Transferencia,0.0,17
+2928,176,2026-01-02,Cancelado,Tarjeta de crédito,7.99,3
+2929,470,2024-11-24,Completado,Transferencia,0.0,18
+2930,529,2024-09-22,Completado,Tarjeta de crédito,0.0,9
+2931,216,2024-08-07,Completado,Billetera virtual,0.0,7
+2932,29,2025-06-16,Completado,Efectivo (retiro en local),0.0,2
+2933,531,2025-09-04,Reembolsado,Tarjeta de débito,0.0,10
+2934,109,2026-02-21,Pendiente,Transferencia,2.5,8
+2935,132,2024-07-17,Completado,Tarjeta de crédito,0.0,13
+2936,379,2026-01-05,Reembolsado,Tarjeta de débito,0.0,18
+2937,77,2025-08-16,Completado,Efectivo (retiro en local),7.99,13
+2938,113,2024-09-29,Completado,Billetera virtual,4.99,12
+2939,378,2025-11-11,Completado,Tarjeta de crédito,0.0,10
+2940,595,2024-12-29,Completado,Tarjeta de crédito,0.0,12
+2941,62,2024-11-07,Reembolsado,Billetera virtual,0.0,14
+2942,502,2026-06-05,Completado,Tarjeta de débito,0.0,12
+2943,105,2026-03-18,Cancelado,Efectivo (retiro en local),0.0,8
+2944,31,2026-06-12,Completado,Efectivo (retiro en local),7.99,
+2945,269,2024-09-15,Completado,Billetera virtual,0.0,9
+2946,296,2026-03-12,Cancelado,Transferencia,2.5,8
+2947,316,2024-11-06,Cancelado,Tarjeta de débito,0.0,
+2948,585,2025-07-21,Completado,Billetera virtual,0.0,10
+2949,238,2025-08-24,Completado,Transferencia,0.0,
+2950,582,2025-07-03,Reembolsado,Tarjeta de crédito,7.99,8
+2951,60,2025-07-27,Completado,Tarjeta de débito,0.0,1
+2952,418,2024-06-29,Completado,Efectivo (retiro en local),2.5,9
+2953,508,2024-07-18,Completado,Tarjeta de débito,0.0,
+2954,169,2025-12-06,Reembolsado,Billetera virtual,0.0,
+2955,373,2024-11-16,Completado,Tarjeta de débito,2.5,13
+2956,409,2025-12-15,Completado,Billetera virtual,0.0,6
+2957,406,2026-06-12,Reembolsado,Transferencia,0.0,18
+2958,395,2026-02-18,Pendiente,Tarjeta de crédito,0.0,13
+2959,272,2024-12-21,Completado,Billetera virtual,0.0,3
+2960,275,2025-04-30,Pendiente,Billetera virtual,0.0,7
+2961,119,2024-08-18,Pendiente,Billetera virtual,4.99,8
+2962,176,2026-04-29,Completado,Tarjeta de débito,4.99,
+2963,339,2025-10-03,Completado,Tarjeta de crédito,2.5,10
+2964,15,2025-10-25,Cancelado,Efectivo (retiro en local),0.0,5
+2965,591,2024-12-04,Pendiente,Billetera virtual,2.5,14
+2966,147,2025-10-10,Completado,Tarjeta de crédito,4.99,4
+2967,115,2025-01-08,Pendiente,Billetera virtual,0.0,12
+2968,516,2026-02-28,Completado,Efectivo (retiro en local),0.0,6
+2969,588,2025-11-06,Completado,Tarjeta de débito,0.0,
+2970,519,2024-07-02,Cancelado,Efectivo (retiro en local),4.99,
+2971,338,2024-10-09,Completado,Billetera virtual,0.0,17
+2972,323,2025-05-23,Completado,Tarjeta de débito,0.0,
+2973,191,2026-01-02,Completado,Transferencia,0.0,1
+2974,71,2025-08-07,Completado,Efectivo (retiro en local),2.5,3
+2975,350,2025-09-19,Completado,Tarjeta de débito,7.99,16
+2976,588,2024-09-30,Cancelado,Tarjeta de crédito,4.99,6
+2977,431,2026-03-27,Pendiente,Transferencia,0.0,17
+2978,297,2025-01-27,Completado,Tarjeta de crédito,7.99,6
+2979,160,2025-08-15,Completado,Tarjeta de crédito,2.5,12
+2980,605,2025-10-05,Completado,Efectivo (retiro en local),0.0,16
+2981,107,2025-09-08,Completado,Tarjeta de crédito,0.0,3
+2982,223,2025-04-22,Reembolsado,Billetera virtual,7.99,4
+2983,88,2026-05-20,Completado,Transferencia,0.0,5
+2984,565,2026-05-06,Completado,Tarjeta de débito,4.99,7
+2985,181,2025-06-14,Completado,Efectivo (retiro en local),4.99,4
+2986,429,2025-05-13,Completado,Tarjeta de débito,0.0,14
+2987,232,2025-09-07,Reembolsado,Tarjeta de crédito,2.5,5
+2988,398,2026-02-27,Pendiente,Billetera virtual,0.0,17
+2989,455,2025-12-18,Reembolsado,Billetera virtual,0.0,15
+2990,445,2024-09-23,Completado,Tarjeta de débito,4.99,6
+2991,388,2025-10-02,Completado,Transferencia,0.0,12
+2992,58,2025-01-10,Cancelado,Transferencia,7.99,8
+2993,438,2025-10-11,Cancelado,Tarjeta de débito,0.0,4
+2994,478,2025-07-25,Completado,Efectivo (retiro en local),0.0,14
+2995,510,2024-09-08,Completado,Billetera virtual,0.0,11
+2996,436,2026-04-13,Cancelado,Efectivo (retiro en local),4.99,8
+2997,595,2024-12-27,Reembolsado,Efectivo (retiro en local),0.0,5
+2998,365,2025-02-14,Completado,Tarjeta de crédito,4.99,10
+2999,477,2024-06-21,Completado,Transferencia,0.0,12
+3000,363,2024-09-09,Cancelado,Transferencia,0.0,13
