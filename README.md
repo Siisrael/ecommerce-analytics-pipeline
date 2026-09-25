@@ -1,75 +1,121 @@
 # Pipeline analítico de e-commerce
 
-<!-- ------------------------------------------------------------------
-ESQUELETO PARA COMPLETAR. Cada bloque en comentarios dice qué escribir.
-Borrá los comentarios a medida que los vas llenando.
-------------------------------------------------------------------- -->
+Proyecto de análisis sobre las ventas de una tienda online ficticia
+(NorteStore). Parte de seis archivos de datos crudos y termina en un dashboard
+con los indicadores del negocio: cuánto se vende, qué productos dejan más
+margen, qué canales traen mejores clientes y qué tan bien funcionan las
+campañas de marketing.
 
-<!-- 2 o 3 renglones: qué es el proyecto y qué resuelve.
-     Ej: de dónde salen los datos, a dónde llegan (dashboard), y qué
-     preguntas de negocio responde. -->
-
+La idea fue hacer el recorrido completo: limpiar los datos, armar las consultas
+que calculan cada métrica, y mostrar el resultado en un dashboard y en una API.
 
 **Stack:** SQLite · SQL · Python · Flask · Power BI
 
-
-## Estructura
-
-```
-data/raw/     CSV de origen (6 tablas)
-sql/
-  schema.sql     esquema de las tablas crudas
-  staging.sql    limpieza y normalización
-  reporting.sql  vistas de negocio con CTEs
-api/          API en Flask sobre las vistas
-scripts/      carga incremental
-notebooks/    análisis exploratorio
-dashboard/    dashboard en Power BI + capturas
-```
-
+---
 
 ## El dashboard
 
-<!-- Pegá acá 2 o 3 capturas:
-     ![Ventas](dashboard/capturas/ventas.png)
-     Es lo único que se ve sin abrir el .pbix, así que va arriba de todo. -->
+<!-- Pegá acá 2 o 3 capturas cuando las tengas:
+     ![Vista general](dashboard/capturas/general.png)     -->
 
+El archivo está en `dashboard/nortestore_analytics.pbix`. Se conecta directo a
+las vistas de la base, así que todos los cálculos viven en SQL y Power BI se
+ocupa solamente de mostrarlos.
 
-## Modelo de datos
+---
 
-<!-- Las 6 tablas y cómo se relacionan.
-     Después, las 3 vistas stg_*: qué limpia cada una.
-       - stg_customers: unificación de países, numeración de emails repetidos
-       - stg_products: normalización de categorías, imputación del costo
-       - stg_reviews: marcado de ratings fuera de escala -->
+## Los datos
 
+Seis tablas: clientes, productos, órdenes, detalle de cada orden, campañas de
+marketing y reseñas. En total unas 3.000 órdenes de 610 clientes.
 
-## Vistas de reporting
+Como vienen, los datos tienen los problemas típicos de una fuente real: el
+mismo país escrito de varias formas (`arg.`, `USA`, `Brazil`), productos sin
+costo cargado, reseñas con puntajes fuera de la escala 1 a 5 y algunos emails
+repetidos.
 
-<!-- Las 10 vistas rpt_*, una línea cada una: qué métrica devuelve. -->
+---
 
+## Cómo está armado
 
-## Decisiones
+**1. Limpieza** (`sql/staging.sql`)
 
-<!-- LA SECCIÓN MÁS IMPORTANTE: es la que te van a preguntar.
-     Explicá el porqué, no el qué:
-       - por qué imputás el costo faltante como unit_price * 0.65
-       - por qué dejás la bandera costo_estimado en vez de borrar esas filas
-       - por qué todas las vistas filtran status = 'Completado'
-       - por qué marcás los ratings inválidos en vez de excluirlos en el staging
-       - qué hacés con las 2 campañas sin presupuesto en rpt_roi_campanias -->
+Tres vistas dejan los datos parejos antes de calcular nada: unifican los
+nombres de países, normalizan las categorías de producto, completan los costos
+que faltan y marcan las reseñas con puntaje inválido.
 
+**2. Métricas** (`sql/reporting.sql`)
+
+Diez vistas, una por indicador:
+
+| Vista | Qué responde |
+|---|---|
+| `rpt_revenue_mensual_categoria` | Cómo evolucionan las ventas mes a mes por categoría |
+| `rpt_top_productos_revenue_margen` | Qué productos venden más y cuáles dejan más margen |
+| `rpt_aov_por_pais` | Cuánto gasta en promedio un cliente por compra, según el país |
+| `rpt_ltv_por_canal` | Qué canal de captación trae los clientes más valiosos |
+| `rpt_roi_campanias` | Cuánto devolvió cada campaña frente a lo que costó |
+| `rpt_recompra` | Qué porcentaje de clientes vuelve a comprar |
+| `rpt_estacionalidad` | En qué meses y días de la semana se vende más |
+| `rpt_rating_vs_ventas` | Si los productos mejor puntuados venden más |
+| `rpt_cancelacion_reembolso` | Qué medios de pago y categorías tienen más cancelaciones |
+| `rpt_cantidad_ordenes` | Total de órdenes completadas |
+
+**3. Salidas**
+
+El dashboard de Power BI y una API en Flask (`api/app.py`), las dos leyendo las
+mismas vistas.
+
+---
+
+## Decisiones que tomé
+
+**Solo cuento las órdenes completadas.** Todas las métricas filtran por ese
+estado: una orden cancelada o pendiente todavía no es plata que entró.
+
+**Los costos que faltan los estimo, no los borro.** Seis productos no tenían
+costo cargado. Descartarlos hubiera dejado huecos en el análisis de margen, así
+que los estimo como el 65% del precio de venta y dejo una marca
+(`costo_estimado`) en cada fila para que se sepa cuáles son estimados.
+
+**Las reseñas inválidas quedan marcadas, no eliminadas.** Mismo criterio: el
+dato se conserva con una bandera que avisa que el puntaje está fuera de escala,
+y los análisis de puntaje lo excluyen.
+
+**Las campañas sin presupuesto muestran ROI vacío.** Dos campañas no tienen
+cargado el presupuesto. Preferí que el ROI quede en blanco antes que inventar
+un número que después nadie pueda explicar.
+
+---
 
 ## Cómo correrlo
 
-<!-- Los pasos reales:
-       pip install -r requirements.txt
-       python api/app.py
-     Y si alguien quiere rehacer la base desde cero: qué orden de scripts
-     correr en DB Browser (schema.sql → cargar los CSV → staging.sql →
-     reporting.sql). -->
+```bash
+pip install -r requirements.txt
+python api/app.py
+```
 
+La base ya viene armada (`nortestore_analytics.db`), así que se puede abrir y
+consultar directamente con DB Browser for SQLite.
+
+Para rehacerla desde cero: crear una base nueva, correr `sql/schema.sql`,
+importar los CSV de `data/raw/` y después correr `sql/staging.sql` y
+`sql/reporting.sql`, en ese orden.
+
+---
 
 ## API
 
-<!-- Los 2 endpoints: qué devuelve cada uno y un ejemplo de llamada. -->
+| Endpoint | Devuelve |
+|---|---|
+| `GET /top-productos` | Los 10 productos que más facturan |
+| `GET /revenue-por-canal` | Ventas totales por canal de captación |
+| `GET /revenue-por-canal?canal=Referido` | Lo mismo, filtrado a un canal |
+
+---
+
+## Carga incremental
+
+`scripts/incremental_load.py` guarda la fecha de la última orden procesada y en
+la corrida siguiente lee solo las nuevas, en lugar de volver a leer toda la
+tabla.
