@@ -1,0 +1,2001 @@
+review_id,product_id,customer_id,rating,review_date,comment
+1,92,65,4,2025-12-30,
+2,76,147,5,2026-05-18,Llegó rápido y como se describe
+3,1,184,4,2024-08-05,
+4,57,263,5,2025-08-31,Llegó rápido y como se describe
+5,8,356,5,2025-02-02,Superó mis expectativas
+6,89,29,3,2025-10-20,"Está bien, aunque tardó en llegar"
+7,38,321,4,2025-03-18,Llegó rápido y como se describe
+8,30,201,3,2026-03-12,Es correcto por el precio
+9,40,425,4,2024-07-14,Llegó rápido y como se describe
+10,72,205,5,2025-03-29,"Excelente calidad, lo recomiendo"
+11,16,433,5,2025-02-16,Perfecto para uso diario
+12,34,596,1,2026-01-01,Mala calidad de materiales
+13,38,122,5,2026-06-28,Perfecto para uso diario
+14,27,292,5,2026-05-27,
+15,91,465,2,2024-11-03,No llegó como esperaba
+16,69,164,2,2024-06-18,El envío tardó demasiado
+17,73,169,5,2025-06-21,Superó mis expectativas
+18,86,534,2,2024-06-28,No lo recomiendo
+19,8,158,5,2025-12-07,Lo volvería a comprar
+20,52,592,5,2026-04-23,Llegó rápido y como se describe
+21,86,365,4,2025-02-01,Muy buena relación precio-calidad
+22,35,66,5,2026-04-29,Llegó rápido y como se describe
+23,58,190,4,2026-01-01,Perfecto para uso diario
+24,40,18,5,2026-05-21,Muy buena relación precio-calidad
+25,19,59,3,2025-05-20,
+26,42,11,4,2024-06-25,Perfecto para uso diario
+27,87,374,5,2025-06-21,Lo volvería a comprar
+28,44,242,4,2024-08-31,"Excelente calidad, lo recomiendo"
+29,92,493,3,2025-11-15,"Cumple lo básico, nada del otro mundo"
+30,41,222,5,2026-04-17,"Excelente calidad, lo recomiendo"
+31,89,308,4,2026-02-21,Lo volvería a comprar
+32,31,571,4,2025-05-06,Perfecto para uso diario
+33,10,2,5,2026-03-12,Perfecto para uso diario
+34,89,373,5,2025-04-12,Lo volvería a comprar
+35,63,609,3,2024-07-29,
+36,94,563,5,2024-12-11,
+37,14,463,4,2024-07-26,Llegó rápido y como se describe
+38,33,543,3,2024-12-31,
+39,36,109,5,2025-10-12,Llegó rápido y como se describe
+40,9,57,5,2026-02-02,Superó mis expectativas
+41,44,459,4,2024-09-26,Llegó rápido y como se describe
+42,60,58,5,2026-02-12,Superó mis expectativas
+43,84,217,3,2024-12-03,"Cumple lo básico, nada del otro mundo"
+44,60,397,4,2026-02-28,Lo volvería a comprar
+45,22,501,4,2024-12-30,Llegó rápido y como se describe
+46,74,356,4,2025-06-12,Superó mis expectativas
+47,51,164,2,2026-02-03,Se rompió al poco tiempo
+48,5,598,5,2025-04-01,"Excelente calidad, lo recomiendo"
+49,64,374,5,2025-08-12,Llegó rápido y como se describe
+50,72,180,4,2025-03-27,Lo volvería a comprar
+51,55,320,5,2026-01-19,Muy buena relación precio-calidad
+52,42,509,0,2025-12-27,El envío tardó demasiado
+53,7,406,4,2026-01-17,Superó mis expectativas
+54,44,69,2,2024-06-06,Se rompió al poco tiempo
+55,43,423,0,2025-08-09,Se rompió al poco tiempo
+56,79,512,4,2026-06-17,
+57,39,407,6,2025-01-12,Lo volvería a comprar
+58,24,517,4,2024-09-13,
+59,60,339,1,2026-03-17,
+60,79,162,3,2024-12-06,"Cumple lo básico, nada del otro mundo"
+61,23,595,5,2025-02-27,Perfecto para uso diario
+62,18,505,4,2026-06-07,"Excelente calidad, lo recomiendo"
+63,38,524,4,2025-09-26,
+64,86,100,3,2025-05-03,"Está bien, aunque tardó en llegar"
+65,72,247,5,2025-01-15,Perfecto para uso diario
+66,30,340,4,2026-01-06,Lo volvería a comprar
+67,78,69,4,2025-05-23,Perfecto para uso diario
+68,92,348,3,2025-09-28,Es correcto por el precio
+69,11,133,5,2024-07-16,"Excelente calidad, lo recomiendo"
+70,64,310,5,2024-08-04,
+71,78,434,3,2024-06-27,Es correcto por el precio
+72,92,99,5,2026-04-17,"Excelente calidad, lo recomiendo"
+73,42,399,5,2026-04-02,Superó mis expectativas
+74,35,64,1,2026-02-22,El envío tardó demasiado
+75,67,213,3,2025-03-25,"Está bien, aunque tardó en llegar"
+76,35,173,2,2024-11-14,No llegó como esperaba
+77,38,92,5,2026-03-05,Superó mis expectativas
+78,73,37,5,2024-11-26,Muy buena relación precio-calidad
+79,91,383,4,2024-10-02,
+80,27,469,4,2025-09-21,"Excelente calidad, lo recomiendo"
+81,57,594,5,2024-07-01,Perfecto para uso diario
+82,86,434,4,2025-06-09,"Excelente calidad, lo recomiendo"
+83,70,269,5,2025-06-24,Lo volvería a comprar
+84,47,603,5,2024-11-11,Superó mis expectativas
+85,8,420,4,2024-10-18,Superó mis expectativas
+86,85,114,5,2026-04-20,Perfecto para uso diario
+87,77,30,4,2025-11-19,Perfecto para uso diario
+88,55,128,1,2025-01-17,Se rompió al poco tiempo
+89,85,141,1,2025-02-21,Se rompió al poco tiempo
+90,91,393,4,2025-09-24,Llegó rápido y como se describe
+91,77,268,5,2026-03-13,Perfecto para uso diario
+92,27,489,4,2026-05-13,Perfecto para uso diario
+93,89,88,3,2025-09-28,Es correcto por el precio
+94,1,116,4,2026-04-10,Perfecto para uso diario
+95,88,90,2,2025-09-28,No lo recomiendo
+96,86,164,3,2025-01-27,"Cumple lo básico, nada del otro mundo"
+97,81,453,1,2024-09-09,Mala calidad de materiales
+98,63,427,3,2025-10-10,Es correcto por el precio
+99,66,71,3,2024-11-24,
+100,65,146,3,2025-03-16,Es correcto por el precio
+101,92,245,5,2025-10-16,Lo volvería a comprar
+102,72,101,4,2025-05-28,
+103,5,298,5,2025-05-15,Lo volvería a comprar
+104,2,191,4,2025-03-09,"Excelente calidad, lo recomiendo"
+105,91,128,4,2025-01-15,Perfecto para uso diario
+106,31,507,4,2025-02-19,"Excelente calidad, lo recomiendo"
+107,8,350,5,2024-11-22,Muy buena relación precio-calidad
+108,82,94,4,2025-05-22,
+109,53,513,3,2024-08-23,Es correcto por el precio
+110,20,499,4,2025-03-22,Superó mis expectativas
+111,12,395,0,2025-08-02,
+112,18,109,5,2025-09-12,Perfecto para uso diario
+113,37,346,5,2024-11-04,
+114,90,252,5,2026-03-11,
+115,35,263,5,2026-05-07,Lo volvería a comprar
+116,76,136,5,2025-11-22,Muy buena relación precio-calidad
+117,75,608,3,2026-06-09,Es correcto por el precio
+118,77,450,3,2024-10-29,Es correcto por el precio
+119,8,296,4,2025-04-10,Llegó rápido y como se describe
+120,58,370,4,2026-01-22,"Excelente calidad, lo recomiendo"
+121,50,334,2,2025-02-20,Se rompió al poco tiempo
+122,47,497,4,2025-03-27,Perfecto para uso diario
+123,41,138,5,2025-11-06,Lo volvería a comprar
+124,51,306,4,2025-12-26,Lo volvería a comprar
+125,4,257,3,2025-12-24,"Está bien, aunque tardó en llegar"
+126,31,101,3,2026-02-14,Es correcto por el precio
+127,44,267,4,2025-10-13,Superó mis expectativas
+128,17,452,5,2025-02-13,Llegó rápido y como se describe
+129,15,169,5,2024-06-02,Perfecto para uso diario
+130,68,216,4,2025-03-22,
+131,30,467,5,2025-04-01,"Excelente calidad, lo recomiendo"
+132,45,222,5,2026-04-22,"Excelente calidad, lo recomiendo"
+133,31,166,3,2026-02-09,Es correcto por el precio
+134,72,502,5,2025-06-17,
+135,1,544,4,2026-03-18,Superó mis expectativas
+136,88,560,5,2025-07-31,Llegó rápido y como se describe
+137,12,541,4,2025-06-14,"Excelente calidad, lo recomiendo"
+138,72,536,4,2026-05-24,Perfecto para uso diario
+139,91,96,4,2026-02-07,Lo volvería a comprar
+140,72,123,4,2025-12-26,Llegó rápido y como se describe
+141,83,3,4,2026-04-05,Lo volvería a comprar
+142,41,348,3,2024-12-10,"Está bien, aunque tardó en llegar"
+143,59,102,5,2026-03-03,"Excelente calidad, lo recomiendo"
+144,73,221,3,2024-12-18,Es correcto por el precio
+145,5,26,4,2026-06-29,Superó mis expectativas
+146,49,198,3,2025-01-19,"Cumple lo básico, nada del otro mundo"
+147,84,510,5,2025-02-16,Superó mis expectativas
+148,74,30,5,2024-10-17,"Excelente calidad, lo recomiendo"
+149,22,375,4,2026-01-24,Superó mis expectativas
+150,10,52,3,2026-01-04,Es correcto por el precio
+151,85,184,4,2025-03-15,Muy buena relación precio-calidad
+152,47,181,5,2026-01-06,Lo volvería a comprar
+153,10,365,3,2025-01-02,
+154,73,475,4,2024-09-18,Superó mis expectativas
+155,8,110,5,2025-06-17,Muy buena relación precio-calidad
+156,3,148,4,2024-09-28,Perfecto para uso diario
+157,29,100,4,2025-09-26,
+158,5,20,3,2025-12-03,"Está bien, aunque tardó en llegar"
+159,40,245,4,2025-09-30,Perfecto para uso diario
+160,35,462,5,2024-09-02,Perfecto para uso diario
+161,35,375,4,2025-01-19,"Excelente calidad, lo recomiendo"
+162,14,179,4,2024-11-10,Llegó rápido y como se describe
+163,61,138,4,2024-10-21,Lo volvería a comprar
+164,5,211,5,2024-07-24,Llegó rápido y como se describe
+165,30,452,1,2025-09-09,Se rompió al poco tiempo
+166,23,359,3,2026-01-11,"Cumple lo básico, nada del otro mundo"
+167,51,345,5,2026-04-20,Muy buena relación precio-calidad
+168,29,79,4,2025-06-15,Muy buena relación precio-calidad
+169,7,212,4,2025-03-16,Llegó rápido y como se describe
+170,27,452,3,2025-08-22,"Está bien, aunque tardó en llegar"
+171,50,129,3,2025-10-07,
+172,39,451,4,2025-05-31,Muy buena relación precio-calidad
+173,19,302,5,2024-07-15,Muy buena relación precio-calidad
+174,55,267,5,2025-03-23,Lo volvería a comprar
+175,7,385,4,2026-02-23,Perfecto para uso diario
+176,6,194,4,2025-11-06,Lo volvería a comprar
+177,29,71,2,2025-05-23,El envío tardó demasiado
+178,31,580,4,2024-09-03,"Excelente calidad, lo recomiendo"
+179,82,326,4,2024-06-05,"Excelente calidad, lo recomiendo"
+180,87,268,3,2026-02-16,"Cumple lo básico, nada del otro mundo"
+181,54,562,1,2025-02-02,Se rompió al poco tiempo
+182,48,361,5,2025-01-16,Superó mis expectativas
+183,34,576,4,2025-09-03,Lo volvería a comprar
+184,92,495,3,2025-03-27,"Cumple lo básico, nada del otro mundo"
+185,83,60,5,2025-01-05,Superó mis expectativas
+186,62,335,4,2025-10-20,Perfecto para uso diario
+187,8,464,4,2025-08-16,Superó mis expectativas
+188,41,239,2,2025-05-08,
+189,52,450,4,2026-01-31,Muy buena relación precio-calidad
+190,14,228,5,2025-03-18,Superó mis expectativas
+191,83,577,4,2025-05-11,Llegó rápido y como se describe
+192,14,21,5,2026-06-16,Lo volvería a comprar
+193,48,395,3,2025-12-25,"Está bien, aunque tardó en llegar"
+194,8,376,3,2025-12-29,Es correcto por el precio
+195,10,227,5,2025-03-23,Muy buena relación precio-calidad
+196,36,111,5,2026-05-29,Lo volvería a comprar
+197,85,296,2,2025-08-12,El envío tardó demasiado
+198,2,397,4,2024-11-05,Perfecto para uso diario
+199,93,537,5,2024-08-12,"Excelente calidad, lo recomiendo"
+200,25,35,5,2025-10-10,"Excelente calidad, lo recomiendo"
+201,13,542,3,2026-01-27,"Cumple lo básico, nada del otro mundo"
+202,61,240,4,2024-09-17,Superó mis expectativas
+203,19,459,4,2025-04-13,Superó mis expectativas
+204,11,45,1,2026-02-14,El envío tardó demasiado
+205,7,2,4,2024-08-04,Lo volvería a comprar
+206,48,408,4,2025-12-10,"Excelente calidad, lo recomiendo"
+207,1,540,5,2025-09-08,
+208,8,22,2,2024-10-22,Mala calidad de materiales
+209,22,406,4,2026-02-19,"Excelente calidad, lo recomiendo"
+210,5,125,5,2025-12-12,"Excelente calidad, lo recomiendo"
+211,73,201,5,2024-09-23,"Excelente calidad, lo recomiendo"
+212,60,447,4,2024-08-06,"Excelente calidad, lo recomiendo"
+213,15,289,4,2025-08-10,Llegó rápido y como se describe
+214,72,154,5,2026-01-03,Superó mis expectativas
+215,18,605,5,2025-07-01,"Excelente calidad, lo recomiendo"
+216,19,112,2,2024-06-21,Mala calidad de materiales
+217,33,309,5,2025-04-20,
+218,21,283,5,2026-06-04,"Excelente calidad, lo recomiendo"
+219,85,146,5,2025-02-25,Perfecto para uso diario
+220,43,478,5,2025-05-03,"Excelente calidad, lo recomiendo"
+221,22,302,3,2024-10-20,"Está bien, aunque tardó en llegar"
+222,48,184,3,2026-03-07,"Está bien, aunque tardó en llegar"
+223,57,510,5,2024-12-16,
+224,3,411,2,2026-03-15,
+225,14,537,4,2026-06-20,Superó mis expectativas
+226,67,172,3,2025-12-20,"Cumple lo básico, nada del otro mundo"
+227,25,64,1,2025-04-03,No lo recomiendo
+228,5,593,5,2025-09-03,Superó mis expectativas
+229,49,33,5,2026-05-28,Lo volvería a comprar
+230,84,320,5,2026-03-15,"Excelente calidad, lo recomiendo"
+231,92,505,3,2026-01-31,"Está bien, aunque tardó en llegar"
+232,42,515,5,2025-07-22,Muy buena relación precio-calidad
+233,92,121,3,2026-03-11,
+234,26,261,3,2026-01-17,"Cumple lo básico, nada del otro mundo"
+235,23,534,5,2025-01-07,Llegó rápido y como se describe
+236,23,480,5,2025-04-25,Muy buena relación precio-calidad
+237,69,297,3,2026-01-30,"Está bien, aunque tardó en llegar"
+238,89,313,4,2024-07-31,Llegó rápido y como se describe
+239,4,29,3,2025-04-04,"Cumple lo básico, nada del otro mundo"
+240,42,577,4,2024-12-24,Lo volvería a comprar
+241,23,221,3,2025-05-07,Es correcto por el precio
+242,45,397,4,2024-10-14,Lo volvería a comprar
+243,94,426,5,2026-04-18,Muy buena relación precio-calidad
+244,82,153,5,2025-01-13,Perfecto para uso diario
+245,1,116,3,2025-09-21,Es correcto por el precio
+246,79,80,5,2025-10-07,
+247,40,92,2,2025-11-24,No llegó como esperaba
+248,20,217,2,2025-03-07,Mala calidad de materiales
+249,15,367,4,2025-07-20,
+250,9,386,3,2026-03-15,
+251,57,141,3,2024-08-05,"Cumple lo básico, nada del otro mundo"
+252,78,571,5,2026-03-22,Lo volvería a comprar
+253,38,227,1,2025-10-13,
+254,2,385,4,2024-10-28,Superó mis expectativas
+255,81,194,4,2025-11-21,Llegó rápido y como se describe
+256,26,169,5,2025-08-02,Perfecto para uso diario
+257,83,103,2,2024-08-02,El envío tardó demasiado
+258,77,516,5,2025-10-01,"Excelente calidad, lo recomiendo"
+259,35,191,4,2024-10-16,Lo volvería a comprar
+260,49,264,5,2025-03-16,Llegó rápido y como se describe
+261,26,519,5,2025-10-23,Muy buena relación precio-calidad
+262,18,554,5,2025-04-15,"Excelente calidad, lo recomiendo"
+263,37,486,3,2026-01-19,"Está bien, aunque tardó en llegar"
+264,44,137,5,2025-10-09,Llegó rápido y como se describe
+265,43,470,5,2026-01-25,Lo volvería a comprar
+266,37,349,4,2026-06-16,Perfecto para uso diario
+267,20,126,1,2026-03-14,No lo recomiendo
+268,16,113,5,2025-08-31,Lo volvería a comprar
+269,36,381,3,2026-03-27,"Cumple lo básico, nada del otro mundo"
+270,57,560,4,2025-08-16,Lo volvería a comprar
+271,28,243,4,2026-06-19,
+272,86,131,5,2024-12-18,Lo volvería a comprar
+273,85,188,5,2026-05-11,Llegó rápido y como se describe
+274,63,224,2,2024-11-09,Se rompió al poco tiempo
+275,93,502,5,2024-09-06,Perfecto para uso diario
+276,9,456,4,2026-04-15,Llegó rápido y como se describe
+277,26,422,3,2025-12-29,Es correcto por el precio
+278,44,89,4,2025-04-15,Llegó rápido y como se describe
+279,71,488,2,2025-01-23,Se rompió al poco tiempo
+280,78,221,4,2025-11-08,Perfecto para uso diario
+281,8,359,5,2024-11-26,Muy buena relación precio-calidad
+282,93,496,3,2025-03-15,"Cumple lo básico, nada del otro mundo"
+283,26,128,4,2024-06-01,Perfecto para uso diario
+284,19,563,4,2026-06-10,Perfecto para uso diario
+285,38,157,5,2025-05-05,"Excelente calidad, lo recomiendo"
+286,51,451,5,2026-01-26,Superó mis expectativas
+287,46,37,5,2026-01-29,"Excelente calidad, lo recomiendo"
+288,83,132,5,2026-06-26,Superó mis expectativas
+289,73,282,4,2026-01-07,Llegó rápido y como se describe
+290,11,90,4,2026-05-26,Lo volvería a comprar
+291,4,175,4,2024-09-10,
+292,92,11,5,2025-07-24,Llegó rápido y como se describe
+293,88,379,5,2024-11-23,Llegó rápido y como se describe
+294,12,438,5,2024-12-22,Perfecto para uso diario
+295,57,247,5,2025-08-23,"Excelente calidad, lo recomiendo"
+296,38,524,4,2025-03-05,Muy buena relación precio-calidad
+297,26,31,1,2025-05-12,El envío tardó demasiado
+298,61,298,3,2025-08-05,Es correcto por el precio
+299,45,103,4,2025-02-06,Llegó rápido y como se describe
+300,47,228,5,2025-02-04,Perfecto para uso diario
+301,6,341,4,2026-05-06,Lo volvería a comprar
+302,52,58,4,2025-05-11,"Excelente calidad, lo recomiendo"
+303,49,438,4,2026-01-11,Perfecto para uso diario
+304,3,528,5,2025-08-11,"Excelente calidad, lo recomiendo"
+305,54,526,4,2026-06-23,
+306,33,509,4,2026-05-28,
+307,87,279,1,2025-02-22,Mala calidad de materiales
+308,67,291,4,2026-01-19,
+309,1,69,4,2024-06-08,Lo volvería a comprar
+310,50,222,4,2026-01-28,Llegó rápido y como se describe
+311,75,149,4,2025-11-01,Lo volvería a comprar
+312,29,573,5,2026-02-16,Lo volvería a comprar
+313,78,132,2,2024-09-08,No lo recomiendo
+314,60,371,4,2024-09-14,
+315,67,442,5,2025-04-24,
+316,53,135,4,2025-05-08,Llegó rápido y como se describe
+317,79,231,3,2025-07-19,"Está bien, aunque tardó en llegar"
+318,11,500,5,2024-12-29,"Excelente calidad, lo recomiendo"
+319,59,297,4,2025-04-30,Llegó rápido y como se describe
+320,63,437,5,2025-05-19,Muy buena relación precio-calidad
+321,63,434,5,2025-11-14,Llegó rápido y como se describe
+322,55,346,2,2024-09-21,El envío tardó demasiado
+323,13,338,3,2025-07-29,"Cumple lo básico, nada del otro mundo"
+324,95,200,4,2025-05-08,"Excelente calidad, lo recomiendo"
+325,37,412,1,2026-01-28,El envío tardó demasiado
+326,65,452,4,2025-03-30,Superó mis expectativas
+327,39,260,4,2025-10-14,Llegó rápido y como se describe
+328,72,182,2,2025-05-04,Se rompió al poco tiempo
+329,63,483,4,2025-05-26,"Excelente calidad, lo recomiendo"
+330,9,349,2,2026-04-13,El envío tardó demasiado
+331,70,426,4,2025-12-29,Superó mis expectativas
+332,29,559,4,2025-10-04,
+333,40,89,3,2026-03-19,Es correcto por el precio
+334,82,255,3,2024-06-27,"Está bien, aunque tardó en llegar"
+335,59,139,4,2026-02-26,Superó mis expectativas
+336,49,376,4,2026-06-01,"Excelente calidad, lo recomiendo"
+337,64,51,5,2025-01-25,Llegó rápido y como se describe
+338,57,499,4,2024-09-06,"Excelente calidad, lo recomiendo"
+339,88,573,3,2024-10-03,Es correcto por el precio
+340,15,533,3,2024-06-13,"Cumple lo básico, nada del otro mundo"
+341,36,37,5,2026-06-25,Lo volvería a comprar
+342,95,117,5,2026-05-05,Perfecto para uso diario
+343,7,217,6,2025-07-10,Muy buena relación precio-calidad
+344,90,369,2,2025-03-01,El envío tardó demasiado
+345,66,511,5,2025-09-22,Lo volvería a comprar
+346,39,359,5,2026-06-13,Superó mis expectativas
+347,46,477,5,2024-09-10,Muy buena relación precio-calidad
+348,12,470,5,2025-03-28,
+349,79,56,5,2024-11-29,Llegó rápido y como se describe
+350,74,363,2,2026-03-27,Mala calidad de materiales
+351,64,530,5,2025-08-10,Lo volvería a comprar
+352,78,586,4,2024-06-22,Llegó rápido y como se describe
+353,50,339,2,2024-07-21,Se rompió al poco tiempo
+354,34,97,2,2024-07-11,El envío tardó demasiado
+355,48,98,5,2025-05-12,Llegó rápido y como se describe
+356,37,383,4,2026-05-31,Perfecto para uso diario
+357,54,73,5,2026-03-10,Perfecto para uso diario
+358,92,605,4,2025-04-21,Llegó rápido y como se describe
+359,55,556,4,2026-05-13,Lo volvería a comprar
+360,63,386,3,2024-12-18,"Está bien, aunque tardó en llegar"
+361,42,414,5,2026-06-09,Llegó rápido y como se describe
+362,16,353,5,2025-11-07,Perfecto para uso diario
+363,39,572,5,2026-01-22,Perfecto para uso diario
+364,32,68,3,2024-07-22,"Cumple lo básico, nada del otro mundo"
+365,43,591,5,2024-07-01,Llegó rápido y como se describe
+366,87,462,1,2025-02-13,Mala calidad de materiales
+367,63,255,3,2026-03-11,"Cumple lo básico, nada del otro mundo"
+368,38,451,3,2025-10-07,"Está bien, aunque tardó en llegar"
+369,10,492,5,2026-04-07,Perfecto para uso diario
+370,38,145,5,2024-11-29,
+371,14,507,3,2025-12-07,
+372,44,89,5,2024-06-21,Perfecto para uso diario
+373,88,582,4,2024-10-26,Muy buena relación precio-calidad
+374,85,282,4,2026-02-28,Superó mis expectativas
+375,82,327,2,2024-11-23,
+376,45,496,2,2026-05-08,No lo recomiendo
+377,56,520,4,2025-01-06,Superó mis expectativas
+378,90,460,4,2025-09-18,"Excelente calidad, lo recomiendo"
+379,74,605,4,2026-05-12,Perfecto para uso diario
+380,12,505,4,2024-06-02,Perfecto para uso diario
+381,63,12,1,2025-08-24,No lo recomiendo
+382,21,284,4,2025-10-31,Muy buena relación precio-calidad
+383,1,11,3,2025-10-26,Es correcto por el precio
+384,54,294,4,2025-12-30,Muy buena relación precio-calidad
+385,12,554,4,2025-04-08,Lo volvería a comprar
+386,63,279,4,2024-11-30,"Excelente calidad, lo recomiendo"
+387,75,145,3,2025-07-18,Es correcto por el precio
+388,83,212,4,2026-06-26,Superó mis expectativas
+389,37,336,4,2025-07-01,Muy buena relación precio-calidad
+390,75,147,3,2025-03-22,
+391,65,115,3,2025-05-21,"Está bien, aunque tardó en llegar"
+392,34,78,3,2025-04-10,"Cumple lo básico, nada del otro mundo"
+393,48,4,4,2025-04-19,Muy buena relación precio-calidad
+394,83,455,3,2026-01-05,"Cumple lo básico, nada del otro mundo"
+395,55,433,3,2025-02-15,"Está bien, aunque tardó en llegar"
+396,1,207,5,2026-04-28,
+397,9,63,1,2025-11-21,No lo recomiendo
+398,55,280,2,2026-01-23,Mala calidad de materiales
+399,50,490,4,2026-03-18,Llegó rápido y como se describe
+400,79,208,3,2024-12-18,Es correcto por el precio
+401,55,568,4,2025-07-14,Lo volvería a comprar
+402,68,154,4,2025-09-02,Llegó rápido y como se describe
+403,93,445,5,2025-06-23,Muy buena relación precio-calidad
+404,19,256,4,2026-03-13,Lo volvería a comprar
+405,81,242,4,2025-01-25,Perfecto para uso diario
+406,18,117,4,2025-06-21,Lo volvería a comprar
+407,77,414,1,2024-12-31,Se rompió al poco tiempo
+408,79,360,2,2024-11-05,Mala calidad de materiales
+409,81,445,3,2024-07-28,"Está bien, aunque tardó en llegar"
+410,59,455,5,2025-07-29,Superó mis expectativas
+411,30,494,2,2026-02-14,No llegó como esperaba
+412,74,449,3,2026-01-09,Es correcto por el precio
+413,5,371,3,2024-07-14,Es correcto por el precio
+414,33,144,4,2025-01-28,Llegó rápido y como se describe
+415,72,484,4,2024-09-20,Lo volvería a comprar
+416,78,114,4,2025-07-08,"Excelente calidad, lo recomiendo"
+417,75,309,1,2025-06-09,El envío tardó demasiado
+418,60,413,5,2025-05-23,Superó mis expectativas
+419,51,536,0,2025-12-19,Se rompió al poco tiempo
+420,66,364,4,2024-06-09,"Excelente calidad, lo recomiendo"
+421,76,524,4,2026-05-18,Lo volvería a comprar
+422,90,275,5,2025-04-17,
+423,42,67,5,2025-04-14,Lo volvería a comprar
+424,29,354,5,2025-03-07,Llegó rápido y como se describe
+425,42,241,5,2026-02-24,Lo volvería a comprar
+426,92,63,4,2026-01-09,Lo volvería a comprar
+427,59,146,3,2025-08-14,"Está bien, aunque tardó en llegar"
+428,49,87,5,2025-02-03,Llegó rápido y como se describe
+429,2,152,4,2025-06-08,
+430,61,430,5,2026-02-17,Superó mis expectativas
+431,89,448,5,2025-12-03,
+432,41,111,3,2025-12-20,"Está bien, aunque tardó en llegar"
+433,87,11,2,2024-08-12,Mala calidad de materiales
+434,5,510,0,2025-07-18,No lo recomiendo
+435,80,83,5,2025-05-21,Lo volvería a comprar
+436,75,161,5,2025-02-18,Muy buena relación precio-calidad
+437,56,347,3,2024-09-07,"Está bien, aunque tardó en llegar"
+438,69,317,4,2026-02-27,Lo volvería a comprar
+439,84,88,5,2026-02-05,Llegó rápido y como se describe
+440,7,245,4,2026-01-19,Muy buena relación precio-calidad
+441,6,494,1,2026-04-21,El envío tardó demasiado
+442,91,67,1,2024-12-31,El envío tardó demasiado
+443,84,66,5,2025-10-10,
+444,65,116,2,2024-06-26,El envío tardó demasiado
+445,77,235,5,2025-03-10,
+446,57,532,4,2025-12-31,
+447,74,241,1,2025-12-18,
+448,19,77,4,2025-06-28,"Excelente calidad, lo recomiendo"
+449,25,110,4,2025-07-24,"Excelente calidad, lo recomiendo"
+450,94,560,4,2026-01-02,Superó mis expectativas
+451,79,565,2,2025-03-06,No llegó como esperaba
+452,31,557,5,2025-05-28,Muy buena relación precio-calidad
+453,80,192,5,2024-07-23,Perfecto para uso diario
+454,33,523,4,2024-07-08,Muy buena relación precio-calidad
+455,20,231,1,2026-06-15,No llegó como esperaba
+456,51,7,4,2025-03-06,Perfecto para uso diario
+457,14,370,1,2026-04-20,Mala calidad de materiales
+458,7,428,4,2025-06-21,Superó mis expectativas
+459,47,30,5,2025-11-06,Muy buena relación precio-calidad
+460,90,469,4,2026-01-10,Llegó rápido y como se describe
+461,61,587,5,2024-09-07,Lo volvería a comprar
+462,35,232,4,2026-01-29,"Excelente calidad, lo recomiendo"
+463,42,157,2,2026-01-02,El envío tardó demasiado
+464,3,607,3,2025-08-07,"Está bien, aunque tardó en llegar"
+465,40,192,3,2024-11-20,
+466,81,595,1,2025-08-01,Mala calidad de materiales
+467,58,197,5,2024-09-20,Llegó rápido y como se describe
+468,32,8,4,2025-02-05,"Excelente calidad, lo recomiendo"
+469,48,167,3,2024-06-14,"Cumple lo básico, nada del otro mundo"
+470,28,201,5,2025-08-28,Muy buena relación precio-calidad
+471,47,427,4,2025-12-18,Superó mis expectativas
+472,69,35,5,2025-12-20,
+473,92,369,5,2025-05-25,Perfecto para uso diario
+474,70,119,4,2024-07-25,"Excelente calidad, lo recomiendo"
+475,35,227,5,2025-05-08,Superó mis expectativas
+476,72,51,5,2026-05-31,Muy buena relación precio-calidad
+477,93,110,5,2025-11-15,"Excelente calidad, lo recomiendo"
+478,82,117,5,2025-07-22,"Excelente calidad, lo recomiendo"
+479,85,609,4,2024-09-04,
+480,53,373,4,2025-07-11,Superó mis expectativas
+481,71,371,4,2026-04-15,Muy buena relación precio-calidad
+482,82,409,3,2025-10-22,"Está bien, aunque tardó en llegar"
+483,78,361,4,2026-04-10,Llegó rápido y como se describe
+484,17,239,5,2025-08-13,Llegó rápido y como se describe
+485,55,276,4,2026-03-24,"Excelente calidad, lo recomiendo"
+486,51,100,4,2025-12-14,Lo volvería a comprar
+487,28,344,4,2025-06-19,Llegó rápido y como se describe
+488,85,370,2,2026-04-25,Mala calidad de materiales
+489,15,112,5,2024-11-15,Superó mis expectativas
+490,61,193,4,2026-01-13,Llegó rápido y como se describe
+491,23,233,5,2024-09-21,Superó mis expectativas
+492,10,418,4,2025-05-21,Lo volvería a comprar
+493,86,536,5,2025-03-07,Perfecto para uso diario
+494,28,322,5,2025-04-08,"Excelente calidad, lo recomiendo"
+495,40,458,4,2024-12-17,Lo volvería a comprar
+496,74,430,2,2025-07-23,Se rompió al poco tiempo
+497,76,586,5,2024-10-06,Lo volvería a comprar
+498,95,297,3,2024-08-28,
+499,41,267,4,2026-04-10,Llegó rápido y como se describe
+500,48,133,4,2025-04-15,Lo volvería a comprar
+501,9,437,5,2025-09-06,"Excelente calidad, lo recomiendo"
+502,84,390,3,2025-04-08,"Está bien, aunque tardó en llegar"
+503,32,505,5,2024-12-01,
+504,47,391,4,2026-04-21,"Excelente calidad, lo recomiendo"
+505,39,79,4,2024-12-10,Superó mis expectativas
+506,67,277,1,2024-12-24,
+507,63,519,2,2025-10-12,No llegó como esperaba
+508,62,105,5,2025-05-20,"Excelente calidad, lo recomiendo"
+509,46,102,4,2026-03-30,Muy buena relación precio-calidad
+510,25,556,4,2025-12-15,"Excelente calidad, lo recomiendo"
+511,60,180,4,2024-08-19,
+512,33,248,5,2024-08-10,Superó mis expectativas
+513,40,543,3,2024-11-21,"Cumple lo básico, nada del otro mundo"
+514,3,609,4,2024-06-18,Muy buena relación precio-calidad
+515,50,283,0,2026-04-10,No llegó como esperaba
+516,1,268,4,2026-04-22,Lo volvería a comprar
+517,66,86,5,2025-01-03,
+518,64,387,3,2025-09-11,"Cumple lo básico, nada del otro mundo"
+519,64,228,5,2025-04-28,"Excelente calidad, lo recomiendo"
+520,27,150,5,2024-07-16,Muy buena relación precio-calidad
+521,34,476,3,2024-10-23,"Cumple lo básico, nada del otro mundo"
+522,85,375,3,2025-05-19,"Cumple lo básico, nada del otro mundo"
+523,73,480,5,2025-06-14,"Excelente calidad, lo recomiendo"
+524,85,356,5,2025-03-31,Llegó rápido y como se describe
+525,82,389,5,2026-02-15,Lo volvería a comprar
+526,59,161,4,2026-05-19,
+527,84,249,2,2025-03-25,No llegó como esperaba
+528,78,92,5,2025-08-04,Muy buena relación precio-calidad
+529,83,161,5,2024-11-25,
+530,53,131,4,2026-04-06,Llegó rápido y como se describe
+531,67,266,3,2026-02-14,Es correcto por el precio
+532,83,327,5,2025-12-28,Lo volvería a comprar
+533,42,66,5,2025-10-11,Muy buena relación precio-calidad
+534,35,456,4,2025-04-19,"Excelente calidad, lo recomiendo"
+535,66,342,5,2024-12-10,Superó mis expectativas
+536,55,356,5,2024-08-22,
+537,22,131,5,2026-03-22,Perfecto para uso diario
+538,64,365,5,2026-04-28,Muy buena relación precio-calidad
+539,39,295,5,2025-05-10,Muy buena relación precio-calidad
+540,43,465,4,2026-05-31,Perfecto para uso diario
+541,55,533,5,2024-10-09,Muy buena relación precio-calidad
+542,37,221,1,2025-05-16,Mala calidad de materiales
+543,44,178,5,2025-10-15,Llegó rápido y como se describe
+544,37,389,4,2025-08-17,Lo volvería a comprar
+545,82,579,5,2024-11-03,Perfecto para uso diario
+546,14,367,4,2024-09-16,"Excelente calidad, lo recomiendo"
+547,86,79,1,2024-06-21,Mala calidad de materiales
+548,14,144,3,2025-06-08,"Cumple lo básico, nada del otro mundo"
+549,54,525,3,2025-12-21,"Está bien, aunque tardó en llegar"
+550,13,269,5,2025-07-25,Llegó rápido y como se describe
+551,53,131,2,2024-12-25,
+552,83,38,3,2026-02-23,"Está bien, aunque tardó en llegar"
+553,57,506,4,2024-08-20,
+554,46,103,3,2025-04-02,"Cumple lo básico, nada del otro mundo"
+555,23,403,3,2025-03-03,"Está bien, aunque tardó en llegar"
+556,6,213,3,2026-06-24,Es correcto por el precio
+557,12,36,5,2025-08-30,"Excelente calidad, lo recomiendo"
+558,32,181,3,2025-05-29,"Está bien, aunque tardó en llegar"
+559,18,465,5,2026-06-18,Superó mis expectativas
+560,21,391,1,2025-01-07,Se rompió al poco tiempo
+561,3,598,3,2026-02-21,Es correcto por el precio
+562,78,81,4,2025-10-07,Perfecto para uso diario
+563,64,583,5,2026-02-12,Lo volvería a comprar
+564,68,111,5,2024-10-05,Perfecto para uso diario
+565,72,472,4,2025-01-27,
+566,90,9,1,2025-06-06,
+567,42,533,5,2025-09-07,Llegó rápido y como se describe
+568,26,170,5,2025-10-30,Lo volvería a comprar
+569,53,445,4,2025-11-28,Muy buena relación precio-calidad
+570,35,218,2,2024-08-08,No llegó como esperaba
+571,89,415,4,2024-08-26,Muy buena relación precio-calidad
+572,33,473,3,2025-07-18,Es correcto por el precio
+573,38,206,2,2025-08-24,
+574,6,210,5,2024-10-26,Superó mis expectativas
+575,54,43,4,2026-01-14,Muy buena relación precio-calidad
+576,79,463,4,2025-11-16,Muy buena relación precio-calidad
+577,21,193,2,2025-05-08,Mala calidad de materiales
+578,22,354,5,2025-12-14,
+579,18,6,5,2024-09-19,
+580,35,49,5,2026-06-08,Perfecto para uso diario
+581,80,599,2,2025-04-06,No llegó como esperaba
+582,46,62,0,2026-05-22,Mala calidad de materiales
+583,62,280,5,2026-05-06,Superó mis expectativas
+584,54,261,2,2025-07-27,Se rompió al poco tiempo
+585,41,274,5,2026-06-28,Llegó rápido y como se describe
+586,28,408,1,2025-02-15,No llegó como esperaba
+587,11,465,4,2024-10-20,Muy buena relación precio-calidad
+588,74,410,4,2026-03-03,Llegó rápido y como se describe
+589,56,516,0,2025-12-14,
+590,20,315,5,2025-07-05,"Excelente calidad, lo recomiendo"
+591,21,550,1,2024-06-02,
+592,60,602,5,2026-04-22,Llegó rápido y como se describe
+593,13,326,5,2025-05-16,Perfecto para uso diario
+594,16,451,2,2025-05-25,Mala calidad de materiales
+595,77,486,1,2025-04-12,Mala calidad de materiales
+596,62,354,4,2025-06-12,Llegó rápido y como se describe
+597,64,142,1,2025-01-22,Mala calidad de materiales
+598,1,205,5,2025-06-27,Lo volvería a comprar
+599,54,279,4,2024-08-08,Llegó rápido y como se describe
+600,31,72,5,2026-01-31,Superó mis expectativas
+601,79,298,5,2026-05-10,Muy buena relación precio-calidad
+602,53,443,3,2025-01-04,"Cumple lo básico, nada del otro mundo"
+603,79,31,5,2026-03-31,Muy buena relación precio-calidad
+604,16,253,2,2026-03-18,Se rompió al poco tiempo
+605,91,389,4,2025-07-16,Muy buena relación precio-calidad
+606,91,201,4,2025-04-05,Muy buena relación precio-calidad
+607,66,139,3,2026-05-05,"Cumple lo básico, nada del otro mundo"
+608,66,329,5,2026-01-31,Superó mis expectativas
+609,73,217,5,2025-07-22,Muy buena relación precio-calidad
+610,59,323,4,2025-01-13,Muy buena relación precio-calidad
+611,86,509,1,2025-03-29,No llegó como esperaba
+612,37,91,3,2026-06-26,
+613,36,42,3,2025-09-15,Es correcto por el precio
+614,58,343,1,2024-10-24,El envío tardó demasiado
+615,25,276,4,2024-06-17,Perfecto para uso diario
+616,49,407,3,2025-04-01,"Cumple lo básico, nada del otro mundo"
+617,20,76,3,2025-02-23,Es correcto por el precio
+618,37,208,4,2026-03-26,Superó mis expectativas
+619,56,491,5,2026-03-07,Llegó rápido y como se describe
+620,66,419,0,2026-05-09,Mala calidad de materiales
+621,17,500,4,2026-06-07,Lo volvería a comprar
+622,13,464,1,2025-08-02,
+623,73,395,2,2025-03-17,
+624,70,361,2,2025-05-30,El envío tardó demasiado
+625,54,43,5,2026-01-19,Muy buena relación precio-calidad
+626,20,408,1,2024-12-06,Mala calidad de materiales
+627,59,580,4,2025-04-11,"Excelente calidad, lo recomiendo"
+628,73,390,4,2025-06-13,Lo volvería a comprar
+629,25,162,5,2025-09-06,Lo volvería a comprar
+630,71,517,4,2025-08-08,
+631,8,228,4,2025-10-08,Perfecto para uso diario
+632,94,73,2,2025-09-24,
+633,84,143,5,2026-03-03,Muy buena relación precio-calidad
+634,43,100,5,2026-03-04,Llegó rápido y como se describe
+635,5,476,3,2024-12-27,"Cumple lo básico, nada del otro mundo"
+636,71,154,3,2026-02-23,Es correcto por el precio
+637,14,123,5,2026-02-25,Lo volvería a comprar
+638,95,481,5,2026-04-09,Superó mis expectativas
+639,57,565,5,2025-08-23,Lo volvería a comprar
+640,32,401,1,2025-03-28,
+641,50,418,4,2026-05-04,Muy buena relación precio-calidad
+642,49,347,4,2025-07-18,Llegó rápido y como se describe
+643,49,541,2,2025-12-23,Se rompió al poco tiempo
+644,79,127,4,2024-10-23,"Excelente calidad, lo recomiendo"
+645,76,527,2,2024-06-05,No lo recomiendo
+646,83,224,4,2024-08-26,Lo volvería a comprar
+647,15,78,5,2026-01-27,Superó mis expectativas
+648,25,22,5,2025-09-09,Muy buena relación precio-calidad
+649,44,55,5,2024-11-22,
+650,76,171,4,2024-06-07,Llegó rápido y como se describe
+651,36,271,5,2025-07-25,"Excelente calidad, lo recomiendo"
+652,76,219,5,2024-12-01,Muy buena relación precio-calidad
+653,67,539,5,2024-09-26,Perfecto para uso diario
+654,30,136,3,2025-10-15,"Cumple lo básico, nada del otro mundo"
+655,95,328,4,2024-08-18,"Excelente calidad, lo recomiendo"
+656,53,163,3,2025-05-09,Es correcto por el precio
+657,92,335,3,2025-11-29,"Cumple lo básico, nada del otro mundo"
+658,11,442,3,2024-08-15,"Cumple lo básico, nada del otro mundo"
+659,36,445,4,2025-10-04,"Excelente calidad, lo recomiendo"
+660,22,61,5,2024-07-31,Llegó rápido y como se describe
+661,84,104,5,2026-04-22,Muy buena relación precio-calidad
+662,13,565,4,2024-10-02,
+663,50,47,3,2025-06-15,"Cumple lo básico, nada del otro mundo"
+664,82,607,5,2025-11-05,
+665,35,50,4,2026-05-11,Llegó rápido y como se describe
+666,30,84,4,2025-07-10,
+667,13,407,4,2025-11-24,Perfecto para uso diario
+668,36,480,4,2025-09-14,"Excelente calidad, lo recomiendo"
+669,79,204,5,2025-04-11,Superó mis expectativas
+670,57,47,4,2026-03-26,Perfecto para uso diario
+671,61,239,5,2025-12-21,"Excelente calidad, lo recomiendo"
+672,67,169,5,2026-05-23,"Excelente calidad, lo recomiendo"
+673,66,177,4,2024-09-03,Perfecto para uso diario
+674,30,22,4,2025-06-26,Lo volvería a comprar
+675,81,603,4,2025-12-29,Superó mis expectativas
+676,75,17,5,2026-01-26,Superó mis expectativas
+677,93,232,3,2024-08-02,
+678,47,92,5,2024-07-15,
+679,50,400,0,2025-07-03,El envío tardó demasiado
+680,35,424,4,2026-04-22,Llegó rápido y como se describe
+681,4,535,4,2025-11-18,"Excelente calidad, lo recomiendo"
+682,69,399,4,2025-01-18,Muy buena relación precio-calidad
+683,33,58,4,2025-04-13,Superó mis expectativas
+684,22,85,5,2025-07-25,Llegó rápido y como se describe
+685,52,157,1,2024-08-16,
+686,85,280,4,2024-09-21,Superó mis expectativas
+687,21,199,2,2024-08-04,
+688,50,434,5,2025-06-20,Llegó rápido y como se describe
+689,18,103,5,2025-12-21,Lo volvería a comprar
+690,45,526,5,2026-04-02,"Excelente calidad, lo recomiendo"
+691,40,493,1,2025-06-10,
+692,21,427,4,2025-06-29,Perfecto para uso diario
+693,88,439,4,2025-09-12,"Excelente calidad, lo recomiendo"
+694,15,86,5,2025-10-20,
+695,89,19,5,2026-01-02,Llegó rápido y como se describe
+696,73,433,4,2024-12-08,Superó mis expectativas
+697,93,348,3,2024-08-20,
+698,92,244,3,2026-02-12,Es correcto por el precio
+699,34,549,1,2024-08-07,No lo recomiendo
+700,86,529,5,2024-06-11,Muy buena relación precio-calidad
+701,19,165,4,2025-10-21,Lo volvería a comprar
+702,17,127,0,2025-01-11,No lo recomiendo
+703,28,10,4,2024-07-19,Llegó rápido y como se describe
+704,54,353,4,2026-04-04,Lo volvería a comprar
+705,3,109,5,2025-05-14,Superó mis expectativas
+706,1,152,5,2025-10-14,"Excelente calidad, lo recomiendo"
+707,77,48,4,2024-10-25,Perfecto para uso diario
+708,95,578,1,2025-07-10,No lo recomiendo
+709,77,590,5,2024-12-15,Lo volvería a comprar
+710,35,544,5,2024-10-15,Superó mis expectativas
+711,54,82,4,2025-08-30,Perfecto para uso diario
+712,9,467,5,2024-12-07,Lo volvería a comprar
+713,88,585,5,2024-12-02,Perfecto para uso diario
+714,13,367,5,2026-03-10,Lo volvería a comprar
+715,70,558,5,2025-02-27,"Excelente calidad, lo recomiendo"
+716,34,336,5,2025-09-27,"Excelente calidad, lo recomiendo"
+717,69,484,4,2025-04-26,Superó mis expectativas
+718,38,548,2,2026-06-09,No lo recomiendo
+719,50,453,4,2025-06-12,
+720,74,116,5,2025-09-16,"Excelente calidad, lo recomiendo"
+721,36,83,4,2024-09-12,Llegó rápido y como se describe
+722,80,551,5,2024-11-26,Lo volvería a comprar
+723,10,319,1,2025-04-16,El envío tardó demasiado
+724,88,201,5,2024-12-07,Llegó rápido y como se describe
+725,21,494,5,2025-10-27,Perfecto para uso diario
+726,31,314,4,2025-07-12,Perfecto para uso diario
+727,32,183,5,2024-07-14,Lo volvería a comprar
+728,77,397,4,2025-09-15,Perfecto para uso diario
+729,8,484,0,2026-05-13,No lo recomiendo
+730,82,513,5,2025-03-13,Superó mis expectativas
+731,9,477,1,2024-09-29,No llegó como esperaba
+732,28,360,4,2025-04-23,Superó mis expectativas
+733,18,71,2,2026-03-03,
+734,68,27,4,2026-01-26,Perfecto para uso diario
+735,3,25,5,2025-04-01,
+736,55,392,5,2025-06-19,Perfecto para uso diario
+737,21,509,4,2024-12-09,"Excelente calidad, lo recomiendo"
+738,58,327,4,2025-12-27,Llegó rápido y como se describe
+739,3,329,3,2025-01-19,Es correcto por el precio
+740,51,30,5,2024-12-07,"Excelente calidad, lo recomiendo"
+741,28,157,5,2026-02-13,Llegó rápido y como se describe
+742,19,233,5,2025-10-07,Muy buena relación precio-calidad
+743,61,278,5,2025-12-11,Muy buena relación precio-calidad
+744,24,284,2,2025-10-31,Se rompió al poco tiempo
+745,84,576,4,2026-06-16,"Excelente calidad, lo recomiendo"
+746,57,368,4,2025-03-20,Superó mis expectativas
+747,68,347,5,2025-06-16,Superó mis expectativas
+748,47,90,5,2025-03-11,Llegó rápido y como se describe
+749,31,272,4,2026-03-31,Lo volvería a comprar
+750,47,94,4,2026-04-15,Lo volvería a comprar
+751,27,335,2,2025-10-06,No lo recomiendo
+752,34,70,4,2025-10-03,Perfecto para uso diario
+753,39,456,5,2026-01-20,Superó mis expectativas
+754,10,19,3,2025-08-24,"Cumple lo básico, nada del otro mundo"
+755,73,429,5,2026-04-15,Lo volvería a comprar
+756,67,392,4,2025-03-17,Perfecto para uso diario
+757,2,339,5,2025-04-29,Superó mis expectativas
+758,38,414,3,2025-07-20,"Cumple lo básico, nada del otro mundo"
+759,53,339,2,2025-04-22,No llegó como esperaba
+760,11,136,2,2026-04-24,Mala calidad de materiales
+761,17,514,5,2024-07-19,Lo volvería a comprar
+762,94,441,5,2024-09-19,Perfecto para uso diario
+763,53,55,5,2024-06-15,Perfecto para uso diario
+764,31,425,4,2026-05-06,Muy buena relación precio-calidad
+765,22,189,4,2024-10-15,Muy buena relación precio-calidad
+766,48,343,3,2026-06-24,Es correcto por el precio
+767,63,575,4,2024-12-18,
+768,70,245,3,2024-12-02,"Cumple lo básico, nada del otro mundo"
+769,60,128,2,2025-10-26,
+770,11,285,4,2026-06-08,Lo volvería a comprar
+771,88,323,5,2025-09-01,Perfecto para uso diario
+772,38,222,3,2026-02-11,"Cumple lo básico, nada del otro mundo"
+773,85,68,4,2025-02-02,Superó mis expectativas
+774,93,269,5,2026-01-23,Lo volvería a comprar
+775,68,279,4,2025-10-23,
+776,59,324,4,2025-08-12,Llegó rápido y como se describe
+777,83,195,4,2025-02-21,Muy buena relación precio-calidad
+778,79,538,4,2026-02-20,
+779,8,389,4,2026-01-09,Muy buena relación precio-calidad
+780,26,56,5,2025-08-10,Muy buena relación precio-calidad
+781,43,515,5,2026-01-26,Lo volvería a comprar
+782,35,275,5,2025-02-04,
+783,68,287,5,2024-07-14,Lo volvería a comprar
+784,59,314,4,2024-07-16,Lo volvería a comprar
+785,88,82,3,2024-08-15,"Está bien, aunque tardó en llegar"
+786,18,520,4,2025-11-04,
+787,38,111,5,2024-11-17,Llegó rápido y como se describe
+788,1,551,5,2025-10-01,
+789,7,48,3,2026-06-13,
+790,31,294,5,2025-03-21,Llegó rápido y como se describe
+791,60,263,5,2025-03-06,Perfecto para uso diario
+792,8,214,3,2025-12-10,Es correcto por el precio
+793,33,249,4,2025-10-06,
+794,46,562,4,2026-02-26,Superó mis expectativas
+795,36,350,4,2025-12-11,
+796,27,96,5,2024-08-21,Llegó rápido y como se describe
+797,47,514,4,2026-06-24,Lo volvería a comprar
+798,27,22,4,2024-09-22,Llegó rápido y como se describe
+799,43,479,1,2024-07-30,El envío tardó demasiado
+800,80,191,5,2026-05-31,Muy buena relación precio-calidad
+801,61,334,5,2024-08-11,"Excelente calidad, lo recomiendo"
+802,15,383,5,2025-07-31,Lo volvería a comprar
+803,27,120,5,2024-11-09,Superó mis expectativas
+804,41,440,5,2025-03-14,Superó mis expectativas
+805,48,526,3,2024-06-13,
+806,45,569,5,2025-10-01,Llegó rápido y como se describe
+807,88,192,5,2024-07-06,Llegó rápido y como se describe
+808,10,159,4,2024-06-07,Llegó rápido y como se describe
+809,57,167,5,2025-12-13,"Excelente calidad, lo recomiendo"
+810,56,425,5,2026-06-02,Perfecto para uso diario
+811,64,43,4,2025-04-17,Lo volvería a comprar
+812,1,120,4,2026-03-08,Muy buena relación precio-calidad
+813,85,246,4,2026-01-17,Muy buena relación precio-calidad
+814,23,75,5,2025-11-03,
+815,6,5,1,2024-12-01,Mala calidad de materiales
+816,46,242,3,2025-12-07,Es correcto por el precio
+817,92,368,4,2025-11-24,Lo volvería a comprar
+818,38,435,4,2024-09-28,"Excelente calidad, lo recomiendo"
+819,37,482,5,2025-09-20,Muy buena relación precio-calidad
+820,79,103,5,2024-12-14,
+821,51,429,4,2025-11-10,Lo volvería a comprar
+822,65,374,4,2024-07-10,Llegó rápido y como se describe
+823,26,125,4,2025-05-23,"Excelente calidad, lo recomiendo"
+824,40,349,1,2024-12-22,Mala calidad de materiales
+825,8,358,3,2024-08-30,Es correcto por el precio
+826,55,264,5,2025-04-18,Superó mis expectativas
+827,49,550,4,2026-03-13,Perfecto para uso diario
+828,33,422,4,2025-03-12,Llegó rápido y como se describe
+829,40,9,1,2024-06-14,No llegó como esperaba
+830,57,270,3,2025-10-14,
+831,61,247,4,2024-12-02,Llegó rápido y como se describe
+832,93,556,5,2025-08-12,Llegó rápido y como se describe
+833,19,215,5,2024-07-16,"Excelente calidad, lo recomiendo"
+834,16,483,4,2025-12-04,Superó mis expectativas
+835,56,81,1,2024-07-07,No llegó como esperaba
+836,77,89,5,2025-06-26,Llegó rápido y como se describe
+837,35,512,4,2025-01-07,Perfecto para uso diario
+838,39,521,5,2024-07-28,Llegó rápido y como se describe
+839,76,399,5,2024-08-28,Muy buena relación precio-calidad
+840,45,360,5,2024-06-20,Lo volvería a comprar
+841,64,347,4,2026-05-08,
+842,29,565,3,2024-07-26,Es correcto por el precio
+843,36,282,3,2026-03-16,
+844,86,203,5,2025-11-01,Muy buena relación precio-calidad
+845,87,306,5,2025-04-13,Llegó rápido y como se describe
+846,21,413,5,2025-09-08,
+847,58,256,3,2026-04-08,
+848,55,371,3,2025-03-29,Es correcto por el precio
+849,63,85,3,2024-08-20,
+850,20,398,3,2025-09-23,"Está bien, aunque tardó en llegar"
+851,94,1,4,2024-09-27,Lo volvería a comprar
+852,50,11,4,2025-07-18,
+853,95,570,3,2024-08-29,
+854,62,321,4,2025-06-05,Lo volvería a comprar
+855,3,600,4,2024-12-20,Perfecto para uso diario
+856,15,269,4,2024-10-16,Lo volvería a comprar
+857,53,593,2,2024-10-01,El envío tardó demasiado
+858,51,559,4,2025-04-21,Perfecto para uso diario
+859,76,392,5,2024-11-21,
+860,73,588,5,2025-05-18,Lo volvería a comprar
+861,7,12,3,2025-11-30,"Cumple lo básico, nada del otro mundo"
+862,91,566,5,2026-03-04,Llegó rápido y como se describe
+863,38,100,5,2025-11-02,Lo volvería a comprar
+864,30,298,5,2025-02-01,"Excelente calidad, lo recomiendo"
+865,24,452,5,2025-09-07,Superó mis expectativas
+866,27,296,1,2026-05-04,
+867,65,81,5,2026-04-10,
+868,63,463,5,2025-01-18,
+869,7,504,5,2025-10-24,Muy buena relación precio-calidad
+870,34,109,4,2025-10-28,Muy buena relación precio-calidad
+871,1,19,5,2024-06-16,"Excelente calidad, lo recomiendo"
+872,8,173,5,2025-12-13,
+873,2,82,2,2025-02-09,No lo recomiendo
+874,46,572,5,2026-01-16,Llegó rápido y como se describe
+875,63,151,3,2025-09-03,Es correcto por el precio
+876,37,331,4,2026-06-30,Muy buena relación precio-calidad
+877,74,102,4,2025-12-11,Perfecto para uso diario
+878,27,407,5,2025-08-28,Muy buena relación precio-calidad
+879,6,605,2,2026-06-30,No llegó como esperaba
+880,90,16,5,2025-01-15,Lo volvería a comprar
+881,49,356,4,2025-11-30,Perfecto para uso diario
+882,75,388,4,2025-06-22,Superó mis expectativas
+883,79,595,2,2026-01-09,No lo recomiendo
+884,94,469,5,2026-04-23,Lo volvería a comprar
+885,55,386,4,2025-03-31,Lo volvería a comprar
+886,48,461,4,2026-02-05,Superó mis expectativas
+887,62,220,5,2026-03-04,
+888,60,326,1,2025-11-20,Mala calidad de materiales
+889,94,255,5,2025-01-16,Lo volvería a comprar
+890,60,290,5,2026-06-07,Llegó rápido y como se describe
+891,72,513,4,2024-07-24,Superó mis expectativas
+892,70,377,3,2025-06-04,
+893,59,216,3,2024-06-04,Es correcto por el precio
+894,57,574,4,2025-11-03,Lo volvería a comprar
+895,22,161,4,2025-05-08,Superó mis expectativas
+896,28,57,4,2025-10-24,
+897,77,597,5,2026-04-20,Lo volvería a comprar
+898,2,428,3,2026-03-27,"Cumple lo básico, nada del otro mundo"
+899,37,231,5,2024-08-20,Lo volvería a comprar
+900,40,466,1,2025-03-20,No lo recomiendo
+901,63,128,2,2024-11-10,Se rompió al poco tiempo
+902,81,324,5,2025-02-18,Llegó rápido y como se describe
+903,93,49,5,2025-08-02,Llegó rápido y como se describe
+904,89,402,5,2024-06-12,Lo volvería a comprar
+905,21,574,5,2026-06-01,
+906,13,382,5,2025-09-03,
+907,80,79,4,2024-09-22,"Excelente calidad, lo recomiendo"
+908,43,587,5,2024-07-17,Superó mis expectativas
+909,67,564,5,2024-11-01,
+910,14,569,4,2025-04-17,"Excelente calidad, lo recomiendo"
+911,40,395,2,2024-09-01,El envío tardó demasiado
+912,12,495,5,2024-08-30,Muy buena relación precio-calidad
+913,45,373,4,2024-12-05,Llegó rápido y como se describe
+914,44,373,4,2025-04-05,Perfecto para uso diario
+915,45,421,4,2024-12-19,Superó mis expectativas
+916,66,422,5,2025-05-07,
+917,38,269,3,2025-04-21,
+918,73,90,4,2025-02-21,
+919,51,446,4,2026-03-03,Perfecto para uso diario
+920,65,102,5,2024-08-06,Muy buena relación precio-calidad
+921,20,281,5,2025-08-18,Muy buena relación precio-calidad
+922,9,324,3,2026-01-06,"Cumple lo básico, nada del otro mundo"
+923,26,360,5,2025-11-16,
+924,49,214,4,2025-02-19,Perfecto para uso diario
+925,47,101,5,2025-09-10,
+926,39,597,2,2025-03-14,Mala calidad de materiales
+927,34,484,5,2025-12-27,"Excelente calidad, lo recomiendo"
+928,21,18,4,2024-09-06,Superó mis expectativas
+929,31,581,5,2026-04-06,Llegó rápido y como se describe
+930,51,131,4,2024-10-16,Lo volvería a comprar
+931,63,123,2,2026-02-13,Mala calidad de materiales
+932,74,111,3,2025-01-03,"Cumple lo básico, nada del otro mundo"
+933,55,178,5,2024-09-24,Lo volvería a comprar
+934,84,175,3,2025-10-19,
+935,58,410,3,2025-08-22,"Cumple lo básico, nada del otro mundo"
+936,11,98,4,2024-10-31,Llegó rápido y como se describe
+937,91,335,4,2025-01-01,Muy buena relación precio-calidad
+938,48,254,4,2025-12-09,Superó mis expectativas
+939,92,319,5,2026-03-11,"Excelente calidad, lo recomiendo"
+940,92,29,4,2025-09-01,Perfecto para uso diario
+941,55,564,3,2025-12-04,
+942,84,132,4,2024-11-12,"Excelente calidad, lo recomiendo"
+943,49,134,6,2026-03-20,Muy buena relación precio-calidad
+944,90,450,5,2026-06-04,Llegó rápido y como se describe
+945,18,142,3,2024-12-22,"Está bien, aunque tardó en llegar"
+946,72,220,4,2024-11-10,Muy buena relación precio-calidad
+947,38,351,5,2025-10-10,Lo volvería a comprar
+948,45,8,4,2026-05-15,"Excelente calidad, lo recomiendo"
+949,40,220,4,2025-05-19,Superó mis expectativas
+950,86,35,4,2025-05-25,Llegó rápido y como se describe
+951,32,132,3,2026-04-10,Es correcto por el precio
+952,36,384,2,2025-06-13,Se rompió al poco tiempo
+953,71,461,4,2025-02-26,
+954,70,124,5,2024-06-29,Superó mis expectativas
+955,45,1,2,2024-11-25,
+956,25,460,4,2026-02-18,Muy buena relación precio-calidad
+957,61,169,4,2024-10-11,
+958,23,532,5,2026-04-26,
+959,55,563,3,2025-12-26,"Cumple lo básico, nada del otro mundo"
+960,3,486,5,2026-01-30,Lo volvería a comprar
+961,24,176,5,2024-10-11,Muy buena relación precio-calidad
+962,15,5,5,2025-03-08,Llegó rápido y como se describe
+963,45,266,4,2024-07-21,Perfecto para uso diario
+964,75,134,4,2024-06-12,Llegó rápido y como se describe
+965,3,16,5,2024-11-21,Superó mis expectativas
+966,18,370,5,2026-01-06,Lo volvería a comprar
+967,32,341,5,2026-06-27,Perfecto para uso diario
+968,28,173,4,2024-11-30,Llegó rápido y como se describe
+969,71,5,5,2026-03-20,
+970,62,547,2,2025-05-22,No llegó como esperaba
+971,70,336,3,2025-11-01,Es correcto por el precio
+972,72,600,4,2026-04-22,"Excelente calidad, lo recomiendo"
+973,15,367,2,2026-03-24,No lo recomiendo
+974,50,47,1,2026-03-01,El envío tardó demasiado
+975,38,592,4,2025-08-27,"Excelente calidad, lo recomiendo"
+976,75,64,3,2025-10-26,Es correcto por el precio
+977,61,129,5,2026-04-10,"Excelente calidad, lo recomiendo"
+978,19,324,4,2025-03-13,Lo volvería a comprar
+979,35,235,5,2026-05-03,Perfecto para uso diario
+980,85,437,5,2025-04-16,Perfecto para uso diario
+981,94,581,5,2026-04-21,Lo volvería a comprar
+982,77,332,5,2026-01-17,Muy buena relación precio-calidad
+983,84,509,2,2024-08-30,No lo recomiendo
+984,95,49,3,2025-07-17,"Cumple lo básico, nada del otro mundo"
+985,80,153,2,2024-12-01,Mala calidad de materiales
+986,44,89,4,2026-06-09,Lo volvería a comprar
+987,56,431,3,2026-04-06,Es correcto por el precio
+988,29,555,4,2024-08-05,Muy buena relación precio-calidad
+989,15,116,5,2025-10-26,Lo volvería a comprar
+990,79,263,4,2026-03-01,Llegó rápido y como se describe
+991,50,334,5,2025-10-01,Llegó rápido y como se describe
+992,84,400,4,2025-03-13,
+993,58,271,1,2024-06-01,No llegó como esperaba
+994,8,120,6,2025-02-09,Lo volvería a comprar
+995,36,278,3,2025-02-27,Es correcto por el precio
+996,41,83,5,2026-04-04,
+997,75,499,4,2025-04-30,"Excelente calidad, lo recomiendo"
+998,77,116,4,2025-07-16,Lo volvería a comprar
+999,6,219,3,2025-02-18,Es correcto por el precio
+1000,27,30,5,2025-03-07,"Excelente calidad, lo recomiendo"
+1001,78,72,6,2025-07-16,Lo volvería a comprar
+1002,78,549,5,2024-12-13,"Excelente calidad, lo recomiendo"
+1003,76,173,4,2024-06-18,Perfecto para uso diario
+1004,7,458,4,2026-01-10,
+1005,56,285,1,2025-06-20,
+1006,74,108,4,2024-09-09,"Excelente calidad, lo recomiendo"
+1007,42,167,5,2025-06-27,Muy buena relación precio-calidad
+1008,64,297,4,2025-06-01,Perfecto para uso diario
+1009,77,193,2,2026-06-19,El envío tardó demasiado
+1010,92,341,3,2025-02-07,"Está bien, aunque tardó en llegar"
+1011,66,109,5,2025-07-26,Lo volvería a comprar
+1012,94,128,1,2026-03-08,No lo recomiendo
+1013,91,245,3,2025-09-19,"Cumple lo básico, nada del otro mundo"
+1014,28,24,4,2024-10-02,Superó mis expectativas
+1015,17,256,5,2025-05-10,Lo volvería a comprar
+1016,11,120,3,2025-08-03,"Cumple lo básico, nada del otro mundo"
+1017,13,559,1,2025-02-28,
+1018,50,480,4,2024-06-20,"Excelente calidad, lo recomiendo"
+1019,85,143,5,2025-08-29,Superó mis expectativas
+1020,12,189,4,2025-05-25,Lo volvería a comprar
+1021,57,582,5,2024-08-29,Lo volvería a comprar
+1022,33,588,5,2024-08-08,Perfecto para uso diario
+1023,4,602,5,2026-03-23,Muy buena relación precio-calidad
+1024,74,433,3,2025-06-19,"Cumple lo básico, nada del otro mundo"
+1025,54,358,3,2026-02-20,"Está bien, aunque tardó en llegar"
+1026,95,223,5,2026-04-21,"Excelente calidad, lo recomiendo"
+1027,52,400,5,2026-05-20,Llegó rápido y como se describe
+1028,83,305,3,2025-02-02,"Cumple lo básico, nada del otro mundo"
+1029,42,493,4,2025-07-20,Muy buena relación precio-calidad
+1030,9,105,5,2024-07-30,Superó mis expectativas
+1031,30,447,3,2026-03-01,"Está bien, aunque tardó en llegar"
+1032,7,106,4,2025-09-14,"Excelente calidad, lo recomiendo"
+1033,54,426,3,2026-02-12,Es correcto por el precio
+1034,24,430,1,2026-03-07,El envío tardó demasiado
+1035,54,352,4,2024-12-26,Llegó rápido y como se describe
+1036,56,101,3,2025-02-22,"Cumple lo básico, nada del otro mundo"
+1037,1,85,5,2025-12-17,Llegó rápido y como se describe
+1038,83,136,5,2024-07-23,Llegó rápido y como se describe
+1039,88,229,1,2026-06-11,El envío tardó demasiado
+1040,40,18,5,2026-06-06,Muy buena relación precio-calidad
+1041,15,80,4,2025-11-02,Llegó rápido y como se describe
+1042,54,182,5,2025-12-21,Superó mis expectativas
+1043,88,110,5,2025-01-29,Llegó rápido y como se describe
+1044,73,155,2,2026-05-22,No lo recomiendo
+1045,47,534,4,2025-06-29,Llegó rápido y como se describe
+1046,27,49,3,2024-09-07,"Está bien, aunque tardó en llegar"
+1047,71,526,0,2024-08-25,Se rompió al poco tiempo
+1048,34,90,5,2025-06-12,"Excelente calidad, lo recomiendo"
+1049,70,560,3,2024-12-17,
+1050,84,80,4,2026-01-29,Muy buena relación precio-calidad
+1051,90,351,5,2025-08-22,Perfecto para uso diario
+1052,75,386,3,2025-09-06,
+1053,16,140,1,2025-06-11,El envío tardó demasiado
+1054,16,456,4,2026-02-24,Perfecto para uso diario
+1055,27,6,1,2025-03-27,
+1056,58,94,4,2025-01-20,Llegó rápido y como se describe
+1057,25,365,5,2026-02-28,Lo volvería a comprar
+1058,21,68,2,2026-02-19,Mala calidad de materiales
+1059,2,593,3,2025-09-26,"Está bien, aunque tardó en llegar"
+1060,17,49,5,2024-09-28,Perfecto para uso diario
+1061,64,252,2,2026-02-18,
+1062,88,269,4,2025-05-06,Llegó rápido y como se describe
+1063,6,319,4,2025-08-02,Lo volvería a comprar
+1064,91,355,2,2026-02-02,Se rompió al poco tiempo
+1065,88,186,3,2025-11-25,"Cumple lo básico, nada del otro mundo"
+1066,24,9,3,2024-12-03,"Está bien, aunque tardó en llegar"
+1067,70,558,5,2025-07-25,Lo volvería a comprar
+1068,91,447,4,2025-07-14,Muy buena relación precio-calidad
+1069,74,361,5,2025-12-20,
+1070,55,242,5,2026-04-03,Muy buena relación precio-calidad
+1071,31,266,4,2026-04-28,"Excelente calidad, lo recomiendo"
+1072,52,35,5,2025-09-20,Lo volvería a comprar
+1073,16,572,3,2026-03-21,Es correcto por el precio
+1074,35,587,5,2026-04-15,Muy buena relación precio-calidad
+1075,68,364,5,2026-02-25,Perfecto para uso diario
+1076,43,83,5,2026-03-07,Muy buena relación precio-calidad
+1077,80,601,2,2026-06-06,No llegó como esperaba
+1078,29,208,5,2025-01-26,
+1079,52,289,5,2024-10-14,Llegó rápido y como se describe
+1080,46,331,3,2026-03-15,"Cumple lo básico, nada del otro mundo"
+1081,93,585,5,2025-08-27,Llegó rápido y como se describe
+1082,2,424,5,2026-04-15,
+1083,80,472,4,2026-02-17,Lo volvería a comprar
+1084,33,410,4,2026-06-02,Superó mis expectativas
+1085,28,577,2,2026-04-07,No lo recomiendo
+1086,71,162,4,2024-08-25,Lo volvería a comprar
+1087,27,329,1,2025-10-26,Se rompió al poco tiempo
+1088,42,348,1,2025-11-04,No llegó como esperaba
+1089,88,89,3,2025-10-28,"Está bien, aunque tardó en llegar"
+1090,82,417,3,2026-05-25,"Está bien, aunque tardó en llegar"
+1091,87,474,5,2025-01-22,Lo volvería a comprar
+1092,40,276,5,2025-05-26,"Excelente calidad, lo recomiendo"
+1093,35,607,4,2026-03-28,
+1094,34,395,5,2025-02-23,Muy buena relación precio-calidad
+1095,43,4,2,2024-10-22,No llegó como esperaba
+1096,88,534,5,2025-12-26,"Excelente calidad, lo recomiendo"
+1097,17,55,5,2025-02-06,"Excelente calidad, lo recomiendo"
+1098,67,240,1,2024-11-03,Mala calidad de materiales
+1099,6,169,5,2024-08-10,Superó mis expectativas
+1100,76,450,1,2026-04-28,El envío tardó demasiado
+1101,26,561,3,2026-05-26,"Está bien, aunque tardó en llegar"
+1102,8,19,5,2026-04-11,Superó mis expectativas
+1103,42,301,4,2025-06-10,Perfecto para uso diario
+1104,45,606,1,2024-09-01,Mala calidad de materiales
+1105,25,54,2,2025-02-14,Mala calidad de materiales
+1106,34,399,4,2024-08-03,Superó mis expectativas
+1107,43,446,4,2026-03-07,"Excelente calidad, lo recomiendo"
+1108,23,188,2,2025-02-22,Se rompió al poco tiempo
+1109,90,506,3,2025-05-22,"Está bien, aunque tardó en llegar"
+1110,30,167,2,2026-06-24,No lo recomiendo
+1111,46,325,1,2026-02-01,Se rompió al poco tiempo
+1112,2,362,5,2026-06-15,
+1113,21,153,5,2026-01-14,Lo volvería a comprar
+1114,75,154,5,2026-03-12,Lo volvería a comprar
+1115,92,417,5,2025-11-24,
+1116,52,349,5,2026-06-12,Llegó rápido y como se describe
+1117,37,320,5,2024-11-26,Perfecto para uso diario
+1118,55,106,5,2024-09-06,Superó mis expectativas
+1119,30,456,1,2025-10-22,Se rompió al poco tiempo
+1120,4,47,5,2026-03-15,
+1121,84,301,6,2026-01-05,Lo volvería a comprar
+1122,78,454,4,2024-08-25,"Excelente calidad, lo recomiendo"
+1123,66,379,4,2026-02-02,"Excelente calidad, lo recomiendo"
+1124,34,175,5,2025-09-01,Lo volvería a comprar
+1125,6,316,2,2024-09-15,
+1126,66,531,4,2025-05-24,"Excelente calidad, lo recomiendo"
+1127,52,603,5,2024-09-26,Perfecto para uso diario
+1128,81,597,1,2025-12-20,No lo recomiendo
+1129,2,316,5,2026-05-08,Llegó rápido y como se describe
+1130,80,596,4,2026-02-01,"Excelente calidad, lo recomiendo"
+1131,41,591,3,2025-10-27,
+1132,49,503,5,2024-09-13,Superó mis expectativas
+1133,57,287,5,2025-08-26,Lo volvería a comprar
+1134,54,211,5,2025-03-31,Llegó rápido y como se describe
+1135,84,117,2,2025-11-13,Se rompió al poco tiempo
+1136,48,142,4,2024-09-29,Superó mis expectativas
+1137,39,503,4,2026-03-16,Llegó rápido y como se describe
+1138,95,209,3,2024-10-04,
+1139,85,571,4,2025-03-02,Lo volvería a comprar
+1140,9,277,2,2026-06-30,
+1141,11,465,5,2026-05-19,
+1142,41,487,4,2026-01-24,Muy buena relación precio-calidad
+1143,25,513,2,2024-11-24,Se rompió al poco tiempo
+1144,89,552,3,2025-10-03,
+1145,4,511,1,2025-11-12,Se rompió al poco tiempo
+1146,94,198,4,2025-05-04,Muy buena relación precio-calidad
+1147,40,473,2,2026-03-02,No llegó como esperaba
+1148,85,300,4,2026-03-03,Llegó rápido y como se describe
+1149,1,496,5,2025-09-14,
+1150,31,119,5,2025-08-23,"Excelente calidad, lo recomiendo"
+1151,53,247,3,2026-06-21,"Está bien, aunque tardó en llegar"
+1152,75,451,5,2024-07-18,Lo volvería a comprar
+1153,84,21,5,2026-06-07,Muy buena relación precio-calidad
+1154,77,514,1,2025-04-07,
+1155,20,462,4,2024-10-14,Perfecto para uso diario
+1156,92,283,4,2026-05-03,Perfecto para uso diario
+1157,59,57,3,2024-08-23,"Está bien, aunque tardó en llegar"
+1158,63,171,4,2025-08-16,"Excelente calidad, lo recomiendo"
+1159,17,256,5,2026-05-01,
+1160,82,177,4,2025-08-06,Perfecto para uso diario
+1161,71,143,5,2026-03-09,Muy buena relación precio-calidad
+1162,79,151,3,2024-10-02,"Cumple lo básico, nada del otro mundo"
+1163,14,409,5,2025-04-24,Lo volvería a comprar
+1164,23,154,3,2025-01-17,"Está bien, aunque tardó en llegar"
+1165,35,74,5,2024-07-30,Lo volvería a comprar
+1166,68,84,3,2026-03-26,Es correcto por el precio
+1167,86,171,5,2026-05-04,
+1168,65,309,4,2025-07-10,"Excelente calidad, lo recomiendo"
+1169,73,456,2,2024-09-05,No lo recomiendo
+1170,19,114,3,2026-05-11,"Está bien, aunque tardó en llegar"
+1171,88,183,2,2026-04-09,Se rompió al poco tiempo
+1172,33,458,3,2026-06-02,"Cumple lo básico, nada del otro mundo"
+1173,67,505,5,2024-11-17,Llegó rápido y como se describe
+1174,79,464,3,2025-02-15,Es correcto por el precio
+1175,47,54,4,2025-08-23,Muy buena relación precio-calidad
+1176,19,52,5,2024-07-24,Superó mis expectativas
+1177,83,564,3,2025-09-09,"Está bien, aunque tardó en llegar"
+1178,56,391,4,2025-11-02,Muy buena relación precio-calidad
+1179,57,499,5,2026-06-23,Muy buena relación precio-calidad
+1180,30,232,3,2025-10-27,"Cumple lo básico, nada del otro mundo"
+1181,76,39,3,2026-01-28,"Está bien, aunque tardó en llegar"
+1182,8,335,4,2026-04-27,Superó mis expectativas
+1183,14,173,4,2025-11-20,"Excelente calidad, lo recomiendo"
+1184,87,45,4,2024-11-06,Muy buena relación precio-calidad
+1185,74,362,3,2024-10-15,"Está bien, aunque tardó en llegar"
+1186,15,461,5,2025-09-01,
+1187,61,24,2,2026-03-16,Se rompió al poco tiempo
+1188,51,466,4,2025-02-09,
+1189,54,465,5,2025-02-22,Perfecto para uso diario
+1190,78,521,4,2026-05-28,Superó mis expectativas
+1191,90,409,4,2026-06-27,Perfecto para uso diario
+1192,31,19,5,2026-01-11,Llegó rápido y como se describe
+1193,87,2,0,2025-01-16,
+1194,69,492,5,2025-04-24,Perfecto para uso diario
+1195,88,19,5,2026-03-03,
+1196,30,522,5,2024-12-12,Muy buena relación precio-calidad
+1197,14,256,4,2024-11-02,Perfecto para uso diario
+1198,89,30,5,2025-11-10,Perfecto para uso diario
+1199,94,559,2,2025-10-24,Se rompió al poco tiempo
+1200,73,474,3,2026-03-20,
+1201,62,538,1,2025-11-17,Mala calidad de materiales
+1202,90,589,5,2026-01-13,"Excelente calidad, lo recomiendo"
+1203,54,183,1,2025-09-15,No lo recomiendo
+1204,26,42,5,2025-07-02,
+1205,74,264,4,2025-09-22,Perfecto para uso diario
+1206,79,551,5,2025-02-18,Muy buena relación precio-calidad
+1207,76,66,3,2024-07-14,"Cumple lo básico, nada del otro mundo"
+1208,86,171,4,2025-04-27,Muy buena relación precio-calidad
+1209,30,16,5,2024-07-18,Lo volvería a comprar
+1210,44,516,4,2024-06-17,Llegó rápido y como se describe
+1211,94,487,5,2024-12-02,Superó mis expectativas
+1212,48,163,2,2024-11-20,El envío tardó demasiado
+1213,94,151,3,2026-05-19,"Está bien, aunque tardó en llegar"
+1214,9,396,4,2025-12-08,Llegó rápido y como se describe
+1215,57,375,5,2025-09-20,Superó mis expectativas
+1216,84,586,4,2024-06-28,Muy buena relación precio-calidad
+1217,39,404,5,2025-08-25,Muy buena relación precio-calidad
+1218,8,391,5,2026-05-09,Perfecto para uso diario
+1219,56,610,4,2026-05-13,Muy buena relación precio-calidad
+1220,52,163,4,2025-10-23,Superó mis expectativas
+1221,50,20,4,2026-02-02,"Excelente calidad, lo recomiendo"
+1222,70,66,0,2025-10-07,El envío tardó demasiado
+1223,15,531,5,2025-07-24,Llegó rápido y como se describe
+1224,33,73,4,2024-07-19,Llegó rápido y como se describe
+1225,24,326,2,2026-03-02,Mala calidad de materiales
+1226,87,154,3,2025-02-20,Es correcto por el precio
+1227,48,272,5,2025-03-18,Muy buena relación precio-calidad
+1228,21,455,4,2026-02-05,Llegó rápido y como se describe
+1229,57,471,5,2025-04-16,"Excelente calidad, lo recomiendo"
+1230,51,572,4,2026-01-13,Perfecto para uso diario
+1231,1,385,3,2026-02-14,Es correcto por el precio
+1232,25,464,4,2024-10-13,Muy buena relación precio-calidad
+1233,78,210,5,2025-11-13,Superó mis expectativas
+1234,77,72,3,2024-11-28,"Cumple lo básico, nada del otro mundo"
+1235,52,223,4,2026-06-02,
+1236,56,490,2,2025-07-04,Mala calidad de materiales
+1237,42,105,4,2025-08-04,Llegó rápido y como se describe
+1238,65,296,4,2024-12-05,Lo volvería a comprar
+1239,65,261,1,2024-11-19,Se rompió al poco tiempo
+1240,17,60,1,2024-07-18,No lo recomiendo
+1241,70,161,4,2024-11-05,Muy buena relación precio-calidad
+1242,80,407,5,2026-04-08,Superó mis expectativas
+1243,4,198,5,2026-02-02,Perfecto para uso diario
+1244,79,222,5,2024-08-22,Llegó rápido y como se describe
+1245,88,548,5,2024-09-24,Muy buena relación precio-calidad
+1246,14,610,5,2026-02-20,"Excelente calidad, lo recomiendo"
+1247,42,70,6,2026-02-27,Perfecto para uso diario
+1248,32,526,4,2025-02-24,"Excelente calidad, lo recomiendo"
+1249,52,553,4,2026-03-12,Lo volvería a comprar
+1250,89,259,2,2024-07-19,El envío tardó demasiado
+1251,23,562,4,2026-02-13,Lo volvería a comprar
+1252,18,348,4,2026-05-25,
+1253,23,345,4,2024-09-29,Perfecto para uso diario
+1254,24,487,3,2025-03-20,Es correcto por el precio
+1255,47,323,5,2024-06-14,Superó mis expectativas
+1256,70,136,4,2025-09-24,
+1257,80,385,4,2024-12-13,
+1258,57,328,5,2025-12-09,"Excelente calidad, lo recomiendo"
+1259,24,415,5,2025-04-03,"Excelente calidad, lo recomiendo"
+1260,75,40,4,2024-10-18,Llegó rápido y como se describe
+1261,93,115,4,2024-06-16,Llegó rápido y como se describe
+1262,37,365,4,2026-06-06,Llegó rápido y como se describe
+1263,79,371,6,2025-11-18,Muy buena relación precio-calidad
+1264,10,278,4,2025-12-03,Llegó rápido y como se describe
+1265,92,412,1,2026-01-29,Mala calidad de materiales
+1266,9,84,5,2025-11-06,Perfecto para uso diario
+1267,54,249,5,2025-05-25,Lo volvería a comprar
+1268,5,486,1,2025-02-25,Mala calidad de materiales
+1269,90,108,4,2024-08-22,Superó mis expectativas
+1270,9,35,4,2025-05-01,Superó mis expectativas
+1271,83,79,5,2026-04-30,Lo volvería a comprar
+1272,14,184,4,2025-12-01,Perfecto para uso diario
+1273,63,369,5,2025-04-24,Llegó rápido y como se describe
+1274,76,489,5,2024-08-23,Superó mis expectativas
+1275,66,45,5,2024-09-16,Lo volvería a comprar
+1276,65,567,4,2026-05-24,Superó mis expectativas
+1277,24,86,4,2025-11-04,Muy buena relación precio-calidad
+1278,60,293,5,2025-09-17,"Excelente calidad, lo recomiendo"
+1279,67,351,5,2025-11-02,Perfecto para uso diario
+1280,70,383,5,2026-06-07,Llegó rápido y como se describe
+1281,60,374,4,2024-08-12,Perfecto para uso diario
+1282,55,373,3,2024-08-26,Es correcto por el precio
+1283,50,166,4,2026-03-01,Lo volvería a comprar
+1284,70,59,5,2026-01-23,
+1285,72,334,3,2024-09-13,"Está bien, aunque tardó en llegar"
+1286,36,419,1,2025-07-17,Se rompió al poco tiempo
+1287,26,165,3,2026-05-13,Es correcto por el precio
+1288,67,207,5,2026-04-01,"Excelente calidad, lo recomiendo"
+1289,32,159,4,2025-04-29,Lo volvería a comprar
+1290,65,179,5,2025-07-09,Superó mis expectativas
+1291,27,265,4,2026-05-16,
+1292,3,22,3,2024-08-24,
+1293,27,172,5,2024-09-01,Superó mis expectativas
+1294,66,524,5,2025-04-12,Perfecto para uso diario
+1295,91,595,5,2024-10-26,Superó mis expectativas
+1296,53,354,1,2026-02-14,Se rompió al poco tiempo
+1297,21,363,2,2024-10-15,
+1298,26,378,3,2026-01-21,"Cumple lo básico, nada del otro mundo"
+1299,10,607,4,2025-07-09,"Excelente calidad, lo recomiendo"
+1300,37,140,4,2025-01-04,
+1301,86,50,5,2026-04-30,
+1302,60,301,0,2025-03-31,No lo recomiendo
+1303,34,589,2,2024-06-10,El envío tardó demasiado
+1304,26,98,5,2025-01-14,"Excelente calidad, lo recomiendo"
+1305,88,232,4,2024-11-25,"Excelente calidad, lo recomiendo"
+1306,37,74,5,2026-03-15,Llegó rápido y como se describe
+1307,14,306,2,2026-06-21,El envío tardó demasiado
+1308,68,592,4,2024-12-12,Lo volvería a comprar
+1309,87,198,5,2025-11-24,
+1310,68,297,5,2025-07-29,Llegó rápido y como se describe
+1311,47,365,5,2024-08-09,
+1312,77,581,5,2026-04-24,Lo volvería a comprar
+1313,45,133,4,2025-05-11,Lo volvería a comprar
+1314,1,86,5,2025-03-06,Lo volvería a comprar
+1315,8,345,5,2025-03-24,Muy buena relación precio-calidad
+1316,85,602,4,2024-10-30,
+1317,5,210,4,2024-06-02,Perfecto para uso diario
+1318,32,440,1,2024-10-13,
+1319,13,7,1,2025-10-10,No lo recomiendo
+1320,19,83,1,2025-03-19,No lo recomiendo
+1321,39,180,4,2026-05-26,Superó mis expectativas
+1322,67,393,5,2026-02-23,"Excelente calidad, lo recomiendo"
+1323,83,330,5,2024-09-05,
+1324,45,392,4,2024-10-26,Lo volvería a comprar
+1325,83,422,5,2025-09-20,"Excelente calidad, lo recomiendo"
+1326,33,529,5,2025-02-02,Muy buena relación precio-calidad
+1327,94,193,5,2026-01-11,Perfecto para uso diario
+1328,43,85,4,2024-10-21,"Excelente calidad, lo recomiendo"
+1329,62,24,1,2026-05-16,No llegó como esperaba
+1330,58,401,3,2024-11-22,"Está bien, aunque tardó en llegar"
+1331,70,162,4,2025-01-08,Lo volvería a comprar
+1332,90,405,5,2024-10-09,
+1333,27,312,4,2026-04-28,
+1334,30,3,2,2025-07-26,Se rompió al poco tiempo
+1335,47,31,3,2026-02-07,"Está bien, aunque tardó en llegar"
+1336,11,555,4,2025-01-04,Lo volvería a comprar
+1337,6,124,6,2025-01-08,
+1338,6,598,4,2026-01-23,Llegó rápido y como se describe
+1339,6,594,5,2024-07-27,Perfecto para uso diario
+1340,62,414,4,2025-07-07,Muy buena relación precio-calidad
+1341,86,311,3,2025-09-19,"Está bien, aunque tardó en llegar"
+1342,46,479,4,2025-03-28,Muy buena relación precio-calidad
+1343,75,180,4,2024-08-28,Lo volvería a comprar
+1344,47,134,5,2025-04-16,Lo volvería a comprar
+1345,24,178,2,2026-02-18,Se rompió al poco tiempo
+1346,66,105,5,2025-09-04,"Excelente calidad, lo recomiendo"
+1347,24,23,5,2026-04-12,Muy buena relación precio-calidad
+1348,64,461,5,2025-02-15,"Excelente calidad, lo recomiendo"
+1349,32,530,4,2025-06-20,Llegó rápido y como se describe
+1350,9,503,4,2025-01-10,Perfecto para uso diario
+1351,81,305,5,2026-03-28,Superó mis expectativas
+1352,92,445,4,2025-11-04,Llegó rápido y como se describe
+1353,56,365,4,2025-07-03,Lo volvería a comprar
+1354,9,354,5,2026-01-05,Superó mis expectativas
+1355,4,251,5,2025-04-25,Lo volvería a comprar
+1356,35,320,5,2026-01-02,Lo volvería a comprar
+1357,26,419,4,2026-03-02,"Excelente calidad, lo recomiendo"
+1358,4,325,4,2026-06-04,Muy buena relación precio-calidad
+1359,46,373,5,2025-04-03,Lo volvería a comprar
+1360,16,576,4,2026-02-11,Superó mis expectativas
+1361,12,382,4,2024-08-05,
+1362,65,449,5,2024-06-09,"Excelente calidad, lo recomiendo"
+1363,54,520,3,2025-07-21,"Cumple lo básico, nada del otro mundo"
+1364,34,191,2,2026-03-17,No llegó como esperaba
+1365,52,494,6,2025-02-08,Muy buena relación precio-calidad
+1366,52,565,5,2024-08-08,Lo volvería a comprar
+1367,39,459,2,2026-05-11,Mala calidad de materiales
+1368,23,509,5,2026-05-15,Superó mis expectativas
+1369,17,349,5,2024-10-22,"Excelente calidad, lo recomiendo"
+1370,31,37,5,2025-04-03,Lo volvería a comprar
+1371,82,63,4,2024-12-27,"Excelente calidad, lo recomiendo"
+1372,11,59,5,2025-07-10,Llegó rápido y como se describe
+1373,9,73,4,2026-06-18,Superó mis expectativas
+1374,84,69,4,2025-01-01,
+1375,41,309,5,2024-12-12,"Excelente calidad, lo recomiendo"
+1376,29,98,3,2025-08-28,"Cumple lo básico, nada del otro mundo"
+1377,74,595,4,2024-09-14,Llegó rápido y como se describe
+1378,3,351,6,2025-02-16,
+1379,72,394,5,2025-03-04,Llegó rápido y como se describe
+1380,89,114,3,2025-05-08,"Cumple lo básico, nada del otro mundo"
+1381,37,567,5,2024-10-15,"Excelente calidad, lo recomiendo"
+1382,57,545,5,2025-05-22,Perfecto para uso diario
+1383,36,338,4,2024-10-14,Llegó rápido y como se describe
+1384,62,388,5,2025-12-20,"Excelente calidad, lo recomiendo"
+1385,56,497,3,2026-01-26,"Cumple lo básico, nada del otro mundo"
+1386,94,291,3,2024-10-04,Es correcto por el precio
+1387,5,416,4,2024-10-26,"Excelente calidad, lo recomiendo"
+1388,1,571,3,2026-06-12,"Está bien, aunque tardó en llegar"
+1389,93,502,2,2025-11-14,Se rompió al poco tiempo
+1390,57,355,5,2025-01-21,Superó mis expectativas
+1391,44,216,5,2025-09-11,Llegó rápido y como se describe
+1392,67,430,4,2026-03-29,Perfecto para uso diario
+1393,25,170,3,2025-01-13,
+1394,24,459,5,2025-07-11,Perfecto para uso diario
+1395,25,236,4,2024-09-22,Llegó rápido y como se describe
+1396,2,348,4,2026-05-05,Perfecto para uso diario
+1397,43,144,3,2026-05-01,Es correcto por el precio
+1398,93,47,1,2026-03-12,Mala calidad de materiales
+1399,36,137,5,2024-12-10,Llegó rápido y como se describe
+1400,70,491,5,2025-06-17,Llegó rápido y como se describe
+1401,5,56,3,2026-06-16,"Está bien, aunque tardó en llegar"
+1402,26,413,4,2026-03-18,Llegó rápido y como se describe
+1403,44,520,4,2025-04-08,
+1404,74,492,4,2026-05-12,"Excelente calidad, lo recomiendo"
+1405,91,318,4,2025-04-25,Llegó rápido y como se describe
+1406,77,400,4,2025-04-19,Lo volvería a comprar
+1407,20,555,3,2025-12-09,Es correcto por el precio
+1408,14,408,5,2025-02-05,Muy buena relación precio-calidad
+1409,66,36,4,2025-02-21,
+1410,66,177,4,2025-09-11,"Excelente calidad, lo recomiendo"
+1411,87,266,5,2026-04-22,Perfecto para uso diario
+1412,5,439,4,2025-10-19,Superó mis expectativas
+1413,24,435,4,2026-03-27,Perfecto para uso diario
+1414,77,18,4,2025-05-23,"Excelente calidad, lo recomiendo"
+1415,32,267,5,2025-12-31,Llegó rápido y como se describe
+1416,86,334,4,2025-05-09,Perfecto para uso diario
+1417,20,219,5,2025-04-03,Superó mis expectativas
+1418,44,582,4,2026-06-28,Muy buena relación precio-calidad
+1419,56,86,3,2025-12-14,Es correcto por el precio
+1420,39,265,2,2026-01-15,El envío tardó demasiado
+1421,95,210,4,2026-04-20,Llegó rápido y como se describe
+1422,13,294,5,2025-09-28,Llegó rápido y como se describe
+1423,82,164,4,2025-01-17,"Excelente calidad, lo recomiendo"
+1424,11,401,5,2025-09-02,Perfecto para uso diario
+1425,34,459,4,2025-11-21,Superó mis expectativas
+1426,1,469,2,2024-09-08,El envío tardó demasiado
+1427,33,118,5,2025-07-09,Lo volvería a comprar
+1428,86,85,4,2026-05-04,"Excelente calidad, lo recomiendo"
+1429,44,234,5,2025-09-17,Muy buena relación precio-calidad
+1430,3,360,5,2024-08-06,Lo volvería a comprar
+1431,75,598,4,2026-02-07,Lo volvería a comprar
+1432,85,125,5,2025-03-23,Llegó rápido y como se describe
+1433,40,135,3,2024-06-30,"Está bien, aunque tardó en llegar"
+1434,22,171,4,2025-10-27,Lo volvería a comprar
+1435,28,472,1,2025-01-28,Se rompió al poco tiempo
+1436,36,230,5,2024-09-28,
+1437,83,597,5,2024-07-08,"Excelente calidad, lo recomiendo"
+1438,20,556,5,2026-04-02,Lo volvería a comprar
+1439,82,469,5,2025-01-20,"Excelente calidad, lo recomiendo"
+1440,7,525,2,2025-08-22,El envío tardó demasiado
+1441,35,133,5,2026-05-05,Superó mis expectativas
+1442,28,330,4,2025-07-02,
+1443,84,541,3,2026-01-04,Es correcto por el precio
+1444,69,515,5,2026-02-28,
+1445,92,429,4,2025-11-13,Perfecto para uso diario
+1446,10,180,2,2026-01-05,
+1447,78,210,5,2025-07-07,Llegó rápido y como se describe
+1448,29,343,3,2025-01-01,
+1449,32,531,5,2024-07-30,Perfecto para uso diario
+1450,14,443,3,2025-03-14,"Está bien, aunque tardó en llegar"
+1451,39,516,4,2024-07-24,Lo volvería a comprar
+1452,53,121,3,2025-03-14,Es correcto por el precio
+1453,66,361,4,2025-08-20,Superó mis expectativas
+1454,71,424,4,2025-11-22,Lo volvería a comprar
+1455,94,141,4,2025-05-11,Llegó rápido y como se describe
+1456,6,233,5,2026-02-17,Lo volvería a comprar
+1457,17,388,5,2025-12-07,Perfecto para uso diario
+1458,15,381,5,2025-03-20,Llegó rápido y como se describe
+1459,95,194,5,2025-09-04,Perfecto para uso diario
+1460,87,224,4,2025-12-16,Superó mis expectativas
+1461,70,22,4,2024-09-28,
+1462,33,424,4,2025-04-22,Superó mis expectativas
+1463,89,395,5,2024-12-17,Perfecto para uso diario
+1464,15,214,5,2026-04-07,Llegó rápido y como se describe
+1465,27,60,5,2024-12-05,
+1466,63,609,5,2025-12-15,Llegó rápido y como se describe
+1467,39,551,4,2026-06-25,Llegó rápido y como se describe
+1468,6,95,3,2025-09-02,Es correcto por el precio
+1469,28,507,5,2025-05-22,
+1470,23,133,4,2024-10-11,Lo volvería a comprar
+1471,4,70,3,2025-03-20,"Está bien, aunque tardó en llegar"
+1472,35,8,5,2024-07-21,Perfecto para uso diario
+1473,91,304,4,2024-08-22,Llegó rápido y como se describe
+1474,69,138,3,2026-01-15,"Está bien, aunque tardó en llegar"
+1475,80,246,4,2025-08-18,Lo volvería a comprar
+1476,31,562,0,2025-02-11,No lo recomiendo
+1477,31,445,5,2024-12-21,Perfecto para uso diario
+1478,39,64,4,2024-08-18,Lo volvería a comprar
+1479,47,431,2,2025-04-24,
+1480,15,77,1,2026-02-15,No lo recomiendo
+1481,20,593,3,2024-08-05,Es correcto por el precio
+1482,65,594,5,2026-06-01,Perfecto para uso diario
+1483,75,216,5,2024-08-05,"Excelente calidad, lo recomiendo"
+1484,72,531,5,2025-10-06,Llegó rápido y como se describe
+1485,94,146,5,2026-04-20,Superó mis expectativas
+1486,95,451,4,2024-09-01,Lo volvería a comprar
+1487,40,274,3,2025-12-01,"Cumple lo básico, nada del otro mundo"
+1488,35,257,3,2025-03-26,"Cumple lo básico, nada del otro mundo"
+1489,39,95,5,2025-12-15,Muy buena relación precio-calidad
+1490,64,45,3,2025-11-02,Es correcto por el precio
+1491,11,57,4,2024-08-10,Lo volvería a comprar
+1492,2,300,5,2025-08-30,Lo volvería a comprar
+1493,23,246,5,2024-06-29,Perfecto para uso diario
+1494,20,309,3,2026-02-12,Es correcto por el precio
+1495,14,58,5,2025-08-08,Lo volvería a comprar
+1496,9,562,4,2025-08-17,Perfecto para uso diario
+1497,79,425,2,2025-08-12,No lo recomiendo
+1498,24,577,5,2024-06-21,Muy buena relación precio-calidad
+1499,76,505,4,2026-03-06,
+1500,12,317,2,2025-11-22,Mala calidad de materiales
+1501,76,184,3,2024-09-08,"Cumple lo básico, nada del otro mundo"
+1502,72,165,5,2024-09-30,Muy buena relación precio-calidad
+1503,65,527,1,2026-02-14,El envío tardó demasiado
+1504,47,281,4,2024-07-15,Lo volvería a comprar
+1505,83,601,5,2024-08-29,Superó mis expectativas
+1506,2,266,3,2025-03-17,"Está bien, aunque tardó en llegar"
+1507,3,537,5,2025-08-26,Muy buena relación precio-calidad
+1508,50,230,3,2025-11-17,"Está bien, aunque tardó en llegar"
+1509,30,237,5,2026-03-30,"Excelente calidad, lo recomiendo"
+1510,88,76,2,2025-10-02,
+1511,31,220,4,2025-05-05,"Excelente calidad, lo recomiendo"
+1512,60,318,5,2025-06-14,Superó mis expectativas
+1513,66,544,3,2025-07-08,"Cumple lo básico, nada del otro mundo"
+1514,49,103,4,2025-03-14,Llegó rápido y como se describe
+1515,39,599,5,2026-03-26,Perfecto para uso diario
+1516,20,315,5,2025-09-07,Perfecto para uso diario
+1517,54,303,5,2025-01-23,"Excelente calidad, lo recomiendo"
+1518,3,223,5,2026-04-13,Perfecto para uso diario
+1519,11,513,2,2025-05-25,Mala calidad de materiales
+1520,56,129,4,2025-12-01,
+1521,77,283,4,2026-04-02,Muy buena relación precio-calidad
+1522,57,201,3,2026-02-20,"Cumple lo básico, nada del otro mundo"
+1523,49,362,4,2025-05-16,
+1524,21,141,1,2025-06-19,Mala calidad de materiales
+1525,39,508,5,2026-01-12,Perfecto para uso diario
+1526,77,379,2,2025-03-14,El envío tardó demasiado
+1527,70,194,5,2026-01-30,"Excelente calidad, lo recomiendo"
+1528,15,172,1,2024-07-12,El envío tardó demasiado
+1529,65,232,6,2024-08-17,Perfecto para uso diario
+1530,81,62,2,2026-06-13,Mala calidad de materiales
+1531,57,248,4,2025-12-31,Superó mis expectativas
+1532,13,377,4,2025-02-02,Lo volvería a comprar
+1533,42,207,2,2024-10-13,No lo recomiendo
+1534,24,163,3,2026-03-19,
+1535,18,321,4,2026-05-27,Muy buena relación precio-calidad
+1536,11,546,3,2024-07-17,
+1537,61,274,1,2026-01-27,El envío tardó demasiado
+1538,83,500,5,2025-02-23,Llegó rápido y como se describe
+1539,45,84,5,2024-07-09,Perfecto para uso diario
+1540,56,319,3,2026-01-21,"Cumple lo básico, nada del otro mundo"
+1541,91,523,4,2025-01-25,Perfecto para uso diario
+1542,37,503,4,2024-12-09,Superó mis expectativas
+1543,54,204,4,2024-11-02,"Excelente calidad, lo recomiendo"
+1544,11,376,5,2025-02-13,Muy buena relación precio-calidad
+1545,25,237,1,2026-03-01,Se rompió al poco tiempo
+1546,47,581,4,2024-10-25,Perfecto para uso diario
+1547,61,300,4,2025-10-18,
+1548,34,12,3,2024-06-21,"Cumple lo básico, nada del otro mundo"
+1549,88,8,3,2024-09-27,Es correcto por el precio
+1550,63,353,4,2025-12-03,Superó mis expectativas
+1551,54,221,3,2026-06-24,"Está bien, aunque tardó en llegar"
+1552,8,342,3,2026-03-12,"Está bien, aunque tardó en llegar"
+1553,46,22,5,2025-01-21,
+1554,82,547,4,2024-08-22,Llegó rápido y como se describe
+1555,84,88,4,2025-11-10,Lo volvería a comprar
+1556,4,503,3,2024-10-25,
+1557,49,229,4,2025-11-29,Muy buena relación precio-calidad
+1558,67,425,3,2026-06-02,Es correcto por el precio
+1559,7,215,5,2025-11-20,Llegó rápido y como se describe
+1560,17,494,2,2025-01-31,Mala calidad de materiales
+1561,89,300,1,2025-05-18,No lo recomiendo
+1562,24,269,4,2024-11-17,Llegó rápido y como se describe
+1563,32,124,1,2025-05-29,Se rompió al poco tiempo
+1564,94,25,5,2024-09-04,Muy buena relación precio-calidad
+1565,67,535,5,2025-10-13,Perfecto para uso diario
+1566,35,593,1,2026-04-04,Se rompió al poco tiempo
+1567,12,547,5,2024-08-07,Perfecto para uso diario
+1568,19,304,5,2024-08-13,Perfecto para uso diario
+1569,53,98,3,2025-08-23,"Cumple lo básico, nada del otro mundo"
+1570,32,484,2,2025-04-26,Se rompió al poco tiempo
+1571,89,401,3,2024-10-01,
+1572,83,362,4,2024-09-22,
+1573,58,258,4,2026-04-09,Perfecto para uso diario
+1574,25,440,4,2026-03-12,Muy buena relación precio-calidad
+1575,82,266,0,2025-09-02,Se rompió al poco tiempo
+1576,58,282,4,2026-01-17,Perfecto para uso diario
+1577,20,381,1,2024-12-12,Mala calidad de materiales
+1578,89,237,4,2024-12-24,Muy buena relación precio-calidad
+1579,30,508,2,2025-07-09,
+1580,8,60,4,2024-12-29,"Excelente calidad, lo recomiendo"
+1581,70,402,3,2024-07-21,"Cumple lo básico, nada del otro mundo"
+1582,89,328,5,2025-10-02,Muy buena relación precio-calidad
+1583,78,205,4,2025-04-30,
+1584,3,533,3,2025-11-02,Es correcto por el precio
+1585,36,4,4,2026-05-04,Lo volvería a comprar
+1586,79,401,4,2026-02-04,Llegó rápido y como se describe
+1587,80,345,5,2024-09-16,Perfecto para uso diario
+1588,20,427,3,2024-08-23,Es correcto por el precio
+1589,83,162,5,2024-08-02,"Excelente calidad, lo recomiendo"
+1590,9,598,2,2025-01-11,Mala calidad de materiales
+1591,16,469,5,2025-05-24,Lo volvería a comprar
+1592,9,306,3,2024-11-30,"Cumple lo básico, nada del otro mundo"
+1593,44,231,5,2025-08-28,Perfecto para uso diario
+1594,76,468,4,2024-10-19,Superó mis expectativas
+1595,35,251,4,2024-07-22,Superó mis expectativas
+1596,5,477,4,2024-11-25,Llegó rápido y como se describe
+1597,82,569,4,2025-10-26,Superó mis expectativas
+1598,86,374,5,2024-12-07,
+1599,59,568,5,2025-06-29,Llegó rápido y como se describe
+1600,74,539,4,2026-06-28,
+1601,7,362,5,2026-03-15,Lo volvería a comprar
+1602,39,308,5,2025-05-18,
+1603,38,460,4,2026-04-13,Lo volvería a comprar
+1604,30,409,5,2026-03-29,"Excelente calidad, lo recomiendo"
+1605,53,158,5,2026-02-15,"Excelente calidad, lo recomiendo"
+1606,74,136,4,2025-06-28,Llegó rápido y como se describe
+1607,55,502,4,2026-03-01,Superó mis expectativas
+1608,48,132,4,2024-06-19,Superó mis expectativas
+1609,2,263,1,2024-09-25,Mala calidad de materiales
+1610,30,513,4,2025-09-14,Muy buena relación precio-calidad
+1611,70,135,1,2026-03-20,El envío tardó demasiado
+1612,64,495,5,2026-04-04,Lo volvería a comprar
+1613,69,412,3,2025-06-18,"Está bien, aunque tardó en llegar"
+1614,54,437,3,2025-12-18,
+1615,72,27,3,2024-12-01,Es correcto por el precio
+1616,50,444,2,2025-04-30,No llegó como esperaba
+1617,47,576,4,2024-12-05,Superó mis expectativas
+1618,64,54,4,2025-11-25,Llegó rápido y como se describe
+1619,74,180,3,2026-06-18,Es correcto por el precio
+1620,80,592,5,2025-07-10,
+1621,52,261,4,2025-08-30,Muy buena relación precio-calidad
+1622,27,323,4,2024-07-27,Perfecto para uso diario
+1623,59,27,5,2025-04-04,Superó mis expectativas
+1624,80,137,4,2025-07-03,Perfecto para uso diario
+1625,19,602,5,2026-01-30,Muy buena relación precio-calidad
+1626,15,514,4,2026-05-20,Superó mis expectativas
+1627,6,502,3,2026-06-14,
+1628,11,459,4,2025-06-28,
+1629,23,164,1,2025-02-11,El envío tardó demasiado
+1630,17,223,4,2025-05-18,Muy buena relación precio-calidad
+1631,4,319,2,2025-05-11,El envío tardó demasiado
+1632,81,112,3,2024-06-24,"Cumple lo básico, nada del otro mundo"
+1633,83,27,4,2024-12-11,Lo volvería a comprar
+1634,43,268,4,2025-04-17,"Excelente calidad, lo recomiendo"
+1635,50,328,4,2025-01-12,Superó mis expectativas
+1636,78,332,1,2024-11-28,
+1637,79,494,4,2024-11-04,"Excelente calidad, lo recomiendo"
+1638,85,197,5,2026-05-11,Llegó rápido y como se describe
+1639,52,104,4,2025-11-05,Lo volvería a comprar
+1640,68,592,5,2026-02-05,Perfecto para uso diario
+1641,3,425,4,2025-12-13,"Excelente calidad, lo recomiendo"
+1642,17,229,5,2024-08-01,Muy buena relación precio-calidad
+1643,8,507,2,2026-04-07,El envío tardó demasiado
+1644,70,56,5,2025-11-28,Lo volvería a comprar
+1645,41,552,5,2024-09-11,Llegó rápido y como se describe
+1646,59,496,4,2024-12-13,Perfecto para uso diario
+1647,64,341,2,2026-05-13,No lo recomiendo
+1648,94,258,5,2026-01-13,Superó mis expectativas
+1649,7,236,4,2026-06-20,Superó mis expectativas
+1650,66,4,5,2024-09-01,Muy buena relación precio-calidad
+1651,25,169,5,2026-05-12,Superó mis expectativas
+1652,83,320,5,2024-06-09,Muy buena relación precio-calidad
+1653,27,145,5,2026-05-15,Perfecto para uso diario
+1654,50,374,4,2026-05-12,Llegó rápido y como se describe
+1655,34,576,4,2025-01-21,Muy buena relación precio-calidad
+1656,12,66,5,2025-03-17,Superó mis expectativas
+1657,63,225,3,2026-05-27,Es correcto por el precio
+1658,43,430,2,2024-08-28,Mala calidad de materiales
+1659,20,119,5,2024-11-05,Muy buena relación precio-calidad
+1660,90,409,5,2024-07-20,Llegó rápido y como se describe
+1661,92,210,5,2025-05-07,Superó mis expectativas
+1662,35,127,5,2025-01-02,
+1663,73,503,5,2025-01-19,Llegó rápido y como se describe
+1664,92,6,5,2024-09-14,Muy buena relación precio-calidad
+1665,71,593,3,2024-12-24,"Cumple lo básico, nada del otro mundo"
+1666,19,78,5,2025-09-19,"Excelente calidad, lo recomiendo"
+1667,42,43,3,2025-07-25,"Cumple lo básico, nada del otro mundo"
+1668,80,306,3,2025-10-29,"Está bien, aunque tardó en llegar"
+1669,36,344,3,2024-09-28,Es correcto por el precio
+1670,88,150,4,2025-12-08,Superó mis expectativas
+1671,93,248,2,2024-07-11,Mala calidad de materiales
+1672,55,201,5,2025-11-30,Superó mis expectativas
+1673,47,402,5,2024-10-15,Lo volvería a comprar
+1674,53,357,5,2024-11-09,
+1675,90,340,3,2024-09-21,"Está bien, aunque tardó en llegar"
+1676,51,484,5,2026-02-19,Superó mis expectativas
+1677,28,275,2,2024-10-12,
+1678,69,533,2,2025-01-04,No lo recomiendo
+1679,42,186,3,2025-04-24,Es correcto por el precio
+1680,38,364,1,2025-04-27,Se rompió al poco tiempo
+1681,43,527,5,2026-03-10,Perfecto para uso diario
+1682,50,588,2,2025-12-14,El envío tardó demasiado
+1683,70,593,4,2025-12-10,Muy buena relación precio-calidad
+1684,1,406,1,2026-01-15,No llegó como esperaba
+1685,47,315,1,2024-10-14,No llegó como esperaba
+1686,68,588,4,2024-06-01,Superó mis expectativas
+1687,25,53,4,2024-09-01,Muy buena relación precio-calidad
+1688,21,594,3,2025-07-02,"Está bien, aunque tardó en llegar"
+1689,45,145,4,2025-05-28,Llegó rápido y como se describe
+1690,13,148,5,2026-01-24,
+1691,29,147,4,2024-10-22,Perfecto para uso diario
+1692,72,522,5,2026-05-08,"Excelente calidad, lo recomiendo"
+1693,11,433,3,2024-10-19,
+1694,15,91,5,2025-04-30,Muy buena relación precio-calidad
+1695,40,527,6,2025-07-23,
+1696,87,73,4,2024-06-04,
+1697,62,497,5,2025-10-15,
+1698,80,343,5,2026-03-12,
+1699,25,506,3,2025-02-05,Es correcto por el precio
+1700,87,306,1,2024-06-21,No llegó como esperaba
+1701,57,570,4,2026-05-26,Perfecto para uso diario
+1702,27,318,3,2025-05-12,"Está bien, aunque tardó en llegar"
+1703,11,161,4,2024-08-24,Llegó rápido y como se describe
+1704,56,550,5,2025-08-24,Muy buena relación precio-calidad
+1705,52,514,5,2025-02-03,Llegó rápido y como se describe
+1706,20,36,4,2024-09-05,Superó mis expectativas
+1707,46,196,2,2026-01-14,
+1708,68,484,5,2024-08-08,Muy buena relación precio-calidad
+1709,66,481,5,2026-03-06,Perfecto para uso diario
+1710,90,234,5,2025-07-05,Superó mis expectativas
+1711,30,92,4,2025-07-03,Muy buena relación precio-calidad
+1712,4,521,5,2025-01-30,Llegó rápido y como se describe
+1713,81,204,5,2025-08-17,Perfecto para uso diario
+1714,92,459,5,2024-10-31,Llegó rápido y como se describe
+1715,33,606,5,2024-11-17,
+1716,30,142,6,2024-08-13,Lo volvería a comprar
+1717,79,296,4,2026-01-24,Llegó rápido y como se describe
+1718,33,380,1,2026-05-21,El envío tardó demasiado
+1719,86,537,3,2025-08-14,Es correcto por el precio
+1720,26,284,5,2025-11-17,Perfecto para uso diario
+1721,20,348,4,2025-04-24,Superó mis expectativas
+1722,77,454,4,2025-04-03,Perfecto para uso diario
+1723,39,151,3,2026-05-11,Es correcto por el precio
+1724,49,159,4,2024-07-27,Muy buena relación precio-calidad
+1725,32,28,5,2024-11-12,Muy buena relación precio-calidad
+1726,51,397,6,2026-06-06,
+1727,28,493,5,2025-03-18,Superó mis expectativas
+1728,93,230,4,2024-12-07,Muy buena relación precio-calidad
+1729,23,264,3,2026-05-10,"Cumple lo básico, nada del otro mundo"
+1730,69,504,5,2024-09-17,Llegó rápido y como se describe
+1731,65,149,4,2025-03-14,Perfecto para uso diario
+1732,71,473,4,2025-03-21,Perfecto para uso diario
+1733,65,76,4,2024-07-09,Superó mis expectativas
+1734,16,182,5,2024-09-01,
+1735,5,573,4,2024-12-10,Llegó rápido y como se describe
+1736,67,403,4,2024-08-13,"Excelente calidad, lo recomiendo"
+1737,21,283,4,2025-07-02,Muy buena relación precio-calidad
+1738,79,199,5,2025-12-01,Perfecto para uso diario
+1739,41,72,5,2025-02-25,"Excelente calidad, lo recomiendo"
+1740,17,515,1,2025-08-06,Se rompió al poco tiempo
+1741,62,8,2,2025-06-20,Mala calidad de materiales
+1742,20,246,3,2024-07-02,"Está bien, aunque tardó en llegar"
+1743,32,574,2,2025-12-06,No lo recomiendo
+1744,50,141,5,2025-01-18,Muy buena relación precio-calidad
+1745,9,167,6,2025-12-11,Lo volvería a comprar
+1746,29,565,4,2025-06-08,Llegó rápido y como se describe
+1747,7,348,5,2025-04-20,"Excelente calidad, lo recomiendo"
+1748,3,409,5,2024-06-13,Muy buena relación precio-calidad
+1749,6,593,4,2025-02-23,Llegó rápido y como se describe
+1750,84,516,2,2026-03-04,No lo recomiendo
+1751,20,384,5,2024-09-22,"Excelente calidad, lo recomiendo"
+1752,50,413,5,2024-11-12,Lo volvería a comprar
+1753,90,187,4,2025-02-19,Lo volvería a comprar
+1754,51,359,5,2026-01-25,Perfecto para uso diario
+1755,92,494,4,2025-06-10,Muy buena relación precio-calidad
+1756,71,193,5,2026-06-29,"Excelente calidad, lo recomiendo"
+1757,72,226,3,2026-03-17,"Está bien, aunque tardó en llegar"
+1758,26,290,4,2024-07-24,Llegó rápido y como se describe
+1759,19,441,5,2025-03-02,Muy buena relación precio-calidad
+1760,56,67,2,2025-05-25,El envío tardó demasiado
+1761,10,419,5,2025-06-28,Muy buena relación precio-calidad
+1762,48,450,4,2025-08-02,"Excelente calidad, lo recomiendo"
+1763,94,78,4,2026-04-24,Lo volvería a comprar
+1764,13,292,5,2024-06-18,Superó mis expectativas
+1765,70,30,3,2026-06-19,Es correcto por el precio
+1766,64,208,1,2026-02-19,El envío tardó demasiado
+1767,75,313,4,2024-11-04,"Excelente calidad, lo recomiendo"
+1768,48,401,4,2026-05-11,Lo volvería a comprar
+1769,26,567,4,2025-04-07,Llegó rápido y como se describe
+1770,3,402,5,2025-04-07,Muy buena relación precio-calidad
+1771,74,363,5,2026-06-10,Superó mis expectativas
+1772,9,351,5,2026-01-13,Lo volvería a comprar
+1773,83,135,4,2025-08-09,"Excelente calidad, lo recomiendo"
+1774,3,129,5,2024-11-13,Superó mis expectativas
+1775,52,221,4,2026-05-30,Perfecto para uso diario
+1776,37,512,3,2026-01-13,"Está bien, aunque tardó en llegar"
+1777,60,393,4,2025-03-30,
+1778,11,494,4,2024-07-10,Lo volvería a comprar
+1779,82,589,5,2026-03-08,
+1780,63,324,4,2025-03-17,
+1781,7,157,2,2025-06-28,Mala calidad de materiales
+1782,54,430,5,2025-09-09,Lo volvería a comprar
+1783,31,220,3,2025-06-24,"Cumple lo básico, nada del otro mundo"
+1784,26,67,4,2024-11-26,Muy buena relación precio-calidad
+1785,75,513,5,2024-07-18,"Excelente calidad, lo recomiendo"
+1786,72,460,3,2025-06-15,"Está bien, aunque tardó en llegar"
+1787,82,309,5,2024-06-16,"Excelente calidad, lo recomiendo"
+1788,70,217,5,2025-02-17,Perfecto para uso diario
+1789,11,392,4,2026-05-04,"Excelente calidad, lo recomiendo"
+1790,1,442,5,2025-05-22,Llegó rápido y como se describe
+1791,26,52,1,2025-09-24,No lo recomiendo
+1792,69,344,4,2024-10-08,Perfecto para uso diario
+1793,3,395,5,2026-04-27,Lo volvería a comprar
+1794,83,463,4,2025-03-06,Llegó rápido y como se describe
+1795,11,520,6,2024-10-26,"Excelente calidad, lo recomiendo"
+1796,94,563,4,2024-08-09,
+1797,93,440,4,2026-03-20,"Excelente calidad, lo recomiendo"
+1798,92,572,3,2025-07-03,
+1799,56,496,2,2025-02-27,El envío tardó demasiado
+1800,65,232,5,2025-06-09,Lo volvería a comprar
+1801,1,99,4,2025-12-11,
+1802,29,433,5,2024-11-19,Llegó rápido y como se describe
+1803,5,557,4,2024-06-29,
+1804,3,373,1,2025-06-26,Mala calidad de materiales
+1805,34,497,4,2025-11-25,
+1806,35,407,1,2025-12-24,Mala calidad de materiales
+1807,57,310,1,2026-01-02,Se rompió al poco tiempo
+1808,40,320,4,2025-09-22,Muy buena relación precio-calidad
+1809,50,92,5,2024-12-08,"Excelente calidad, lo recomiendo"
+1810,31,598,5,2024-06-11,"Excelente calidad, lo recomiendo"
+1811,76,495,5,2024-12-16,Llegó rápido y como se describe
+1812,51,348,5,2024-06-05,Lo volvería a comprar
+1813,49,488,5,2025-05-06,
+1814,15,230,5,2026-04-27,"Excelente calidad, lo recomiendo"
+1815,35,350,5,2026-04-13,Superó mis expectativas
+1816,77,85,4,2025-03-05,Llegó rápido y como se describe
+1817,5,90,5,2024-08-02,Muy buena relación precio-calidad
+1818,30,114,2,2025-07-09,Se rompió al poco tiempo
+1819,63,191,3,2025-11-05,"Está bien, aunque tardó en llegar"
+1820,94,25,5,2025-11-11,
+1821,13,581,4,2026-02-09,Perfecto para uso diario
+1822,21,186,3,2025-03-05,"Está bien, aunque tardó en llegar"
+1823,34,29,5,2024-08-27,Muy buena relación precio-calidad
+1824,23,132,3,2025-10-16,"Está bien, aunque tardó en llegar"
+1825,36,554,4,2025-12-27,Llegó rápido y como se describe
+1826,44,603,2,2024-08-16,No llegó como esperaba
+1827,22,287,4,2025-05-19,"Excelente calidad, lo recomiendo"
+1828,8,540,5,2024-09-25,Superó mis expectativas
+1829,1,539,4,2025-05-15,Llegó rápido y como se describe
+1830,92,315,4,2025-02-27,Llegó rápido y como se describe
+1831,89,367,4,2025-08-16,Muy buena relación precio-calidad
+1832,48,595,3,2025-10-18,Es correcto por el precio
+1833,62,590,6,2026-05-27,Superó mis expectativas
+1834,79,551,5,2024-08-13,"Excelente calidad, lo recomiendo"
+1835,19,88,5,2024-07-23,Llegó rápido y como se describe
+1836,93,74,4,2026-05-08,Superó mis expectativas
+1837,64,55,3,2024-08-21,"Cumple lo básico, nada del otro mundo"
+1838,54,166,2,2024-06-14,No lo recomiendo
+1839,24,20,5,2026-01-14,"Excelente calidad, lo recomiendo"
+1840,29,126,5,2025-02-17,"Excelente calidad, lo recomiendo"
+1841,32,93,5,2025-11-11,Lo volvería a comprar
+1842,7,494,5,2026-01-24,
+1843,70,532,4,2025-09-05,
+1844,6,310,3,2025-09-24,Es correcto por el precio
+1845,3,602,1,2025-10-09,El envío tardó demasiado
+1846,37,162,5,2026-06-25,"Excelente calidad, lo recomiendo"
+1847,60,543,5,2025-02-07,Lo volvería a comprar
+1848,9,193,5,2025-04-12,"Excelente calidad, lo recomiendo"
+1849,92,472,5,2025-12-03,Perfecto para uso diario
+1850,90,125,5,2025-03-15,Llegó rápido y como se describe
+1851,27,267,3,2026-06-05,Es correcto por el precio
+1852,47,340,0,2026-03-11,No llegó como esperaba
+1853,1,536,5,2025-04-29,
+1854,78,610,4,2025-07-12,
+1855,58,138,5,2025-10-25,Superó mis expectativas
+1856,43,242,5,2025-12-13,"Excelente calidad, lo recomiendo"
+1857,56,550,3,2025-03-09,"Está bien, aunque tardó en llegar"
+1858,92,115,1,2024-09-30,El envío tardó demasiado
+1859,78,533,4,2025-02-17,Muy buena relación precio-calidad
+1860,26,93,4,2026-05-14,Muy buena relación precio-calidad
+1861,10,398,4,2026-02-20,"Excelente calidad, lo recomiendo"
+1862,81,278,5,2026-02-04,Perfecto para uso diario
+1863,74,186,3,2026-05-13,
+1864,79,15,2,2025-11-13,Se rompió al poco tiempo
+1865,41,166,3,2025-09-19,"Cumple lo básico, nada del otro mundo"
+1866,8,392,5,2025-03-31,Superó mis expectativas
+1867,89,594,1,2025-05-28,Mala calidad de materiales
+1868,84,578,4,2025-03-07,Llegó rápido y como se describe
+1869,78,370,5,2024-09-25,Llegó rápido y como se describe
+1870,9,419,5,2025-03-02,
+1871,24,283,4,2025-05-31,"Excelente calidad, lo recomiendo"
+1872,64,565,4,2025-10-22,Superó mis expectativas
+1873,21,55,4,2025-10-23,"Excelente calidad, lo recomiendo"
+1874,71,280,3,2026-06-26,"Está bien, aunque tardó en llegar"
+1875,55,324,4,2025-06-04,Perfecto para uso diario
+1876,77,167,0,2025-02-28,El envío tardó demasiado
+1877,77,412,4,2025-02-28,
+1878,51,531,5,2025-04-04,Llegó rápido y como se describe
+1879,21,528,3,2024-06-06,Es correcto por el precio
+1880,4,76,2,2025-12-06,El envío tardó demasiado
+1881,84,195,4,2026-06-17,"Excelente calidad, lo recomiendo"
+1882,5,30,5,2026-03-05,Perfecto para uso diario
+1883,22,208,4,2025-07-23,
+1884,70,440,2,2025-02-05,El envío tardó demasiado
+1885,8,424,4,2024-07-03,Muy buena relación precio-calidad
+1886,10,525,5,2026-03-22,Superó mis expectativas
+1887,31,363,1,2025-11-07,No lo recomiendo
+1888,59,301,2,2024-11-16,No lo recomiendo
+1889,53,229,5,2025-07-23,
+1890,24,229,4,2026-06-16,"Excelente calidad, lo recomiendo"
+1891,74,138,5,2025-12-24,Llegó rápido y como se describe
+1892,74,72,3,2025-04-27,
+1893,59,88,4,2026-03-19,
+1894,59,589,4,2025-05-07,
+1895,28,37,4,2026-06-29,Perfecto para uso diario
+1896,52,528,4,2024-12-20,Muy buena relación precio-calidad
+1897,50,281,4,2025-04-28,Muy buena relación precio-calidad
+1898,27,489,3,2024-06-11,"Cumple lo básico, nada del otro mundo"
+1899,1,279,4,2025-07-20,Llegó rápido y como se describe
+1900,84,181,4,2024-07-18,"Excelente calidad, lo recomiendo"
+1901,82,539,5,2026-01-29,
+1902,1,112,2,2024-10-16,No llegó como esperaba
+1903,93,515,2,2026-04-04,
+1904,50,357,4,2025-01-29,
+1905,5,267,5,2026-04-07,Superó mis expectativas
+1906,59,377,2,2025-02-01,Se rompió al poco tiempo
+1907,34,439,5,2026-04-29,Lo volvería a comprar
+1908,39,470,5,2024-07-07,"Excelente calidad, lo recomiendo"
+1909,40,592,1,2024-09-02,Mala calidad de materiales
+1910,78,232,4,2024-09-12,
+1911,48,305,2,2025-11-04,No lo recomiendo
+1912,43,446,1,2025-12-29,Se rompió al poco tiempo
+1913,35,322,5,2026-01-01,Superó mis expectativas
+1914,47,378,4,2024-08-08,Llegó rápido y como se describe
+1915,3,47,5,2025-05-02,Llegó rápido y como se describe
+1916,4,301,1,2024-06-27,El envío tardó demasiado
+1917,76,277,3,2024-09-20,
+1918,24,44,4,2024-11-26,
+1919,18,305,5,2026-04-21,Lo volvería a comprar
+1920,47,475,4,2025-01-03,
+1921,92,246,5,2024-07-11,Perfecto para uso diario
+1922,29,323,4,2025-07-05,
+1923,57,478,3,2026-01-28,"Está bien, aunque tardó en llegar"
+1924,88,373,5,2025-11-29,Muy buena relación precio-calidad
+1925,41,332,5,2025-05-15,"Excelente calidad, lo recomiendo"
+1926,14,299,3,2025-03-23,"Cumple lo básico, nada del otro mundo"
+1927,17,294,3,2025-11-07,"Está bien, aunque tardó en llegar"
+1928,52,34,4,2024-09-30,Muy buena relación precio-calidad
+1929,20,372,5,2024-07-22,Lo volvería a comprar
+1930,49,593,3,2025-05-06,Es correcto por el precio
+1931,88,50,2,2024-06-18,No lo recomiendo
+1932,55,207,4,2025-05-07,Muy buena relación precio-calidad
+1933,81,329,5,2024-12-03,Lo volvería a comprar
+1934,31,495,1,2025-02-16,El envío tardó demasiado
+1935,65,64,4,2025-07-11,Lo volvería a comprar
+1936,41,56,4,2025-01-29,Muy buena relación precio-calidad
+1937,4,187,4,2026-03-12,Superó mis expectativas
+1938,16,283,3,2025-05-14,"Cumple lo básico, nada del otro mundo"
+1939,26,439,4,2025-01-17,
+1940,14,127,1,2026-01-06,
+1941,81,295,4,2024-12-10,Muy buena relación precio-calidad
+1942,28,22,5,2025-08-22,Llegó rápido y como se describe
+1943,16,426,4,2025-04-27,Superó mis expectativas
+1944,25,589,1,2026-03-15,Se rompió al poco tiempo
+1945,24,228,3,2026-03-04,
+1946,20,77,5,2024-09-29,Perfecto para uso diario
+1947,6,223,4,2026-06-15,
+1948,5,457,5,2025-12-25,Lo volvería a comprar
+1949,67,97,5,2025-12-18,Superó mis expectativas
+1950,89,427,5,2025-11-04,Perfecto para uso diario
+1951,26,201,5,2024-07-04,Lo volvería a comprar
+1952,29,546,2,2024-10-22,Se rompió al poco tiempo
+1953,6,111,5,2025-06-04,Muy buena relación precio-calidad
+1954,77,236,4,2025-11-12,Lo volvería a comprar
+1955,62,252,4,2026-01-28,Muy buena relación precio-calidad
+1956,63,183,5,2024-06-13,"Excelente calidad, lo recomiendo"
+1957,44,238,5,2025-03-16,Lo volvería a comprar
+1958,3,37,3,2024-07-07,
+1959,93,139,4,2025-07-14,"Excelente calidad, lo recomiendo"
+1960,63,235,4,2025-06-08,Muy buena relación precio-calidad
+1961,45,98,5,2026-05-22,Superó mis expectativas
+1962,49,94,4,2025-08-04,Llegó rápido y como se describe
+1963,30,422,4,2024-06-04,Muy buena relación precio-calidad
+1964,90,92,2,2024-07-25,Mala calidad de materiales
+1965,51,283,4,2025-04-26,Perfecto para uso diario
+1966,34,539,4,2025-02-28,Llegó rápido y como se describe
+1967,63,347,5,2025-10-14,Lo volvería a comprar
+1968,1,372,5,2025-06-02,Superó mis expectativas
+1969,29,214,4,2024-12-14,Muy buena relación precio-calidad
+1970,78,76,4,2024-07-02,"Excelente calidad, lo recomiendo"
+1971,23,23,5,2024-10-14,Superó mis expectativas
+1972,4,399,5,2024-10-15,Muy buena relación precio-calidad
+1973,48,483,4,2024-09-22,
+1974,65,319,4,2025-10-09,Perfecto para uso diario
+1975,63,260,5,2024-10-31,"Excelente calidad, lo recomiendo"
+1976,80,263,2,2025-03-22,El envío tardó demasiado
+1977,73,89,3,2025-08-22,"Cumple lo básico, nada del otro mundo"
+1978,68,302,5,2025-10-29,Perfecto para uso diario
+1979,73,78,5,2025-01-28,Perfecto para uso diario
+1980,17,463,5,2025-04-10,Muy buena relación precio-calidad
+1981,45,4,4,2025-01-03,Llegó rápido y como se describe
+1982,78,534,4,2025-11-09,Llegó rápido y como se describe
+1983,22,607,4,2025-10-22,"Excelente calidad, lo recomiendo"
+1984,58,237,4,2025-07-05,Llegó rápido y como se describe
+1985,38,393,3,2025-08-18,"Está bien, aunque tardó en llegar"
+1986,32,101,2,2025-06-17,Mala calidad de materiales
+1987,93,76,5,2024-09-04,Muy buena relación precio-calidad
+1988,75,364,5,2024-11-15,Llegó rápido y como se describe
+1989,94,575,4,2025-11-03,Perfecto para uso diario
+1990,23,238,3,2024-09-12,"Cumple lo básico, nada del otro mundo"
+1991,75,337,5,2026-06-08,Muy buena relación precio-calidad
+1992,37,371,4,2025-09-24,Superó mis expectativas
+1993,14,58,5,2026-04-01,Llegó rápido y como se describe
+1994,36,482,2,2024-07-29,
+1995,11,285,3,2025-06-02,"Está bien, aunque tardó en llegar"
+1996,91,352,5,2025-06-19,
+1997,57,238,5,2024-08-08,Superó mis expectativas
+1998,34,520,4,2025-11-26,"Excelente calidad, lo recomiendo"
+1999,48,577,2,2025-05-28,Se rompió al poco tiempo
+2000,12,450,3,2025-02-12,
